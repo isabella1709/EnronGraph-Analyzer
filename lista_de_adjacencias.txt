@@ -1,0 +1,1720 @@
+jons@amerexenergy.com: ('sandra.f.brawner@enron.com', 14) -> ('sschnitz@jcpenney.com', 3) -> ('f..brawner@enron.com', 2) -> ('harry.schnitzer@enron.com', 1)
+sandra.f.brawner@enron.com:
+enron.announcements@enron.com: ('all.houston@enron.com', 3) -> ('all.worldwide@enron.com', 52) -> ('eligible.employees@enron.com', 12) -> ('enron.states@enron.com', 3) -> ('enron.mail@enron.com', 3) -> ('all.employees@enron.com', 5) -> ('houston.report@enron.com', 3) -> ('enron.services@enron.com', 3) -> ('the.mailout@enron.com', 8) -> ('all.states@enron.com', 12) -> ('enron.operations@enron.com', 2) -> ('enw-employees_houston@enron.com', 1)
+all.houston@enron.com:
+sandra.brawner@enron.com: ('kennethbrawner@msn.com', 59) -> ('jons@amerexenergy.com', 92) -> ('ragan.bond@enron.com', 10) -> ('pama9@flash.net', 52) -> ('brian.hoskins@enron.com', 5) -> ('s.schnitzer@worldnet.att.net', 59) -> ('jared.kaiser@enron.com', 6) -> ('kennethbrawner@email.msn.com', 16) -> ('jeffrey.shankman@enron.com', 17) -> ('brad.mckay@enron.com', 3) -> ('jesus.guerra@enron.com', 3) -> ('parking.transportation@enron.com', 3) -> ('jons@amerexyenergy.com', 4) -> ('rrussin@natsource.com', 3) -> ('kimberly.brown@enron.com', 6) -> ('ina.rangel@enron.com', 3) -> ('louis.dicarlo@enron.com', 3) -> ('ksmalek@aep.com', 3) -> ('tk.lohman@enron.com', 6) -> ('john.griffith@enron.com', 4) -> ('david.delainey@enron.com', 4) -> ('louise.kitchen@enron.com', 4) -> ('stouchstone@natsource.com', 21) -> ('matthew.fleming@enron.com', 3) -> ('waltonw@epenergy.com', 3) -> ('tricia.spence@enron.com', 3) -> ('kennethbrawner@mns.com', 5) -> ('jons@amerexenergy', 8) -> ('jons@amerex.com', 4) -> ('byoung@prebon.com', 12) -> ('tammi.depaolis@enron.com', 7) -> ('mfortuna@tfsbrokers.com', 3) -> ('russell.diamond@enron.com', 3) -> ('lucy.marshall@enron.com', 3) -> ('lesli.campbell@enron.com', 9) -> ('colleen.sullivan@enron.com', 3) -> ('afinch@natsource.com', 4) -> ('melba.lozano@enron.com', 3) -> ('kate.fraser@enron.com', 3) -> ('brent.spiller@enron.com', 6) -> ('clare.santana@gte.net', 3) -> ('scott.neal@enron.com', 3) -> ('megan.angelos@enron.com', 3)
+kennethbrawner@msn.com:
+perfmgmt@enron.com: ('sandra.f.brawner@enron.com', 3) -> ('f..brawner@enron.com', 2) -> ('brawner@enron.com', 1) -> ('jderric@enron.com', 1) -> ('derrick.jr.@enron.com', 2) -> ('drew_fossum@enron.com', 3) -> ('darron.c.giron@enron.com', 1)
+jared.kaiser@enron.com: ('kam.keiser@enron.com', 3)
+kam.keiser@enron.com:
+michael.garberding@enron.com: ('cris.sherman@enron.com', 3)
+cris.sherman@enron.com:
+ragan.bond@enron.com:
+outlook.team@enron.com: ('ann.vaughn@enron.com', 3)
+ann.vaughn@enron.com:
+pama9@flash.net: ('f..brawner@enron.com', 1) -> ('kennedy.kathleen@enron.com', 1) -> ('herzer.amanda@enron.com', 1) -> ('caldwell.sue@enron.com', 1)
+brian.hoskins@enron.com: ('bthoskins@hotmail.com', 1)
+s.schnitzer@worldnet.att.net: ('sbrawne@ect.enron.com', 1) -> ('pama9@flash.net', 2) -> ('tdepaoli@sequentenergy.com', 1) -> ('tlyons@iona.com', 1)
+kennethbrawner@email.msn.com:
+jeffrey.shankman@enron.com: ('sandra.brawner@enron.com', 2)
+brad.mckay@enron.com:
+all.worldwide@enron.com:
+jesus.guerra@enron.com:
+parking.transportation@enron.com:
+jons@amerexyenergy.com:
+airam.arteaga@enron.com: ('sandra.brawner@enron.com', 3) -> ('martin.cuilla@enron.com', 5) -> ('airam.arteaga@enron.com', 1)
+rrussin@natsource.com:
+kimberly.brown@enron.com: ('scott.neal@enron.com', 6)
+ina.rangel@enron.com: ('tom.donohoe@enron.com', 3)
+colleen.sullivan@enron.com: ('phillip.allen@enron.com', 3)
+phillip.allen@enron.com:
+louis.dicarlo@enron.com:
+ksmalek@aep.com: ('martin_cuilla@enron.com', 3) -> ('martin.cuilla@enron.com', 3)
+tk.lohman@enron.com: ('f..brawner@enron.com', 1) -> ('lindy.donoho@enron.com', 3) -> ('lorraine.lindberg@enron.com', 1)
+john.griffith@enron.com:
+russ.severson@enron.com: ('scott.mills@enron.com', 3)
+scott.mills@enron.com:
+david.delainey@enron.com: ('david.delainey@enron.com', 1)
+louise.kitchen@enron.com: ('c..bland@enron.com', 1) -> ('rob.milnthorp@enron.com', 2)
+stouchstone@natsource.com: ('sandra.f.brawner@enron.com', 15)
+matthew.fleming@enron.com:
+waltonw@epenergy.com:
+tricia.spence@enron.com:
+tammi.depaolis@enron.com: ('kimberly.brown@enron.com', 3) -> ('sandra.brawner@enron.com', 1)
+kennethbrawner@mns.com:
+jons@amerexenergy:
+jons@amerex.com:
+byoung@prebon.com: ('f..brawner@enron.com', 1)
+andrea.ring@enron.com: ('sandra.brawner@enron.com', 8) -> ('f..brawner@enron.com', 1)
+public.relations@enron.com: ('all.houston@enron.com', 6) -> ('all.worldwide@enron.com', 3)
+sean.boyle@enron.com: ('scott.neal@enron.com', 3)
+scott.neal@enron.com: ('andrea.ring@enron.com', 3) -> ('kelli.little@enron.com', 1) -> ('f..brawner@enron.com', 2)
+eligible.employees@enron.com:
+sschnitz@jcpenney.com:
+prebonenergy@corporateecards.com: ('sandra.f.brawner@enron.com', 3)
+tom.donohoe@enron.com:
+mfortuna@tfsbrokers.com:
+jennifer.fraser@enron.com: ('sandra.brawner@enron.com', 3)
+russell.diamond@enron.com:
+kenny.soignet@enron.com: ('phillip.allen@enron.com', 7) -> ('janet.dietrich@enron.com', 1)
+enron.states@enron.com:
+lucy.marshall@enron.com: ('sandra.brawner@enron.com', 4)
+lesli.campbell@enron.com:
+afinch@natsource.com: ('sandra.f.brawner@enron.com', 3)
+melba.lozano@enron.com: ('casey.evans@enron.com', 2)
+teresa.bushman@enron.com: ('clement.abrams@enron.com', 3)
+clement.abrams@enron.com:
+kate.fraser@enron.com:
+brent.spiller@enron.com:
+clare.santana@gte.net:
+mathew.gimble@enron.com: ('david.fairley@enron.com', 3)
+david.fairley@enron.com:
+office.chairman@enron.com: ('all.worldwide@enron.com', 9)
+kimat.singla@enron.com: ('sandra.brawner@enron.com', 6) -> ('scott.neal@enron.com', 3)
+enron.mail@enron.com:
+megan.angelos@enron.com:
+all.employees@enron.com:
+houston.report@enron.com:
+adam.johnson@enron.com: ('phillip.allen@enron.com', 3) -> ('k..allen@enron.com', 5)
+enron.services@enron.com:
+amanda.rybarski@enron.com: ('amanda.rybarski@enron.com', 1) -> ('craig.taylor@enron.com', 4) -> ('scott.neal@enron.com', 1) -> ('edith.cross@enron.com', 2)
+40enron@enron.com: ('all_ena_egm_eim@enron', 3) -> ('john.ale@enron.com', 1) -> ('james.derrick@enron.com', 2) -> ('julia.murray@enron.com', 1)
+all_ena_egm_eim@enron:
+eric.boyt@enron.com: ('f..brawner@enron.com', 1)
+f..brawner@enron.com: ('scott.neal@enron.com', 2) -> ('rogers.herndon@enron.com', 2) -> ('david.oxley@enron.com', 5) -> ('louise.kitchen@enron.com', 2) -> ('greg.whalley@enron.com', 2) -> ('bkbrawner@aol.com', 3) -> ('john.lavorato@enron.com', 2) -> ('chance.rabon@enron.com', 3) -> ('daniel.diamond@enron.com', 1) -> ('suzanne.calcagno@enron.com', 1) -> ('steve.wang@enron.com', 1) -> ('cocob@pdq.net', 8) -> ('john.arnold@enron.com', 2) -> ('jons@amerexenergy.com', 2) -> ('jonathan.mckay@enron.com', 1) -> ('adrianne.engler@enron.com', 1) -> ('kennethbrawner@msn.com', 1) -> ('panderson@tradespark.com', 1) -> ('s.schnitzer@worldnet.att.net', 9) -> ('sammie@msn.com', 1) -> ('boner22@msn.com', 4) -> ('a..martin@enron.com', 1) -> ('f..keavey@enron.com', 1) -> ('tk.lohman@enron.com', 2) -> ('tom.donohoe@enron.com', 1) -> ('mike.maggi@enron.com', 2) -> ('jons@amerex.com', 1)
+sonya.johnson@enron.com: ('caroline.abramo@enron.com', 1)
+caroline.abramo@enron.com:
+matt.motsinger@enron.com: ('k..allen@enron.com', 1)
+k..allen@enron.com:
+veronica.espinoza@enron.com: ('r..brackett@enron.com', 4)
+r..brackett@enron.com:
+kimberly.bates@enron.com: ('w..pereira@enron.com', 1) -> ('chuck.ames@enron.com', 6) -> ('scott.neal@enron.com', 2) -> ('bryant.frihart@enron.com', 1) -> ('brad.mckay@enron.com', 1)
+w..pereira@enron.com:
+rumaldo.lopez@enron.com: ('chris.germany@enron.com', 1)
+chris.germany@enron.com:
+julie.clyatt@enron.com: ('darren.adamik@enron.com', 3) -> ('bill.abler@enron.com', 3)
+darren.adamik@enron.com:
+enron.announcement@enron.com: ('houston.report@enron.com', 1) -> ('ect.europe@enron.com', 3) -> ('enron.1@enron.com', 3) -> ('enron.committee@enron.com', 3)
+enron.chairman@enron.com: ('enron.services@enron.com', 1)
+henry.safety@enron.com: ('all.worldwide@enron.com', 1)
+general.announcement@enron.com: ('all.houston@enron.com', 1)
+victor.lamadrid@enron.com: ('l..kelly@enron.com', 7) -> ('robert.allwein@enron.com', 3) -> ('chuck.ames@enron.com', 16) -> ('natalie.baker@enron.com', 2) -> ('shanna.boudreaux@enron.com', 1) -> ('chris.germany@enron.com', 1) -> ('lia.halstead@enron.com', 4) -> ('s..olinger@enron.com', 1) -> ('donna.greif@enron.com', 1) -> ('robert.superty@enron.com', 1) -> ('f..smith@enron.com', 1) -> ('robin.barbe@enron.com', 1)
+l..kelly@enron.com:
+mark.breese@enron.com: ('mark.breese@enron.com', 1) -> ('scott.neal@enron.com', 1)
+craig.taylor@enron.com: ('jeff.royed@enron.com', 1)
+jeff.royed@enron.com:
+michael.yowman@enron.com: ('esource@enron', 1)
+esource@enron:
+announcements.enron@enron.com: ('dl-ga-all_domestic@enron.com', 9) -> ('dl-ga-all_domestic2@enron.com', 2) -> ('dl-ga-all_enron_worldwide1@enron.com', 4) -> ('dl-ga-all_ees@enron.com', 1) -> ('dl-ga-all_enron_north_america@enron.com', 1) -> ('dl-ga-all_enron_houston@enron.com', 4) -> ('dl-ga-all_enron_houston_employees@enron.com', 7) -> ('dl-ga-all_enron_worldwide4@enron.com', 1) -> ('dl-ga-all_enron_worldwide5@enron.com', 1) -> ('dl-ga-all_enron_worldwide3@enron.com', 2)
+dl-ga-all_domestic@enron.com:
+steve.wang@enron.com: ('daniel.diamond@enron.com', 2)
+daniel.diamond@enron.com: ('k..allen@enron.com', 1) -> ('traders.dl-netco@enron.com', 2) -> ('martin.cuilla@enron.com', 4)
+savita.puthigai@enron.com: ('traders.eol@enron.com', 4)
+traders.eol@enron.com:
+brawner@enron.com:
+feedback@intcx.com: ('iceuserslist@list.intcx.com', 6) -> ('powerindex@list.intcx.com', 25)
+iceuserslist@list.intcx.com:
+robert.allwein@enron.com:
+chuck.ames@enron.com:
+james.hungerford@enron.com: ('chuck.ames@enron.com', 1)
+suzanne.calcagno@enron.com: ('f..brawner@enron.com', 1)
+dl-ga-all_domestic2@enron.com:
+alejandra.chavez@enron.com: ('chuck.ames@enron.com', 7)
+cocob@pdq.net: ('f..brawner@enron.com', 1)
+dl-ga-all_enron_worldwide1@enron.com:
+luchas.johnson@enron.com: ('chuck.ames@enron.com', 1)
+jr..legal@enron.com: ('dl-ga-all_enron_worldwide3@enron.com', 2) -> ('dl-ga-all_enron_worldwide1@enron.com', 2) -> ('dl-ga-all_enron_houston@enron.com', 2) -> ('dl-ga-all_enron_worldwide4@enron.com', 1)
+dl-ga-all_enron_worldwide3@enron.com:
+rogers.herndon@enron.com: ('f..brawner@enron.com', 1)
+a..martin@enron.com: ('f..brawner@enron.com', 1)
+jim.schwieger@enron.com: ('f..brawner@enron.com', 2) -> ('j..legler@enron.com', 1) -> ('fred.lagrasta@enron.com', 1) -> ('eric.bass@enron.com', 1) -> ('a..martin@enron.com', 1)
+john.arnold@enron.com: ('f..brawner@enron.com', 1)
+victoria.versen@enron.com: ('w..pereira@enron.com', 1)
+melissa.videtto@enron.com: ('chuck.ames@enron.com', 5)
+coo.jeff@enron.com: ('dl-ga-all_netco@enron.com', 2)
+dl-ga-all_netco@enron.com:
+j..legler@enron.com:
+natalie.baker@enron.com:
+sbrawne@ect.enron.com:
+mike.maggi@enron.com: ('f..brawner@enron.com', 1)
+kimberly.hillis@enron.com: ('eric.bass@enron.com', 1)
+eric.bass@enron.com:
+chance.rabon@enron.com: ('chuck.ames@enron.com', 1) -> ('f..brawner@enron.com', 4) -> ('jonathan.mckay@enron.com', 1)
+fred.lagrasta@enron.com:
+chris.walker@enron.com: ('tom.donohoe@enron.com', 2)
+kennedy.kathleen@enron.com:
+shanna.boudreaux@enron.com:
+chairman.ken@enron.com: ('dl-ga-all_enron_worldwide@enron.com', 4) -> ('dl-ga-all_enron_worldwide5@enron.com', 4) -> ('dl-ga-all_ews@enron.com', 1) -> ('dl-ga-all_enron_worldwide1@enron.com', 3)
+dl-ga-all_enron_worldwide@enron.com:
+daniel.muschar@enron.com: ('amanda.rybarski@enron.com', 1) -> ('jeffrey.jackson@enron.com', 1)
+leonidas.savvas@enron.com: ('f..brawner@enron.com', 1)
+david.oxley@enron.com: ('f..brawner@enron.com', 2) -> ('darren.adamik@enron.com', 1) -> ('bill.abler@enron.com', 1)
+dl-ga-all_enron_houston@enron.com:
+chairman.enron@enron.com: ('dl-ga-all_enron_worldwide1@enron.com', 2) -> ('dl-ga-all_enron_houston@enron.com', 2) -> ('dl-ga-all_enron_houston_employees@enron.com', 1) -> ('dl-ga-all_enron_worldwide4@enron.com', 4)
+lia.halstead@enron.com:
+tammie.schoppe@enron.com: ('k..allen@enron.com', 1) -> ('sunil.abraham@enron.com', 1)
+d..hogan@enron.com: ('scott.neal@enron.com', 1) -> ('judy.townsend@enron.com', 2) -> ('alex.villarreal@enron.com', 1) -> ('martin.cuilla@enron.com', 1) -> ('lindsay.culotta@enron.com', 1) -> ('d..hogan@enron.com', 2)
+s..olinger@enron.com:
+herzer.amanda@enron.com:
+dl-ga-all_ees@enron.com:
+dl-ga-all_enron_north_america@enron.com:
+amy.fitzpatrick@enron.com: ('jeff.richter@enron.com', 1)
+jeff.richter@enron.com:
+tdepaoli@sequentenergy.com:
+dl-ga-all_enron_worldwide4@enron.com:
+tlyons@iona.com:
+donna.greif@enron.com:
+dl-ga-all_enron_houston_employees@enron.com:
+administration.enron@enron.com: ('dl-ga-all_enron_worldwide4@enron.com', 2) -> ('maintenance.dl-exchange@enron.com', 4)
+danielle.marcinkowski@enron.com: ('rudy.acevedo@enron.com', 1)
+rudy.acevedo@enron.com:
+greetings@reply.yahoo.com: ('f..brawner@enron.com', 1)
+jonathan.mckay@enron.com: ('amiser@natsource.com', 1)
+amiser@natsource.com:
+robert.superty@enron.com:
+edward.brady@enron.com: ('chuck.ames@enron.com', 2)
+alehew@sequentenergy.com: ('andrea.ring@enron.com', 1)
+bruce.mills@enron.com: ('chuck.ames@enron.com', 1) -> ('m..love@enron.com', 1) -> ('martin.cuilla@enron.com', 1) -> ('brad.morse@enron.com', 1)
+bthoskins@hotmail.com:
+janet.dietrich@enron.com:
+john.lavorato@enron.com: ('k..allen@enron.com', 1)
+harry.schnitzer@enron.com:
+liz.taylor@enron.com: ('chris.lackey@enron.com', 2) -> ('rob.milnthorp@enron.com', 1) -> ('kenneth.lay@enron.com', 3)
+chris.lackey@enron.com:
+kelli.little@enron.com:
+georgeanne.hodges@enron.com: ('energy.dl-ga-all_ubsw@enron.com', 2)
+energy.dl-ga-all_ubsw@enron.com:
+judy.townsend@enron.com:
+f..smith@enron.com:
+kulvinder.fowler@enron.com: ('chuck.ames@enron.com', 1)
+dl-ga-all_enron_worldwide5@enron.com:
+infrastructure.ubsw@enron.com: ('energy.dl-ga-all_ubsw@enron.com', 4) -> ('canada.dl-ubsw@enron.com', 2)
+david.forster@enron.com: ('tom.alonso@enron.com', 2) -> ('traders.dl-netco@enron.com', 2)
+tom.alonso@enron.com:
+traders.dl-netco@enron.com:
+edith.cross@enron.com:
+jeanie.slone@enron.com: ('f..brawner@enron.com', 1)
+jroyed@nisource.com: ('f..brawner@enron.com', 1)
+l..mims@enron.com: ('f..brawner@enron.com', 1)
+neil.davies@enron.com: ('darren.adamik@enron.com', 1) -> ('bill.abler@enron.com', 2)
+lisa.shoemake@enron.com: ('chris.germany@enron.com', 1)
+paul.jordan@enron.com: ('k..allen@enron.com', 1)
+stephanie.sever@enron.com: ('f..brawner@enron.com', 2) -> ('mike.carson@enron.com', 1)
+caldwell.sue@enron.com:
+bryant.frihart@enron.com:
+karen.buckley@enron.com: ('k..allen@enron.com', 6) -> ('john.suarez@enron.com', 3) -> ('david.duran@enron.com', 2)
+greg.whalley@enron.com:
+adrianne.engler@enron.com: ('k..allen@enron.com', 3)
+enron.payroll@enron.com: ('f..brawner@enron.com', 1)
+c..bland@enron.com:
+bob.shults@enron.com: ('traders.dl-netco@enron.com', 2)
+r..harrington@enron.com: ('dana.davis@enron.com', 3)
+dana.davis@enron.com:
+bkbrawner@aol.com: ('f..brawner@enron.com', 1)
+a..gomez@enron.com: ('f..brawner@enron.com', 1)
+canada.dl-ubsw@enron.com:
+john.suarez@enron.com: ('mike.carson@enron.com', 5) -> ('m..presto@enron.com', 1)
+jpetriello@prebon.com: ('f..brawner@enron.com', 2) -> ('mcuilla@enron.com', 2)
+carolyn.graham@enron.com: ('f..brawner@enron.com', 1) -> ('lindy.donoho@enron.com', 1)
+dl-ga-all_ews@enron.com:
+f..keavey@enron.com: ('f..brawner@enron.com', 1)
+nyadmin@intcx.com: ('f..brawner@enron.com', 2)
+technology.enron@enron.com: ('rudy.acevedo@enron.com', 3)
+vladi.pimenov@enron.com: ('f..brawner@enron.com', 1)
+robin.barbe@enron.com:
+resources.human@enron.com: ('dl-ga-all_enron_worldwide5@enron.com', 1) -> ('dl-ga-all_enron_worldwide2@enron.com', 1) -> ('dl-ga-all_enron_worldwide1@enron.com', 2)
+panderson@tradespark.com:
+sammie@msn.com:
+boner22@msn.com:
+no.address@enron.com: ('na-incoming@enron.com', 1) -> ('corry.bentley@enron.com', 1) -> ('mike.carson@enron.com', 1) -> ('james.derrick@enron.com', 7) -> ('ebattioli@azurixbasa.com.ar', 1) -> ('mark.holsworth@enron.com', 1) -> ('j.harris@enron.com', 1) -> ('john.ale@enron.com', 1)
+na-incoming@enron.com:
+jose.favela@enron.com: ('w2kmig@enron_development', 2)
+w2kmig@enron_development:
+mike.carson@enron.com: ('carson@us.ibm.com', 34) -> ('jacksoncw10@yahoo.com', 13) -> ('trpape@aol.com', 27) -> ('jeff.king@enron.com', 9) -> ('elizabethrhood@hotmail.com', 21) -> ('tpape@satake-usa.com', 41) -> ('heather.hill@ac.com', 38) -> ('m_besch@yahoo.com', 35) -> ('mackle@mediaone.net', 6) -> ('mjmoreland@aep.com', 10) -> ('cjackson@txuenergy.com', 12) -> ('jeannie.beebe@ac.com', 3) -> ('sjbeebe@donohue.ca', 3) -> ('stephanie.sever@enron.com', 4) -> ('kenrcars@aol.com', 25) -> ('clint.dean@enron.com', 4) -> ('john.suarez@enron.com', 7) -> ('paul.broderick@enron.com', 4) -> ('rgibbs@btubrokers.com', 48) -> ('mcarson@gtemail.net', 43) -> ('chjohnson98@hotmail.com', 28) -> ('susan@metronet.com', 24) -> ('rlmichaelis@hormel.com', 20) -> ('tammie.schoppe@enron.com', 3) -> ('kim.melodick@enron.com', 4) -> ('daho@dynegy.com', 3) -> ('bobbyg@chbrokers.com', 4) -> ('cwcarso@yahoo.com', 4) -> ('anne.labbe@enron.com', 3) -> ('tamara.black@enron.com', 13) -> ('dttowns@swbell.net', 24) -> ('discostars222@yahoo.com', 4) -> ('randoo@gateway.net', 4) -> ('macharta@yahoo.com', 4) -> ('cdownard@vailresorts.com', 11) -> ('slates@qni.com', 3) -> ('ksu93@aol.com', 3) -> ('tara.sweitzer@enron.com', 8) -> ('wentapb@sprintmail.com', 6) -> ('goodmand@kochind.com', 14) -> ('kyle.schultz@enron.com', 4) -> ('traviswc@aol.com', 3) -> ('devin.c.hall@us.pwcglobal.com', 9) -> ('meridetk@kochind.com', 15) -> ('mitch.robinson@enron.com', 3) -> ('james.mairet@kwikset.com', 6) -> ('johnson@petroleumargus.com', 3) -> ('chad.starnes@enron.com', 3) -> ('john.zufferli@enron.com', 4) -> ('casey.evans@enron.com', 4) -> ('greg.woulfe@enron.com', 2) -> ('maria.valdes@enron.com', 2) -> ('doug.sewell@enron.com', 7) -> ('m..presto@enron.com', 1) -> ('hhill@houston.rr.com', 10) -> ('rogers.herndon@enron.com', 1) -> ('kenrcarson@eol.com', 1) -> ('ken.merideth@entergykoch.com', 19) -> ('craigjefferies@ckbenergy.com', 1) -> ('mikef@amerex.com', 1) -> ('david.goodman@entergykoch.com', 1) -> ('wentapb@phoenix-cement.com', 6) -> ('dgrimes@ibshouston.com', 1) -> ('jbustos@calpine.com', 1) -> ('j..sturm@enron.com', 1) -> ('reginald.hart@enron.com', 1) -> ('paul.racicot@enron.com', 2) -> ('ryan.lorei@disney.com', 1) -> ('melissa.beckett@entergykoch.com', 3) -> ('russell.ballato@enron.com', 3) -> ('chip.schneider@enron.com', 1) -> ('cjackson1@txu.com', 2) -> ('patrick.hanse@enron.com', 1) -> ('exchangeinfo@nymex.com', 1) -> ('michael.britt@constellaion.com', 3) -> ('michael.britt@constellation.com', 2) -> ('kendm@swbell.net', 1) -> ('mikef@amerexenergy.com', 2) -> ('teresa.mandola@enron.com', 1) -> ('daniel.diamond@enron.com', 1) -> ('devin.c.hall@uspwcglobal.com', 1) -> ('devin.c.hal@us.pwcglobal.com', 1) -> ('kristenm@jschmid.com', 2) -> ('jae.black@enron.com', 1) -> ('ron.tapscott@enron.com', 1) -> ('ken.merideth@axiaenergy.com', 1) -> ('njme@dynegy.com', 1) -> ('codydownard@hotmail.com', 1) -> ('chris_jackson@txu.com', 2)
+carson@us.ibm.com: ('mike.carson@enron.com', 2)
+jacksoncw10@yahoo.com:
+trpape@aol.com:
+jeff.king@enron.com:
+elizabethrhood@hotmail.com:
+tpape@satake-usa.com:
+heather.hill@ac.com:
+m_besch@yahoo.com: ('villanuevar@broncos.nfl.com', 3) -> ('mike.carson@enron.com', 4) -> ('vogel.david@enron.com', 1) -> ('handley.george@enron.com', 1)
+mackle@mediaone.net:
+mjmoreland@aep.com:
+cjackson@txuenergy.com:
+jeannie.beebe@ac.com:
+sjbeebe@donohue.ca:
+kenrcars@aol.com: ('carson@us.ibm.com', 5) -> ('cwcarso@yahoo.com', 5) -> ('kenrcars@aol.com', 1)
+clint.dean@enron.com:
+paul.broderick@enron.com:
+rgibbs@btubrokers.com:
+mcarson@gtemail.net: ('mike.carson@enron.com', 1)
+chjohnson98@hotmail.com: ('porterb@klsinc.org', 1) -> ('mike.carson@enron.com', 1)
+susan@metronet.com:
+rlmichaelis@hormel.com:
+kim.melodick@enron.com:
+daho@dynegy.com:
+bobbyg@chbrokers.com:
+cwcarso@yahoo.com: ('kenrcars@aol.com', 1) -> ('mike.carson@enron.com', 7) -> ('janc33@aol.com', 2) -> ('carson.jan@enron.com', 3) -> ('lakepeople2@juno.com', 1) -> ('hill.heather@enron.com', 1)
+anne.labbe@enron.com:
+tamara.black@enron.com: ('rudy.acevedo@enron.com', 3) -> ('mike.carson@enron.com', 3)
+dttowns@swbell.net:
+discostars222@yahoo.com:
+randoo@gateway.net:
+villanuevar@broncos.nfl.com:
+rhonda.denton@enron.com: ('tim.belden@enron.com', 3)
+tim.belden@enron.com:
+vince_v@hotmail.com: ('teustace@southwind.net', 3)
+teustace@southwind.net:
+ksu93@aol.com: ('byronjv@aol.com', 3) -> ('mbower@bellatlantic.net', 3) -> ('acken4@yahoo.com', 3)
+byronjv@aol.com:
+mbower@bellatlantic.net:
+macharta@yahoo.com: ('mike.carson@enron.com', 3)
+felicia.doan@enron.com: ('rudy.acevedo@enron.com', 6)
+wentapb@sprintmail.com: ('quigleyb@sensormatic.com', 3)
+quigleyb@sensormatic.com:
+george.hopley@enron.com: ('kevin.presto@enron.com', 3) -> ('clint.dean@enron.com', 3)
+kevin.presto@enron.com:
+acken4@yahoo.com:
+cdownard@vailresorts.com: ('mike.carson@enron.com', 3)
+slates@qni.com:
+tara.sweitzer@enron.com:
+goodmand@kochind.com:
+kyle.schultz@enron.com:
+traviswc@aol.com:
+devin.c.hall@us.pwcglobal.com: ('mike.carson@enron.com', 2)
+meridetk@kochind.com:
+mitch.robinson@enron.com:
+james.mairet@kwikset.com:
+johnson@petroleumargus.com:
+chad.starnes@enron.com:
+john.zufferli@enron.com:
+casey.evans@enron.com:
+greg.woulfe@enron.com: ('john.mee@williams.com', 1)
+powerprices@amerexenergy.com: ('heinecke.justin@enron.com', 2) -> ('stenberg.steve@enron.com', 6) -> ('jeff.king@enron.com', 6) -> ('garrison.matt@enron.com', 2) -> ('schwertner.brandon@enron.com', 4) -> ('tingleaf.drew@enron.com', 8) -> ('forester.dh@enron.com', 8) -> ('myers.je@enron.com', 2) -> ('tomson.l@enron.com', 4) -> ('b.stephanie@enron.com', 2) -> ('farrar.james2@enron.com', 7) -> ('zrothman@enron.com', 3) -> ('grail.mc@enron.com', 3) -> ('bgannaway@enron.com', 3) -> ('kelly.dr@enron.com', 1) -> ('woodard.bill@enron.com', 2) -> ('wallat.christine@enron.com', 1) -> ('ferrari.scott@enron.com', 2) -> ('bergamini.chris@enron.com', 2)
+heinecke.justin@enron.com:
+stenberg.steve@enron.com:
+garrison.matt@enron.com:
+schwertner.brandon@enron.com:
+tingleaf.drew@enron.com:
+forester.dh@enron.com:
+myers.je@enron.com:
+tomson.l@enron.com:
+b.stephanie@enron.com:
+mwright@prebon.com: ('mike.carson@enron.com', 4)
+farrar.james2@enron.com:
+zrothman@enron.com:
+grail.mc@enron.com:
+bgannaway@enron.com:
+kelly.dr@enron.com:
+woodard.bill@enron.com:
+wallat.christine@enron.com:
+ferrari.scott@enron.com:
+bryan.garrett@enron.com: ('bryan.garrett@enron.com', 1)
+rika.imai@enron.com: ('rika.imai@enron.com', 1) -> ('harry.arora@enron.com', 1) -> ('mike.carson@enron.com', 1)
+zombiwoman@mail.com: ('0889@netscape.com', 1)
+0889@netscape.com:
+sportsline_newsletters@sportsline.com: ('mike.carson@enron.com', 1)
+j.nesmith@prodigy.net: ('j.nesmith@prodigy.net', 21)
+seareel@stpaulshouston.org: ('amy.wood@enron.com', 1) -> ('dale.wesley@enron.com', 4) -> ('thomson.vanessa@enron.com', 1)
+amy.wood@enron.com:
+russell.ballato@enron.com: ('mike.carson@enron.com', 1)
+zljp06a@prodigy.com: ('2361@csi.com', 1)
+2361@csi.com:
+2.3990.67-w9-goqgvriak.1@cda01.cdnow.com: ('mike.carson@enron.com', 1)
+ecenter@williams.com: ('enl-members-html@estutenws11.energy.williams.com', 25)
+enl-members-html@estutenws11.energy.williams.com:
+ken.merideth@entergykoch.com: ('mike.carson@enron.com', 1) -> ('btusux@football.fantasy.sportsline.com', 1)
+noreply@ccomad3.uu.commissioner.com: ('mike.carson@enron.com', 44) -> ('martin.cuilla@enron.com', 27) -> ('mcuilla@enron.com', 5)
+technology_buy.com@enews.buy.com: ('mike.carson@enron.com', 4)
+ptclynes@aol.com: ('mike.carson@enron.com', 1)
+patrick.hanse@enron.com: ('mike.carson@enron.com', 1)
+cjackson1@txu.com: ('mike.carson@enron.com', 1)
+coach@coach.m0.net: ('mike.carson@enron.com', 2)
+powerindex@list.intcx.com:
+buy.com@enews.buy.com: ('mike.carson@enron.com', 9)
+damonmisti@aol.com: ('btusux@football.fantasy.sportsline.com', 2)
+btusux@football.fantasy.sportsline.com:
+dgrimes@ibshouston.com: ('btusux@football.fantasy.sportsline.com', 3)
+ddavenport@multifuels.com: ('btusux@football.fantasy.sportsline.com', 5)
+craige@fbg.net: ('ddavenport@multifuels.com', 1) -> ('btusux@football.fantasy.sportsline.com', 4)
+l..denton@enron.com: ('andrea.dahlke@enron.com', 4) -> ('matt.motley@enron.com', 1)
+andrea.dahlke@enron.com:
+bill.abler@enron.com:
+kendm@swbell.net: ('btusux@football.fantasy.sportsline.com', 1)
+bounce-otcjournal-1011326@lyris.otcjournal.com: ('mike.carson@enron.com', 8)
+bodyshop@enron.com: ('bodyshop@enron.com', 4)
+andy.rodriquez@enron.com: ('jae.black@enron.com', 1)
+jae.black@enron.com: ('claudette.harvey@enron.com', 1) -> ('bill.abler@enron.com', 1) -> ('bodplus@maininc.org', 1) -> ('j..sturm@enron.com', 1) -> ('robert.stalford@enron.com', 1) -> ('madhup.kumar@enron.com', 1) -> ('mike.carson@enron.com', 1) -> ('maria.valdes@enron.com', 2)
+cbssportsline.com_thesportingnews@mail.0mm.com: ('mike.carson@enron.com', 1)
+claudette.harvey@enron.com:
+newsletters@fansonly.com: ('mike.carson@enron.com', 5)
+cbssportsline.com_planters@mail.0mm.com: ('mike.carson@enron.com', 1) -> ('mcuilla@enron.com', 1)
+members@realmoney.com: ('members@realmoney.com', 3)
+mm1030603.12428893@response.musicmatch.com: ('mike.carson@enron.com', 1)
+thestreet32@offers2.mail-thestreet.com: ('mike.carson@enron.com', 1)
+exclusive_ofers@sportsline.com: ('mike.carson@enron.com', 1) -> ('mcuilla@enron.com', 1)
+jennifer.mendez@enron.com: ('robert.laurel@enron.com', 1)
+robert.laurel@enron.com:
+support@mail.sportsbook.com: ('mike.carson@enron.com', 1)
+exclusive_offers@sportsline.com: ('mike.carson@enron.com', 4) -> ('mcuilla@enron.com', 1)
+2.3841.89-uboq_x1lr0jw.1@cda01.cdnow.com: ('mike.carson@enron.com', 1)
+2.4200.15-ogttoksylojb.1@cda01.cdnow.com: ('mike.carson@enron.com', 1)
+janc33@aol.com:
+optin@sungrp.com: ('optin@sungrp.com', 1)
+2.3888.19-pacmoeyngl7m.1@cda01.cdnow.com: ('mike.carson@enron.com', 1)
+maintenance.dl-exchange@enron.com:
+ksu93dlv@aol.com: ('john@howellthornhill.com', 1) -> ('jacken@tampabay.rr.com', 1) -> ('m_besch@yahoo.com', 2)
+john@howellthornhill.com:
+reports@reedwasden.com: ('reports@reedwasden.com', 1) -> ('mike.carson@enron.com', 3)
+harrietcarter@pcgms.com: ('mike.carson@enron.com', 2)
+rgibbs@boldwaterlp.com: ('mike.carson@enron.com', 4)
+bllong@alumni.utexas.net: ('mike.carson@enron.com', 2)
+brittany69@swan.ac.uk: ('mike.charchuk@telus.net', 1)
+mike.charchuk@telus.net:
+luiz.maurer@enron.com: ('s..bradford@enron.com', 1) -> ('mike.carson@enron.com', 1) -> ('heather.kroll@enron.com', 1)
+s..bradford@enron.com:
+bodplus@maininc.org:
+jacken@tampabay.rr.com:
+gautam.gupta@enron.com: ('l..garcia@enron.com', 1)
+l..garcia@enron.com:
+dvogel@powellbrewer.com: ('m_besch@yahoo.com', 1) -> ('mike.carson@enron.com', 1) -> ('ssanders@mtsqh.com', 1)
+jeffrey.jackson@enron.com:
+gillp@amerexenergy.com: ('craige@fbg.net', 1)
+reagan.rorschach@enron.com: ('richard.broussard@enron.com', 1) -> ('mike.carson@enron.com', 7)
+richard.broussard@enron.com:
+dale.wesley@enron.com:
+kmn30@hotmail.com: ('justin.r.anderson@mail.sprint.com', 1)
+justin.r.anderson@mail.sprint.com:
+l..nicolay@enron.com: ('susan.lindberg@enron.com', 1) -> ('mike.carson@enron.com', 1) -> ('rogers.herndon@enron.com', 1) -> ('m..presto@enron.com', 1)
+susan.lindberg@enron.com: ('rudy.acevedo@enron.com', 1)
+mpiekos@academicplanet.com: ('ruehl.charles@enron.com', 2)
+ruehl.charles@enron.com:
+ssanders@mtsqh.com:
+maria.valdes@enron.com: ('j..sturm@enron.com', 1) -> ('mike.carson@enron.com', 1)
+j..sturm@enron.com: ('maria.valdes@enron.com', 2) -> ('jason.kaniss@enron.com', 2)
+cboyd@localok.com: ('coats.mike@enron.com', 2) -> ('bandrews@localok.com', 1)
+coats.mike@enron.com:
+seareel@neosoft.com: ('dale.wesley@enron.com', 4)
+david.duran@enron.com:
+joseph.wagner@enron.com: ('mike.carson@enron.com', 2)
+contact@stockgenie.com: ('mike.carson@enron.com', 1)
+dand@amerexenergy.com: ('btusux@football.fantasy.sportsline.com', 1)
+rosanna.migliaccio@robertwalters.com: ('mike.carson@enron.com', 1)
+amazingdealsclub@m-ul.com: ('mike.carson@enron.com', 1)
+tradingnews447577@yahoo.com: ('subscriber@mailboy.enron.com', 1)
+subscriber@mailboy.enron.com:
+mark.confer@enron.com: ('mike.carson@enron.com', 1)
+socrskibum@aol.com: ('mikefogo@mindspring.com', 3)
+mikefogo@mindspring.com:
+netfinacial@onebox.com: ('mike.carson@enron.com', 1)
+members@premierinvestornetwork.com: ('members@premierinvestornetwork.com', 1)
+ologuru@yahoo.com: ('mike.carson@enron.com', 1)
+kristenm@jschmid.com: ('peters.zee@enron.com', 1) -> ('lytle.todd@enron.com', 2)
+peters.zee@enron.com:
+bmiimarket@eudoramail.com: ('money.in.motion@mailman.enron.com', 1)
+money.in.motion@mailman.enron.com:
+doug.sewell@enron.com: ('mike.carson@enron.com', 9) -> ('melissa.beckett@entergykoch.com', 2) -> ('evelyn.aucoin@enron.com', 1) -> ('cathy.moehlman@enron.com', 1)
+sunil.abraham@enron.com:
+urgentalert677638@yahoo.com: ('trader@mailboy.enron.com', 1)
+trader@mailboy.enron.com:
+icmh1737@eudoramail.com: ('money.in.motion@mailman.enron.com', 1)
+2.4108.91-lltl_pakcfbp.1@cda01.cdnow.com: ('mike.carson@enron.com', 1)
+stephen.plauche@enron.com: ('mike.carson@enron.com', 1)
+paul.racicot@enron.com: ('carl.tricoli@enron.com', 2)
+carl.tricoli@enron.com:
+ryan.lorei@disney.com: ('mike.carson@enron.com', 1)
+do_not_reply@internet-we.net: ('mike.carson@enron.com', 1)
+jeffrey.miller@enron.com: ('mike.carson@enron.com', 1)
+entertainment_buy.com@enews.buy.com: ('mike.carson@enron.com', 1)
+m..presto@enron.com: ('casey.evans@enron.com', 1)
+rob.milnthorp@enron.com:
+heather.kroll@enron.com:
+robert.stalford@enron.com:
+manintan@swbell.net: ('forbes.andrea@enron.com', 1)
+forbes.andrea@enron.com:
+chris_jackson@txu.com: ('mike.carson@enron.com', 1)
+porterb@klsinc.org:
+craigjefferies@ckbenergy.com: ('mike.carson@enron.com', 1)
+rockwoodenergy@aol.com: ('rocksearch@aol.com', 1)
+rocksearch@aol.com:
+wentapb@phoenix-cement.com: ('mike.carson@enron.com', 2)
+vogel.david@enron.com:
+thomson.vanessa@enron.com:
+carson.jan@enron.com:
+coconnor@prebon.com: ('mike.carson@enron.com', 1)
+mrhill@midamerican.com: ('mcarson2@enron.com', 1)
+mcarson2@enron.com:
+madhup.kumar@enron.com:
+games-register@yahoo-inc.com: ('mike.carson@enron.com', 1)
+bergamini.chris@enron.com:
+gustavo.giron@enron.com: ('mike.carson@enron.com', 1)
+eric.saibi@enron.com: ('mike.carson@enron.com', 1)
+service@etrade.com: ('mike.carson@enron.com', 1)
+jason.kaniss@enron.com:
+jaime.gualy@enron.com: ('mike.carson@enron.com', 1)
+lytle.todd@enron.com:
+harry.arora@enron.com:
+handley.george@enron.com:
+ecenter@energynewslive.com: ('mike.carson@enron.com', 1)
+nick.hiemstra@enron.com: ('mike.carson@enron.com', 1)
+steve.pan@enron.com: ('stephanie.sever@enron.com', 1)
+john.mee@williams.com:
+michael.britt@constellaion.com: ('mcarson2@enron.com', 1)
+rob@buy.com: ('mike.carson@enron.com', 1)
+thestreet.com46@offers2.mail-thestreet.com: ('mike.carson@enron.com', 1)
+erica.bess@enron.com: ('mike.carson@enron.com', 1)
+matt.motley@enron.com:
+lakepeople2@juno.com:
+dsanchez@tradespark.com: ('sanchez@enron.com', 1)
+sanchez@enron.com:
+bandrews@localok.com:
+hill.heather@enron.com:
+ramona.rodriguez@enron.com: ('mike.carson@enron.com', 9) -> ('doug.sewell@enron.com', 1)
+melissa.beckett@entergykoch.com: ('mike.carson@enron.com', 1)
+cathy.moehlman@enron.com: ('mike.carson@enron.com', 1)
+reginald.hart@enron.com: ('mike.carson@enron.com', 3) -> ('doug.sewell@enron.com', 6)
+evelyn.aucoin@enron.com: ('mike.carson@enron.com', 1)
+chip.schneider@enron.com: ('mike.carson@enron.com', 1)
+corry.bentley@enron.com: ('mike.carson@enron.com', 1)
+hhill@houston.rr.com:
+kenrcarson@eol.com:
+mikef@amerex.com:
+david.goodman@entergykoch.com:
+jbustos@calpine.com:
+exchangeinfo@nymex.com:
+michael.britt@constellation.com:
+mikef@amerexenergy.com:
+teresa.mandola@enron.com:
+devin.c.hall@uspwcglobal.com:
+devin.c.hal@us.pwcglobal.com:
+ron.tapscott@enron.com:
+ken.merideth@axiaenergy.com:
+njme@dynegy.com:
+codydownard@hotmail.com:
+martin.cuilla@enron.com: ('martin.cuilla@enron.com', 24) -> ('gary.taylor@enron.com', 2) -> ('william.kasemervisz@enron.com', 26) -> ('rbwharton@juno.com', 4) -> ('phil2dogs@aol.com', 4) -> ('wayne.cuilla@enron.com', 4) -> ('rwharton@bellhelicopter.textron.com', 4) -> ('sharon.cuilla@nlrb.gov', 3) -> ('swc88@ou.edu', 4) -> ('lerenda@aol.com', 4) -> ('agrovil@huglushotguns.com', 4) -> ('s.nadalin@thehiringspot.com', 3) -> ('mcontant@cypressasset.com', 7) -> ('clickathomepilot2@enron', 3) -> ('pmadison@lexfurniture.com', 4) -> ('funserv@sunnews.infi.net', 4) -> ('zwharton@dawray.com', 32) -> ('eric.bass@enron.com', 10) -> ('j_perches@yahoo.com', 8) -> ('bill_rasch@raschgraphics.com', 3) -> ('mcuilla@houston.rr.com', 10) -> ('daniel.diamond@enron.com', 4) -> ('a060279@allstate.com', 1) -> ('ddiamond@houston.rr.com', 1) -> ('webmaster@starfurniture.com', 1) -> ('m..love@enron.com', 1) -> ('stephanie.hopkins@enron.com', 1) -> ('ksmalek@aep.com', 3) -> ('mike@searchconsultants.com', 2) -> ('mdhubley@ex-sp.com', 1) -> ('ramind@flash.net', 1) -> ('rob@ramind.com', 3) -> ('james.h.cook@us.arthurandersen.com', 2) -> ('bryan.hull@enron.com', 3) -> ('james.h.cook@us.andersen.com', 7) -> ('james.simpson@enron.com', 1) -> ('greg.martin@enron.com', 5) -> ('jeanie.slone@enron.com', 3) -> ('dax@cypressmail.com', 4) -> ('veronica.parra@enron.com', 2) -> ('alexandra.villarreal@enron.com', 1) -> ('geoff.storey@enron.com', 1) -> ('chris.dorland@enron.com', 1) -> ('bryant.frihart@enron.com', 2) -> ('email@lisc.net', 2) -> ('s..shively@enron.com', 2) -> ('drudge@drudgereport.com', 1) -> ('denver.plachy@enron.com', 1) -> ('astephens@crushinteractive.com', 1) -> ('h..lewis@enron.com', 1) -> ('richard.tomaski@enron.com', 4) -> ('odisea1982@hotmail.com', 2) -> ('souad.mahmassani@enron.com', 1) -> ('jeanne.fore@enron.com', 1) -> ('jennifer.fraser@enron.com', 3) -> ('brian.vassigh@enron.com', 1) -> ('melanie.harwell@enron.com', 1) -> ('kevin.heal@enron.com', 1) -> ('scott.dozier@enron.com', 1) -> ('richard.hensch@enron.com', 1) -> ('dplachy@hotmail.com', 1) -> ('scott.campbell@enron.com', 1) -> ('ken.shulklapper@enron.com', 2)
+william.kasemervisz@enron.com: ('martin.cuilla@enron.com', 15) -> ('michael.morris@enron.com', 3) -> ('gary.taylor@enron.com', 3)
+gary.taylor@enron.com: ('martin.cuilla@enron.com', 3) -> ('mcuilla@enron.com', 4)
+tony.harris@enron.com: ('martin.cuilla@enron.com', 6) -> ('gary.lamphier@enron.com', 3) -> ('gary.taylor@enron.com', 3)
+gary.lamphier@enron.com: ('martin.cuilla@enron.com', 21) -> ('gary.taylor@enron.com', 3)
+michael.morris@enron.com: ('martin.cuilla@enron.com', 15)
+greg.martin@enron.com: ('martin.cuilla@enron.com', 8) -> ('gary.lamphier@enron.com', 3)
+mark.friedman@enron.com: ('martin.cuilla@enron.com', 15) -> ('mcuilla@enron.com', 4)
+ggt@gateway.net: ('martin.cuilla@enron.com', 3) -> ('mcuilla@hotmail.com', 3)
+jeffrey.gossett@enron.com: ('william.kasemervisz@enron.com', 3) -> ('martin.cuilla@enron.com', 3) -> ('david.baumbach@enron.com', 1)
+mcuilla@hotmail.com:
+mike.grigsby@enron.com: ('mcuilla@enron.com', 15) -> ('martin.cuilla@enron.com', 2)
+mcuilla@enron.com:
+fermis@hotmail.com: ('mcuilla@enron.com', 3)
+orders@imagestation.com: ('martin.cuilla@enron.com', 12)
+rbwharton@juno.com:
+phil2dogs@aol.com:
+wayne.cuilla@enron.com:
+pmadison@lexfurniture.com: ('mcuilla@enron.com', 3) -> ('martin.cuilla@enron.com', 3)
+rwharton@bellhelicopter.textron.com:
+sharon.cuilla@nlrb.gov: ('martin.cuilla@enron.com', 3)
+enron84@aol.com: ('mcuilla@enron.com', 2)
+wkaseme@enron.com: ('mcuilla@enron.com', 10)
+gary.w.lamphier@enron.com: ('mcuilla@enron.com', 4)
+swc88@ou.edu:
+lerenda@aol.com:
+agrovil@huglushotguns.com:
+martin_cuilla@enron.com:
+rosemaryf@housedressing.com: ('martin.cuilla@enron.com', 3)
+owner-newsletter@lists.houstonpress.com: ('newsletter@lists.houstonpress.com', 3)
+newsletter@lists.houstonpress.com:
+intelhomecomputing.d1njhud.j@message.intel.com: ('mcuilla@enron.com', 3)
+lfrank@vignette.com: ('w.dangerfield@thehiringspot.com', 3) -> ('zwharton@dawray.com', 1) -> ('w.dangerfield@deaus.com', 1) -> ('bartholomew@enron.com', 1)
+w.dangerfield@thehiringspot.com:
+webmaster@cera.com: ('martin.cuilla@enron.com', 3) -> ('clients@cera.com', 25)
+info@1800contacts.com: ('mcuilla@enron.com', 5)
+s.nadalin@thehiringspot.com:
+eric.groves@enron.com: ('john.massey@enron.com', 3)
+john.massey@enron.com:
+amanda.huble@enron.com: ('chuck.ames@enron.com', 3)
+grocerywor@processrequest.com: ('mcuilla@enron.com', 3)
+mcuilla@houston.rr.com: ('martin.cuilla@enron.com', 10)
+mcontant@cypressasset.com: ('martin.cuilla@enron.com', 13) -> ('mcontant@cypressasset.com', 1)
+health.center@enron.com: ('lori.parker@enron.com', 3)
+lori.parker@enron.com:
+owner-issupport@imagestation.com: ('martin.cuilla@enron.com', 3)
+dorie.hitchcock@enron.com: ('sylvia.pollan@enron.com', 3)
+sylvia.pollan@enron.com:
+ruth.concannon@enron.com: ('bfernandez@sithe.com', 3) -> ('kevin.ruscitti@enron.com', 3) -> ('mrosenberg@sithe.com', 6)
+bfernandez@sithe.com:
+kevin.ruscitti@enron.com:
+mrosenberg@sithe.com:
+storesupport@zing.com: ('martin.cuilla@enron.com', 3)
+support@imagestation.com: ('martin.cuilla@enron.com', 3)
+zwharton@dawray.com: ('martin.cuilla@enron.com', 12) -> ('mcuilla@enron.com', 15)
+clickathomepilot2@enron:
+royalinteriors@twave.net: ('mcuilla@enron.com', 3)
+funserv@sunnews.infi.net:
+wndjmr@flash.net: ('zwharton@dawray.com', 3)
+dgreen@clausman.com: ('bluebelle010@hotmail.com', 2)
+bluebelle010@hotmail.com:
+m..love@enron.com: ('martin.cuilla@enron.com', 1)
+ken.shulklapper@enron.com: ('martin.cuilla@enron.com', 3) -> ('daniel.diamond@enron.com', 1) -> ('erik.simpson@enron.com', 1) -> ('mike.grigsby@enron.com', 1)
+issupport@imagestation.com: ('martin.cuilla@enron.com', 1)
+info@clubhyperia.com: ('mcuilla@enron.com', 19)
+ministryofsound.com@mailman.enron.com: ('mcuilla@enron.com', 4)
+newsletter@thevegasstrip.net: ('mcuilla@ect.enron.com', 6)
+mcuilla@ect.enron.com:
+info@cera.com: ('martin.cuilla@enron.com', 1)
+_corolla@response.etracks.com: ('mcuilla@ect.enron.com', 2)
+bryant@cheatsheets.net: ('cheatsheets@yahoogroups.com', 81)
+cheatsheets@yahoogroups.com:
+clickathome@enron.com: ('undisclosed-recipients@enron.com', 2)
+undisclosed-recipients@enron.com:
+listannouncefrom@dmband.com: ('listannounceto@dmband.com', 2)
+listannounceto@dmband.com:
+changes1@emailfactory.net: ('mcuilla@enron.com', 1)
+0_19812_e719a090-7eca-d011-9d39-0000f84121eb_us@newsletters.microsoft.com: ('mcuilla@ect.enron.com', 1)
+netsaaversv@info.aa.com: ('mcuilla@enron.com', 1)
+nsterling@uniongas.com: ('martin.cuilla@enron.com', 1)
+clients@cera.com:
+thkiii3@yahoo.com: ('mcuilla@enron.com', 1)
+webmaster-e@transcanada.com: ('tcplnews@listsrv.transcanada.com', 2)
+tcplnews@listsrv.transcanada.com:
+2.3028.e0-xgb81_omkml5.1@cda01.cdnow.com: ('martin.cuilla@enron.com', 1)
+ddiamond@houston.rr.com: ('martin.cuilla@enron.com', 3)
+promo@e-virtualcities.com: ('promo@e-virtualcities.com', 5)
+survey2@survey66.com: ('martin.cuilla@enron.com', 2)
+info@kitkat.org: ('mcuilla@enron.com', 5)
+newsletter-request@lists.houstonpress.com: ('newsletter@lists.houstonpress.com', 5)
+chris@apbenergy.com: ('martin.cuilla@enron.com', 1)
+announce-list@clearchannel.com: ('mcuilla@enron.com', 3)
+1n776p@msn.com: ('8d5h1uq3@msn.com', 1)
+8d5h1uq3@msn.com:
+continental_airlines_inc@coair.rsc01.com: ('mcuilla@ect.enron.com', 7)
+matthew.lenhart@enron.com: ('martin.cuilla@enron.com', 1)
+russellmurrell@hotmail.com: ('martin.cuilla@enron.com', 4)
+hopebello@truthmail.com: ('williamsjane@swiftdesk.com', 1)
+williamsjane@swiftdesk.com:
+e..webner@enron.com: ('martin.cuilla@enron.com', 1)
+feedback@travelocity.m0.net: ('mcuilla@enron.com', 3) -> ('mcuilla@ect.enron.com', 2)
+stephanie.hopkins@enron.com: ('martin.cuilla@enron.com', 1)
+hotdeals@specials.funjet.com: ('mcuilla@ect.enron.com', 6)
+denver.plachy@enron.com: ('martin.cuilla@enron.com', 1)
+caschwalbe@hotmail.com: ('carldfrank@yahoo.com', 2) -> ('mcuilla@enron.com', 1)
+carldfrank@yahoo.com:
+hotdeals@mail.hotelresnetwork.com: ('specials2@mail.hotelresnetwork.com', 2)
+specials2@mail.hotelresnetwork.com:
+expediatraveldeals_029715@expedia.customer-email.com: ('mcuilla@ect.enron.com', 1)
+deals@bestfares.com: ('mcuilla@enron.com', 12)
+especials@specials.ovm.com: ('mcuilla@ect.enron.com', 2)
+robm@wt.net: ('bill@enron.com', 1)
+bill@enron.com:
+erik.simpson@enron.com:
+kevin.heal@enron.com: ('eric.le@enron.com', 2) -> ('dianne.ripley@enron.com', 1)
+eric.le@enron.com:
+jeffshaw00@hotmail.com: ('caschwalbe@hotmail.com', 1)
+usatoday5918@mailandnews.com: ('undisclosed.recipients@mailman.enron.com', 1)
+undisclosed.recipients@mailman.enron.com:
+quality@corp.classmates.com: ('martin.cuilla@enron.com', 2)
+patkirk@ozbytes.net.au: ('feelrac@visto.com', 1)
+feelrac@visto.com:
+newsletter@nakedwomansex.com: ('martin.cuilla@enron.com', 1) -> ('mcuilla@enron.com', 1) -> ('mcuilla@ect.enron.com', 1)
+infousa6912@imailbox.com: ('undisclosed.recipients@mailman.enron.com', 1)
+kzy4@msn.com: ('d710qzk@msn.com', 1)
+d710qzk@msn.com:
+2.3894.22-how7spz28_ri.1@cda01.cdnow.com: ('martin.cuilla@enron.com', 1)
+acedirect@aircanada.ca: ('websaver@guava.ease.lsoft.com', 3)
+websaver@guava.ease.lsoft.com:
+alex.villarreal@enron.com: ('lindsay.culotta@enron.com', 1)
+lindsay.culotta@enron.com:
+w.dangerfield@deaus.com:
+airtran_airways_net_escapes.um.a.35.88@post.intellimedia.com: ('martin.cuilla@enron.com', 1)
+danielyergin@cera.com: ('martin.cuilla@enron.com', 1)
+notifier@microsoft.com: ('mcuilla@enron.com', 1)
+2.3890.4d-n_fmsbdgjxej.1@cda01.cdnow.com: ('martin.cuilla@enron.com', 1)
+directtv@worldatamail.com: ('mcuilla@ect.enron.com', 1)
+promo@bestbonus.net: ('promo@bestbonus.net', 1)
+sctc@77002.com: ('mcuilla@enron.com', 5)
+savemoney@mail2.emediatemail.com: ('tlbjirmcic@mail2.emediatemail.com', 1)
+tlbjirmcic@mail2.emediatemail.com:
+dontwait@mail2.emediatemail.com: ('kfijxttaxk@mail2.emediatemail.com', 1)
+kfijxttaxk@mail2.emediatemail.com:
+expediatraveldeals_033509@expedia.customer-email.com: ('mcuilla@ect.enron.com', 1)
+never2late@ever2.beontarget.com: ('ztczubvbzu@ever2.beontarget.com', 1)
+ztczubvbzu@ever2.beontarget.com:
+2.3895.76-5vrrsiiutfrn.1@cda01.cdnow.com: ('martin.cuilla@enron.com', 1)
+cindy@n7.privatenetservers.com: ('rawls@ectech.com', 2)
+rawls@ectech.com:
+expediatraveldeals_033195@expedia.customer-email.com: ('mcuilla@ect.enron.com', 1)
+editor@hersweeps.com: ('mcuilla@ect.enron.com', 1)
+northwoods@canada.com: ('andrejohanson@loadmail.com', 1)
+andrejohanson@loadmail.com:
+jimwoo@asean-mail.com: ('bil_ten@addlebrain.com', 1)
+bil_ten@addlebrain.com:
+bartholomew@enron.com:
+customercare@merckmedco.com: ('mcuilla@enron.com', 1)
+amandawhitby@coolgoose.com: ('harryh@planetaccess.com', 1)
+harryh@planetaccess.com:
+t8imky@msn.com: ('6cytnfth@msn.com', 1)
+6cytnfth@msn.com:
+marketing@welcome.ebay.com: ('mcuilla@enron.com', 1)
+ohwebmaster@opg.com: ('mcuilla@enron.com', 2)
+messenger@directtrak.com: ('mcuilla@enron.com', 1)
+0_19619_e719a090-7eca-d011-9d39-0000f84121eb_us@newsletters.microsoft.com: ('mcuilla@ect.enron.com', 1)
+alexandra.villarreal@enron.com: ('lindsay.culotta@enron.com', 1)
+expediatraveldeals_031033@expedia.customer-email.com: ('mcuilla@ect.enron.com', 1)
+expediatraveldeals_029350@expedia.customer-email.com: ('mcuilla@ect.enron.com', 1)
+james.h.cook@us.andersen.com: ('martin.cuilla@enron.com', 2)
+airtran_airways_net_escapes.um.a.35.57@post.intellimedia.com: ('airtran_airways_net_escapes@post.intellimedia.com', 1)
+airtran_airways_net_escapes@post.intellimedia.com:
+service@playerstime.com: ('undisclosed-recipients@enron.com', 1)
+expediatraveldeals_031352@expedia.customer-email.com: ('mcuilla@ect.enron.com', 1)
+bnrfjo@msn.com: ('ep8q@msn.com', 1)
+ep8q@msn.com:
+2.3477.f3-ehre1yhyqsbx.1@cda01.cdnow.com: ('martin.cuilla@enron.com', 1)
+owner-issupport@zbold.zing.com: ('martin.cuilla@enron.com', 1)
+lonniejacobs@fiberia.com: ('offandrunning@1internetdrive.com', 1)
+offandrunning@1internetdrive.com:
+ministryofsound.com@mailboy.enron.com: ('mcuilla@enron.com', 1)
+tj13stmbzh@msn.com: ('3sc7107zloj@msn.com', 1)
+3sc7107zloj@msn.com:
+highschoolalumni@highschoolalumni.com: ('martin.cuilla@enron.com', 1)
+nmez@msn.com: ('tniv@msn.com', 1)
+tniv@msn.com:
+2koha45k2@msn.com: ('cdkv1kwd2f@msn.com', 1)
+cdkv1kwd2f@msn.com:
+ackc@msn.com: ('zjaurof10s@msn.com', 1)
+zjaurof10s@msn.com:
+pinkrulesdaworld@excite.com: ('undisclosed-recipients@enron.com', 1)
+johnkilroy@c4.com: ('feelrac@visto.com', 1)
+mike.gunn@info.aa.com: ('mcuilla@enron.com', 1)
+nokia@nokia.bp00.com: ('mcuilla@enron.com', 1)
+lindsay.renaud@enron.com: ('s..shively@enron.com', 1)
+s..shively@enron.com:
+brandon.oliveira@enron.com: ('daniel.muschar@enron.com', 1)
+2.3374.1d-i5ncsd6_rgbu.1@cda01.cdnow.com: ('martin.cuilla@enron.com', 1)
+2.2873.72-cxtvsrmukelc.1@cda01.cdnow.com: ('martin.cuilla@enron.com', 1)
+souad.mahmassani@enron.com: ('denver.plachy@enron.com', 3) -> ('h..lewis@enron.com', 1) -> ('martin.cuilla@enron.com', 1)
+yahoo-delivers@yahoo-inc.com: ('mcuilla@ect.enron.com', 2)
+party@kitkat.org: ('mcuilla@enron.com', 1)
+samantha@g7.freshgirlsonline.com: ('lockley@png.cng.com', 1)
+lockley@png.cng.com:
+midnitemail@lists.em5000.com: ('mcuilla@enron.com', 1)
+brian.vassigh@enron.com: ('martin.cuilla@enron.com', 1)
+robyn.zivic@enron.com: ('martin.cuilla@enron.com', 1)
+richard.tomaski@enron.com: ('martin.cuilla@enron.com', 1)
+editor@theb2bvoice.com: ('mcuilla@ect.enron.com', 1)
+e.murrell@enron.com: ('martin.cuilla@enron.com', 1)
+tori.kuykendall@enron.com: ('martin.cuilla@enron.com', 1)
+scott.campbell@enron.com: ('martin.cuilla@enron.com', 2)
+ksumey@ftenergy.com: ('sumey@enron.com', 1)
+sumey@enron.com:
+0_19653_e719a090-7eca-d011-9d39-0000f84121eb_us@newsletters.microsoft.com: ('mcuilla@ect.enron.com', 1)
+dianne.ripley@enron.com:
+j_perches@yahoo.com:
+l..schrab@enron.com: ('martin.cuilla@enron.com', 1) -> ('megan.parker@enron.com', 1)
+megan.parker@enron.com:
+kirti.patel@enron.com: ('karima.husain@enron.com', 1)
+karima.husain@enron.com:
+bpotter@proliance.com: ('mcuilla@enron.com', 1)
+posterclub@allposters.com: ('mcuilla@enron.com', 1)
+6.207.04-k9w0wmehyb97vkqo9pais5bathfr.1@mail3.travelocity.com: ('mcuilla@enron.com', 1)
+etcadmin@expedia.com: ('mcuilla@ect.enron.com', 1)
+patrick.tucker@enron.com: ('s..pollan@enron.com', 1)
+s..pollan@enron.com:
+tim_wells@transcanada.com: ('mline-tariff@listsrv.transcanada.com', 1)
+mline-tariff@listsrv.transcanada.com:
+scottradestreamer@scottrade.com: ('martin.cuilla@enron.com', 1)
+notification.isc@enron.com: ('users.dl-enron@enron.com', 1)
+users.dl-enron@enron.com:
+h..lewis@enron.com:
+email@lisc.net: ('martin.cuilla@enron.com', 1)
+dl-ga-all_enron_worldwide2@enron.com:
+airtran_airways_net_escapes.um.a.35.59@post.intellimedia.com: ('airtran_airways_net_escapes@post.intellimedia.com', 1)
+gail_jones@transcanada.com: ('mline-tariff@listsrv.transcanada.com', 1)
+bill_rasch@raschgraphics.com:
+a060279@allstate.com:
+webmaster@starfurniture.com:
+mike@searchconsultants.com:
+mdhubley@ex-sp.com:
+ramind@flash.net:
+rob@ramind.com:
+james.h.cook@us.arthurandersen.com:
+bryan.hull@enron.com:
+james.simpson@enron.com:
+dax@cypressmail.com:
+veronica.parra@enron.com:
+geoff.storey@enron.com:
+chris.dorland@enron.com:
+drudge@drudgereport.com:
+astephens@crushinteractive.com:
+odisea1982@hotmail.com:
+jeanne.fore@enron.com:
+melanie.harwell@enron.com:
+scott.dozier@enron.com:
+richard.hensch@enron.com:
+dplachy@hotmail.com:
+stephanie.harris@enron.com: ('james.derrick@enron.com', 46) -> ('jlowe@mail.smu.edu', 1)
+james.derrick@enron.com: ('robert.williams@enron.com', 4) -> ('marcus.nettelton@enron.com', 3) -> ('linda.trevino@enron.com', 3) -> ('al.alexanderson@enron.com', 4) -> ('robert.eickenroht@enron.com', 5) -> ('rhutchison@velaw.com', 4) -> ('marc.manly@enron.com', 8) -> ('rob.walls@enron.com', 56) -> ('jeffsok@juno.com', 13) -> ('stephanie.harris@enron.com', 20) -> ('nbrazzil@mail.law.utexas.edu', 10) -> ('john.west@enron.com', 6) -> ('randy.pais@enron.com', 6) -> ('hoytm@hughesluce.com', 3) -> ('thenninger@mail.law.utexas.edu', 8) -> ('jkubin@gibbs-bruns.com', 4) -> ('rwright@wt.net', 4) -> ('shannonc17@hotmail.com', 2) -> ('james.derrick@enron.com', 1) -> ('richard.sanders@enron.com', 10) -> ('jw1000mac@yahoo.com', 5) -> ('david.matthews@enron.com', 3) -> ('jdilg@velaw.com', 17) -> ('mimmergut@milbank.com', 4) -> ('karen.randolph@tnsofres.com', 4) -> ('tom.mckeever@enron.com', 7) -> ('kelly.johnson@enron.com', 6) -> ('john.belew@enron.com', 4) -> ('dick.westfahl@enron.com', 4) -> ('rex.rogers@enron.com', 21) -> ('john.novak@enron.com', 4) -> ('sharon.butcher@enron.com', 16) -> ('cpatman@bracepatt.com', 12) -> ('srobinson@velaw.com', 4) -> ('awu@quinnemanueal.com', 1) -> ('ssusman@susmangodfrey.com', 1) -> ('misha.siegel@enron.com', 2) -> ('j.harris@enron.com', 164) -> ('rob.cole@enron.com', 1) -> ('scott@hbb-law.com', 2) -> ('ppien@elawforum.com', 1) -> ('suzanne.danz@enron.com', 2) -> ('joannie.williamson@enron.com', 3) -> ('david.koogler@enron.com', 1) -> ('judytucker@kslaw.com', 1) -> ('michelle.hicks@enron.com', 1) -> ('mark.haedicke@enron.com', 3) -> ('jkeffer@kslaw.com', 4) -> ('demetris@publicans.com', 1) -> ('ghkim@sk-enron.com', 1) -> ('rgreenberg@gpsolaw.com', 1) -> ('steven.kean@enron.com', 1) -> ('peter.keohane@enron.com', 2) -> ('rob.bradley@enron.com', 2) -> ('andrew.edison@enron.com', 1) -> ('corpgen@mail.abanet.org', 2) -> ('mark.evans@enron.com', 5) -> ('jeff.skilling@enron.com', 1) -> ('awu@quinnemanuel.com', 4) -> ('wdriver@kslaw.com', 3) -> ('dtomlin@bcm.tmc.edu', 1) -> ('c..williams@enron.com', 86) -> ('kate.cole@enron.com', 3) -> ('vicki.sharp@enron.com', 2) -> ('james.grace@enron.com', 1) -> ('vanessa.groscrand@enron.com', 2) -> ('elizabeth.linnell@enron.com', 2) -> ('grossbem@tklaw.com', 1) -> ('joel.ephross@enron.com', 4) -> ('40newpower@enron.com', 1) -> ('kathy.kumiega@elftech.com', 1) -> ('geiland@velaw.com', 1) -> ('adam.umanoff@enron.com', 1) -> ('poxford@bracepatt.com', 2) -> ('dwinn@swlegal.org', 8) -> ('ann.ballard@enron.com', 1) -> ('scott@nypcdsn02.eq.gs.com', 1) -> ('jvd024@hotmail.com', 6) -> ('nell.browning@enron.com', 1) -> ('kenneth.lay@enron.com', 2) -> ('richard.dimichele@enron.com', 1) -> ('rylanderj@home.com', 2) -> ('matthias.lee@enron.com', 1) -> ('crissy.collett@enron.com', 1) -> ('rainsworth@shb.com', 1) -> ('crogers@mail.smu.edu', 1) -> ('sheila.walton@enron.com', 2) -> ('david.jackson@blakes.com', 1) -> ('michelle.blaine@enron.com', 1) -> ('sberry@susmangodfrey.com', 2) -> ('hardie.davis@enron.com', 2) -> ('bruce.lundstrom@enron.com', 2) -> ('cbreaux@ncsc.dni.us', 2) -> ('l..bouillion@enron.com', 1) -> ('bkelly@ncsc.dni.us', 1) -> ('paula.rieker@enron.com', 7) -> ('david.haug@enron.com', 3) -> ('heath.schiesser@enron.com', 2) -> ('janet.place@enron.com', 1) -> ('drew.fossum@enron.com', 2) -> ('richard.causey@enron.com', 1) -> ('b..sanders@enron.com', 3) -> ('jarek.astramowicz@enron.com', 2) -> ('hhu@mail.law.utexas.edu', 1) -> ('robert.vote@enron.com', 1) -> ('charles.cheek@enron.com', 2) -> ('renata.maziarz@enron.com', 1) -> ('pincussr@nmenergy.com', 1) -> ('e..haedicke@enron.com', 4) -> ('mark.frevert@enron.com', 1) -> ('colleen.raker@enron.com', 1) -> ('krchoi@sk-enron.com', 1) -> ('styler@spahouston.org', 1) -> ('dwinn@swlegal.orgn', 1) -> ('lobaughl@niagaramohawk.com', 3) -> ('john.ale@enron.com', 4) -> ('eric.newell@enron.com', 2) -> ('mld@nwnatural.com', 1) -> ('m1d@nwnatural.com', 1) -> ('bobg1@griesenbeck.com', 1) -> ('ifaskianos@cfr.org', 1) -> ('iam@michaelberry.com', 1) -> ('carolyn.graham@enron.com', 1) -> ('l..petrochko@enron.com', 1) -> ('tom.bres@gs.com', 2) -> ('tshelton@aol.com', 1) -> ('enrique.zambrano@enron.com', 1) -> ('nbrazzil@mail.law.tuexas.edu', 1) -> ('karen.denne@enron.com', 1) -> ('charles.allen-jones@linklaters.com', 1) -> ('kriste.sullivan@enron.com', 1) -> ('ann.linnehan@pb.com', 1) -> ('lauren.christie@enron.com', 1) -> ('tracy.foy@enron.com', 1) -> ('lisa.mellencamp@enron.com', 4) -> ('jez.peters@enron.com', 1) -> ('rawson@lucent.com', 1) -> ('mike.whealy@firstdatacorp.com', 1) -> ('david.minns@enron.com', 3) -> ('diggs@ppg.com', 1) -> ('gail.brownfeld@enron.com', 3) -> ('jeffrey.mcmahon@enron.com', 1) -> ('alan.aronowitz@enron.com', 1) -> ('awu@quinnemanuel.coml', 1) -> ('jordan.mintz@enron.com', 1) -> ('cschwartz@velaw.com', 1) -> ('blafuze@velaw.com', 1) -> ('rene.moulinet@enron.com', 1) -> ('fmackin@aol.com', 1) -> ('david.nutt@enron.com', 1) -> ('rosalee.fleming@enron.com', 1) -> ('jan_g1@hotmail.com', 1) -> ('jnewton@ev1.net', 1) -> ('clafollette@kslaw.com', 1) -> ('mattox@spahouston.org', 1) -> ('kzelikovitz@mariner-energy.com', 1) -> ('jeff.donahue@enron.com', 1) -> ('frank.lobdell@enron.com', 1) -> ('britt.davis@enron.com', 1) -> ('40enron@enron.com', 1) -> ('mary.joyce@enron.com', 1) -> ('bxc@bediligent.com', 1) -> ('elizabeth.labanowski@enron.com', 1) -> ('cindy.olson@enron.com', 1) -> ('maria.scudder@linklaters.com', 1) -> ('kristina.mordaunt@enron.com', 1)
+robert.williams@enron.com: ('rob.walls@enron.com', 3)
+darlene.forsyth@enron.com: ('ben.glisan@enron.com', 3) -> ('rex.rogers@enron.com', 2)
+ben.glisan@enron.com:
+rob.walls@enron.com: ('mike.moran@enron.com', 3) -> ('james.derrick@enron.com', 64) -> ('bruce.lundstrom@enron.com', 1) -> ('eric.newell@enron.com', 1) -> ('rex.rogers@enron.com', 1) -> ('karen.denne@enron.com', 1)
+mike.moran@enron.com:
+norma.tidrow@enron.com: ('amanda.martin@enron.com', 3) -> ('james.derrick@enron.com', 3)
+amanda.martin@enron.com:
+jdilg@velaw.com: ('james.derrick@enron.com', 14) -> ('rob.walls@enron.com', 3)
+al.alexanderson@enron.com: ('james.derrick@enron.com', 3)
+tracy.ralston@enron.com: ('globalflash.recipients@enron.com', 9)
+globalflash.recipients@enron.com:
+shirley.oliver@enron.com: ('james.derrick@enron.com', 3)
+marcus.nettelton@enron.com:
+linda.trevino@enron.com: ('lindy.donoho@enron.com', 1)
+robert.eickenroht@enron.com: ('joseph.cialone@bakerbotts.com', 1) -> ('marc.manly@enron.com', 2) -> ('lisa.mellencamp@enron.com', 1) -> ('elizabeth.sager@enron.com', 1)
+rhutchison@velaw.com:
+marc.manly@enron.com: ('james.derrick@enron.com', 4)
+jeffsok@juno.com: ('james.derrick@enron.com', 3) -> ('james_derrick@enron.com', 12)
+mark.greenberg@enron.com: ('james.derrick@enron.com', 3)
+lance.schuler-legal@enron.com: ('ben.glisan@enron.com', 3)
+nbrazzil@mail.law.utexas.edu: ('james.derrick@enron.com', 3)
+james_derrick@enron.com:
+rosalee.fleming@enron.com: ('james.bannantine@enron.com', 12) -> ('raymond.bowen@enron.com', 3) -> ('james.derrick@enron.com', 1)
+james.bannantine@enron.com:
+corpgen@mail.abanet.org: ('corpgen@mail.abanet.org', 9)
+body.shop@enron.com: ('glenn.kobes@enron.com', 3) -> ('james.derrick@enron.com', 1)
+glenn.kobes@enron.com:
+john.west@enron.com:
+randy.pais@enron.com:
+hoytm@hughesluce.com: ('james.derrick@enron.com', 3)
+thenninger@mail.law.utexas.edu: ('james.derrick@enron.com', 9)
+elizabeth.labanowski@enron.com: ('james.derrick@enron.com', 7)
+janette.elbertson@enron.com: ('james.derrick@enron.com', 6) -> ('sharris2@enron.com', 3) -> ('kay.chapman@enron.com', 1) -> ('david.delainey@enron.com', 2)
+mcominsky@aol.com: ('cpatman@bracepatt.com', 3)
+cpatman@bracepatt.com:
+lee.carrier@enron.com: ('rex.rogers@enron.com', 3)
+rex.rogers@enron.com: ('james.derrick@enron.com', 7) -> ('karen.denne@enron.com', 1) -> ('j..kean@enron.com', 1) -> ('jordan.mintz@enron.com', 1) -> ('paula.rieker@enron.com', 1)
+katherine.brown@enron.com: ('james.bannantine@enron.com', 3)
+mark.haedicke@enron.com: ('james.derrick@enron.com', 3) -> ('s..bradford@enron.com', 1)
+subha.vuthoori@enron.com: ('james.derrick@enron.com', 3)
+apalmerlee@cfr.org: ('communications@cfr.org', 6)
+communications@cfr.org:
+karen.denne@enron.com: ('kenneth.lay@enron.com', 10) -> ('j..kean@enron.com', 1) -> ('richard.causey@enron.com', 1)
+kenneth.lay@enron.com:
+kate.cole@enron.com: ('david.delainey@enron.com', 3) -> ('e..lindsey@enron.com', 1) -> ('angie.ramirez@enron.com', 2) -> ('martha.braddy@enron.com', 1) -> ('cynthia.barrow@enron.com', 4) -> ('james.derrick@enron.com', 1) -> ('lisa.mellencamp@enron.com', 1) -> ('mary.ogden@enron.com', 1) -> ('a..aune@enron.com', 1) -> ('annette.patrick@enron.com', 2)
+jkubin@gibbs-bruns.com:
+rwright@wt.net:
+shannonc17@hotmail.com:
+listserv@mail.abanet.org: ('james.derrick@enron.com', 3)
+richard.sanders@enron.com: ('james.derrick@enron.com', 1)
+krchoi@sk-enron.com: ('chochais@sk-enron.com', 3)
+chochais@sk-enron.com:
+danielle.dees@enron.com: ('james.derrick@enron.com', 3)
+mark.evans@enron.com: ('james.derrick@enron.com', 3) -> ('michael.brown@enron.com', 1)
+rbaird@velaw.com: ('james.derrick@enron.com', 3)
+james.bouillion@enron.com: ('james.derrick@enron.com', 3)
+nicki.daw@enron.com: ('jeff.skilling@enron.com', 3)
+jeff.skilling@enron.com:
+jw1000mac@yahoo.com: ('james.derrick@enron.com', 1)
+david.matthews@enron.com:
+cindy.derecskey@enron.com: ('mark.koenig@enron.com', 3)
+mark.koenig@enron.com: ('james.derrick@enron.com', 1)
+dwinn@swlegal.org: ('bmnw@airmail.net', 3) -> ('james.derrick@enron.com', 8) -> ('coggins@enron.com', 1) -> ('hartrick@alumni.rice.edu', 1) -> ('friedland@enron.com', 1)
+bmnw@airmail.net:
+jordan.mintz@enron.com: ('james.derrick@enron.com', 3)
+sherri.sera@enron.com: ('cliff.baxter@enron.com', 3) -> ('a..hughes@enron.com', 1)
+cliff.baxter@enron.com:
+ruth.brown@enron.com: ('james.bannantine@enron.com', 3)
+pbrandt@lrci.com: ('james.derrick@enron.com', 3)
+mimmergut@milbank.com:
+karen.randolph@tnsofres.com:
+tom.mckeever@enron.com:
+kelly.johnson@enron.com:
+john.belew@enron.com:
+dick.westfahl@enron.com:
+sharris2@enron.com:
+travelsmith_outfitters@travelsmith.m0.net: ('james.derrick@enron.com', 3)
+john.novak@enron.com: ('james.derrick@enron.com', 1)
+ssusman@susmangodfrey.com: ('jeffsok@juno.com', 3) -> ('c..williams@enron.com', 1)
+the.mailout@enron.com:
+sharon.butcher@enron.com: ('james.derrick@enron.com', 1) -> ('j..kean@enron.com', 2)
+srobinson@velaw.com: ('james.derrick@enron.com', 3)
+bgkeithley@jonesday.com: ('james.derrick@enron.com', 3)
+ect.europe@enron.com:
+kayla.heitmeyer@enron.com: ('kayla.heitmeyer@enron.com', 1)
+michelle.hicks@enron.com: ('james.derrick@enron.com', 1)
+jkeffer@kslaw.com: ('james.derrick@enron.com', 3) -> ('vsharp@enron.com', 1)
+bruce.smith@enron.com: ('michael.cilento@enron.com', 1)
+michael.cilento@enron.com: ('bruce.smith@enron.com', 1)
+enron_update@concureworkplace.com: ('jderric@enron.com', 10)
+jderric@enron.com:
+charles.cheek@enron.com: ('james.derrick@enron.com', 3) -> ('kate.cole@enron.com', 1)
+national@cfr.org: ('ifaskianos@cfr.org', 6)
+ifaskianos@cfr.org:
+tlevy@entrustcapital.com: ('james.derrick@enron.com', 2)
+misha.siegel@enron.com: ('james.derrick@enron.com', 1)
+j.harris@enron.com: ('james.derrick@enron.com', 43) -> ('erica.braden@enron.com', 1) -> ('rosalee.fleming@enron.com', 1) -> ('rob.walls@enron.com', 1) -> ('elaine.esparza@enron.com', 1)
+heath.schiesser@enron.com: ('james.derrick@enron.com', 4)
+hema@izhuta.com: ('james.derrick@enron.com', 1)
+styler@spahouston.org: ('james.derrick@enron.com', 2)
+jim.armogida@enron.com: ('james.derrick@enron.com', 1) -> ('britt.davis@enron.com', 1)
+janet.place@enron.com: ('james.derrick@enron.com', 1)
+john.ale@enron.com:
+s.callaway@tjmhou.com: ('jderric@enron.com', 1)
+stanley.horton@enron.com: ('drew.fossum@enron.com', 1) -> ('kevin.hyatt@enron.com', 1)
+drew.fossum@enron.com: ('maria.pavlou@enron.com', 96) -> ('n..gray@enron.com', 1) -> ('b..sanders@enron.com', 2) -> ('robert.jones@enron.com', 19) -> ('martha.benner@enron.com', 653) -> ('david.foti@enron.com', 3) -> ('louis.soldano@enron.com', 88) -> ('susan.scott@enron.com', 311) -> ('expense.report@enron.com', 40) -> ('kevin.hyatt@enron.com', 73) -> ('staci.holtzman@enron.com', 4) -> ('bob.chandler@enron.com', 42) -> ('dorothy.mccoppin@enron.com', 23) -> ('mary.miller@enron.com', 113) -> ('michel.nelson@enron.com', 28) -> ('john.enerson@enron.com', 8) -> ('kent.miller@enron.com', 12) -> ('ajenkins@lanlaw.com', 11) -> ('stephen.thome@enron.com', 6) -> ('jeffery.fawcett@enron.com', 67) -> ('dhill@wrf.com', 18) -> ('dave.neubauer@enron.com', 28) -> ('bill.cordes@enron.com', 51) -> ('michael.moran@enron.com', 73) -> ('lee.huber@enron.com', 97) -> ('kathy.ringblom@enron.com', 59) -> ('tony.pryor@enron.com', 56) -> ('paulg@stpaul.lib.mn.us', 9) -> ('cindy.stark@enron.com', 11) -> ('rlfossum@mato.com', 20) -> ('gbriden.snakehill@worldnet.att.net', 9) -> ('dari.dornan@enron.com', 37) -> ('breasoner@gibbs-bruns.com', 3) -> ('jenerso@ei.enron.com', 8) -> ('james.centilli@enron.com', 10) -> ('keith.petersen@enron.com', 32) -> ('randy.rice@enron.com', 3) -> ('sackreit@flash.net', 4) -> ('dhooker@caes.net', 20) -> ('stanley.horton@enron.com', 10) -> ('tyler.theobald@enron.com', 3) -> ('danny.mccarty@enron.com', 12) -> ('jean.mcfarland@enron.com', 36) -> ('julie.armstrong@enron.com', 7) -> ('ranelle.paladino@enron.com', 14) -> ('steven.harris@enron.com', 118) -> ('lynn.blair@enron.com', 17) -> ('steven.january@enron.com', 3) -> ('britt.davis@enron.com', 26) -> ('denise.lagesse@enron.com', 63) -> ('norma.hasenjager@enron.com', 18) -> ('drew.fossum@enron.com', 14) -> ('mark.schroeder@enron.com', 37) -> ('shelley.corman@enron.com', 73) -> ('mark.whitt@enron.com', 3) -> ('laura.wilkinson@enron.com', 3) -> ('christine.stokes@enron.com', 46) -> ('paul.cherry@enron.com', 15) -> ('mcohn@hou-law.com', 4) -> ('paul.bieniawski@enron.com', 14) -> ('jan.cobden@enron.com', 19) -> ('lorna.brennan@enron.com', 17) -> ('rod.hayslett@enron.com', 14) -> ('lbickle@hvllc.com', 4) -> ('craig.buehler@enron.com', 10) -> ('mark.knippa@enron.com', 6) -> ('mcalderone@tpc-corp.com', 4) -> ('dan.bunch@enron.com', 9) -> ('debbie.moseley@enron.com', 3) -> ('steve.kirk@enron.com', 10) -> ('dloon@uschamber.com', 35) -> ('jw1000mac@yahoo.com', 4) -> ('dhill@bspmlaw.com', 4) -> ('julia.white@enron.com', 11) -> ('william.brown@enron.com', 15) -> ('judy.kudym@enron.com', 6) -> ('molly.sample@enron.com', 3) -> ('jeff.dasovich@enron.com', 3) -> ('darrell.schoolcraft@enron.com', 5) -> ('magdelena.cruz@enron.com', 8) -> ('lillian.villarreal@enron.com', 4) -> ('tony@digitrain.com', 13) -> ('fossum4@home.com', 10) -> ('norm.ruiz@enron.com', 4) -> ('dan.pribble@enron.com', 4) -> ('steve.klimesh@enron.com', 4) -> ('sharon.solon@enron.com', 9) -> ('mike.mcgowan@enron.com', 14) -> ('james.saunders@enron.com', 4) -> ('dana.jones@enron.com', 4) -> ('kimberly.watson@enron.com', 8) -> ('ld.stephens@enron.com', 4) -> ('larry.pavlou@enron.com', 8) -> ('janet.butler@enron.com', 4) -> ('frank.bay@enron.com', 29) -> ('joe.jeffers@enron.com', 12) -> ('bob.stevens@enron.com', 4) -> ('gina.taylor@enron.com', 8) -> ('dan.fancler@enron.com', 12) -> ('barbara.gray@enron.com', 5) -> ('kbaird@firstrate.com', 5) -> ('ajc@infohwy.com', 7) -> ('emily.sellers@enron.com', 88) -> ('laura.kinningham@enron.com', 4) -> ('ann.ballard@enron.com', 8) -> ('fran.fagan@enron.com', 9) -> ('donna.martens@enron.com', 4) -> ('eric.benson@enron.com', 10) -> ('mark.greenberg@enron.com', 4) -> ('peggy.phillips@enron.com', 7) -> ('adam.umanoff@enron.com', 5) -> ('eric.gadd@enron.com', 10) -> ('rhirasuna@akingump.com', 3) -> ('brian.schaffer@enron.com', 4) -> ('janet.cones@enron.com', 4) -> ('john.dushinske@enron.com', 16) -> ('dave.schafer@enron.com', 7) -> ('donna.fulton@enron.com', 7) -> ('tammy.jaquet@enron.com', 3) -> ('gay.arnold@enron.com', 3) -> ('lorraine.lindberg@enron.com', 12) -> ('sackreiter@randolph.af.mil', 8) -> ('martha.janousek@enron.com', 3) -> ('donald.vignaroli@enron.com', 3) -> ('tom.shelton@enron.com', 3) -> ('weaverbh@kenyon.edu', 4) -> ('jim.talcott@enron.com', 6) -> ('colleen.raker@enron.com', 4) -> ('tsiguaw@markethubs.com', 4) -> ('dhooker@utilicorp.com', 35) -> ('rick.dietz@enron.com', 6) -> ('sandra.evans@enron.com', 6) -> ('harry.kingerski@enron.com', 3) -> ('beth.ryan@enron.com', 3) -> ('jo.williams@enron.com', 6) -> ('ppeldner@utilicorp.com', 3) -> ('bill.votaw@enron.com', 8) -> ('morgan.gottsponer@enron.com', 8) -> ('sue.neville@enron.com', 3) -> ('annmarie.tiller@enron.com', 3) -> ('linda.trevino@enron.com', 3) -> ('egert_steve@emc.com', 6) -> ('kim.wilkie@enron.com', 16) -> ('jalexander@gibbs-bruns.com', 4) -> ('leslie.lawner@enron.com', 6) -> ('tmonaldo@mrg-11c.com', 8) -> ('jeff.fawcett@enron.com', 4) -> ('mschroeder@enron.co.uk', 4) -> ('julie.mccoy@enron.com', 6) -> ('bob.burleson@enron.com', 3) -> ('tim.durst@bakerbotts.com', 3) -> ('maria.perales@enron.com', 3) -> ('john.goodpasture@enron.com', 10) -> ('teb.lokey@enron.com', 3) -> ('comd3@swcp.com', 7) -> ('sarabeth.smith@enron.com', 6) -> ('gjporter@midamerican.com', 4) -> ('dschumeister@shearman.com', 3) -> ('frank.semin@enron.com', 4) -> ('john.williams@enron.com', 4) -> ('jeff.nielsen@enron.com', 3) -> ('jwyss@wrf.com', 3) -> ('patrick.brennan@enron.com', 3) -> ('mschroeder@enron.com', 8) -> ('steve.hotte@enron.com', 3) -> ('david.forster@enron.com', 3) -> ('naveed.ahmed@enron.com', 7) -> ('terickson@cftc.gov', 4) -> ('dale.neuner@enron.com', 4) -> ('vernon.mercaldo@enron.com', 4) -> ('frank.oldenhuis@enron.com', 4) -> ('tim.aron@enron.com', 3) -> ('beverley.ashcroft@enron.com', 4) -> ('lee.ferrell@enron.com', 4) -> ('mike.barry@enron.com', 4) -> ('mark.courtney@enron.com', 4) -> ('rich.jolly@enron.com', 3) -> ('lindy.donoho@enron.com', 4) -> ('jan.moore@enron.com', 4) -> ('hirasuna@enron.com', 1) -> ('sackreiters@compuserve.com', 1) -> ('loon@enron.com', 2)
+rastin@velaw.com: ('dilg@enron.com', 1) -> ('joe.dilg@enron.com', 1)
+dilg@enron.com:
+maria.pavlou@enron.com: ('j..porter@enron.com', 1) -> ('kay.miller@enron.com', 1) -> ('lindy.donoho@enron.com', 2) -> ('martha.benner@enron.com', 1) -> ('bill.rapp@enron.com', 1) -> ('dari.dornan@enron.com', 3) -> ('drew.fossum@enron.com', 8) -> ('steve.kirk@enron.com', 2)
+ladean@uts.cc.utexas.edu: ('liberal-arts-alumni@lists.cc.utexas.edu', 1)
+liberal-arts-alumni@lists.cc.utexas.edu:
+donna.lowry@enron.com: ('john.allario@enron.com', 2)
+john.allario@enron.com:
+n..gray@enron.com: ('drew.fossum@enron.com', 1)
+b..sanders@enron.com: ('james.derrick@enron.com', 2)
+cschwartz@velaw.com: ('james.derrick@enron.com', 4)
+joannie.williamson@enron.com: ('elizabeth.tilney@enron.com', 1) -> ('jeff.messina@enron.com', 1) -> ('raymond.bowen@enron.com', 2)
+elizabeth.tilney@enron.com:
+andrew.edison@enron.com: ('drew.fossum@enron.com', 1) -> ('james.derrick@enron.com', 1)
+bruce.lundstrom@enron.com: ('rob.walls@enron.com', 1) -> ('james.derrick@enron.com', 6)
+mark.metts@enron.com: ('james.derrick@enron.com', 1)
+nolda.halderman@enron.com: ('james.derrick@enron.com', 1)
+joe.dilg@enron.com:
+lisa.costello@enron.com: ('raymond.bowen@enron.com', 1)
+raymond.bowen@enron.com:
+vireturn@uts.cc.utexas.edu: ('james.derrick@enron.com', 1)
+eserver@enron.com: ('jderric@enron.com', 10)
+jarek.astramowicz@enron.com: ('jacek.glowacki@enron.com', 1) -> ('renata.maziarz@enron.com', 2) -> ('adam.overfield@enron.com', 2) -> ('ed.cattigan@enron.com', 2)
+jacek.glowacki@enron.com: ('adam.jarek@enron.com', 1)
+larry.pardue@enron.com: ('angie.ramirez@enron.com', 7) -> ('bruce.lundstrom@enron.com', 1) -> ('james.derrick@enron.com', 1)
+angie.ramirez@enron.com:
+robert.vote@enron.com: ('james.derrick@enron.com', 2)
+lillian.bailey@enron.com: ('angie.ramirez@enron.com', 2) -> ('cynthia.barrow@enron.com', 2) -> ('beth.apke@enron.com', 1) -> ('alan.aronowitz@enron.com', 1) -> ('a..aune@enron.com', 4)
+c..williams@enron.com: ('james.derrick@enron.com', 7) -> ('rob.walls@enron.com', 1) -> ('mark.haedicke@enron.com', 1)
+adam.jarek@enron.com:
+renata.maziarz@enron.com: ('adam.overfield@enron.com', 5) -> ('anne.edgley@enron.com', 1)
+adam.overfield@enron.com: ('jarek.astramowicz@enron.com', 2) -> ('ed.cattigan@enron.com', 1)
+gael.doar@enron.com: ('lgalvarado@alvaradoconstruction.com', 1)
+lgalvarado@alvaradoconstruction.com:
+j..kean@enron.com: ('kenneth.lay@enron.com', 2) -> ('james.derrick@enron.com', 1) -> ('john.ambler@enron.com', 2) -> ('e..haedicke@enron.com', 1)
+fsmith008@aol.com: ('peter.arbour@halliburton.com', 1) -> ('drc@harte-hanks.com', 1)
+peter.arbour@halliburton.com:
+info@aplf.org: ('james.derrick@enron.com', 1)
+karen.hedley@enron.com: ('james.derrick@enron.com', 1)
+david.burns@bakerbotts.com: ('robert.eickenroht@enron.com', 1)
+britt.davis@enron.com: ('peter.del@enron.com', 1) -> ('james.derrick@enron.com', 4) -> ('c..williams@enron.com', 1) -> ('michael.moran@enron.com', 6)
+peter.del@enron.com: ('john.ale@enron.com', 1)
+julia.murray@enron.com: ('john.ale@enron.com', 1)
+joseph.cialone@bakerbotts.com:
+eric.newell@enron.com: ('rob.walls@enron.com', 1) -> ('james.derrick@enron.com', 1)
+kay.chapman@enron.com:
+sara.davidson@enron.com: ('suhas.tuljapurkar@enron.com', 1)
+suhas.tuljapurkar@enron.com:
+ebattioli@azurixbasa.com.ar:
+jeff.messina@enron.com:
+paula.rieker@enron.com: ('raymond.bowen@enron.com', 1) -> ('l..wells@enron.com', 1) -> ('james.derrick@enron.com', 11) -> ('rosalee.fleming@enron.com', 1)
+pincussr@nmenergy.com: ('james.derrick@enron.com', 1) -> ('jderric@enron.com', 1)
+sylvia.hu@enron.com: ('e..brown@enron.com', 18) -> ('clement.abrams@enron.com', 5) -> ('elaine.overturf@enron.com', 8) -> ('andrew.wu@enron.com', 3) -> ('michael.moran@enron.com', 6)
+e..brown@enron.com:
+travelsmith.193805657@s2u2.com: ('james.derrick@enron.com', 1)
+london.brown@enron.com: ('a..hughes@enron.com', 1)
+a..hughes@enron.com: ('jeff.skilling@enron.com', 1)
+lisa.mellencamp@enron.com:
+c..forsyth@enron.com: ('ben.glisan@enron.com', 1)
+erica.braden@enron.com:
+mhoran@shb.com: ('james.derrick@enron.com', 3)
+doug.leach@enron.com: ('bruce.lundstrom@enron.com', 1)
+tom.bres@gs.com: ('james.derrick@enron.com', 2)
+yener@singnet.com.sg: ('james.derrick@enron.com', 1)
+david.minns@enron.com: ('james.derrick@enron.com', 1)
+e..lindsey@enron.com:
+gschoen@frontierinvest.com: ('gschoen@frontierinvest.com', 2)
+margarita.coale@weil.com: ('james.derrick@enron.com', 1)
+tetoffensive@mail2world.com: ('philippe.a.bibi@enron.com', 1)
+philippe.a.bibi@enron.com:
+lori.pinder@enron.com: ('angie.ramirez@enron.com', 3)
+dirk.van@enron.com: ('james.derrick@enron.com', 1)
+george.lojko@enron.com: ('adam.overfield@enron.com', 1)
+health_africa@yahoo.com: ('james.derrick@enron.com', 1)
+thomas.riehle@ipsos-reid.com: ('james.derrick@enron.com', 1)
+bccorplegal@email.com: ('bccorplegal@email.com', 1)
+whitney@thelaw.net: ('james.derrick@enron.com', 1) -> ('dfossum@enron.com', 10)
+bart_schwartz@mony.com: ('corpgen@mail.abanet.org', 1)
+ksterling@sterlingandassociates.com: ('cater.john@enron.com', 1)
+cater.john@enron.com:
+wjoor@velaw.com: ('james.derrick@enron.com', 1)
+charles.morgan@bellsouth.com: ('corpgen@mail.abanet.org', 1)
+beisenberg@starpower.net: ('james.derrick@enron.com', 1)
+watsons@nytimes.com: ('corpgen@mail.abanet.org', 1)
+sheila.walton@enron.com: ('james.derrick@enron.com', 4) -> ('rob.walls@enron.com', 1)
+patkins@skadden.com: ('karen.denne@enron.com', 2)
+sandmanp@bsci.com: ('corpgen@mail.abanet.org', 1)
+jian.miao@enron.com: ('angel.esguerra@enron.com', 1)
+angel.esguerra@enron.com: ('james.derrick@enron.com', 1) -> ('miguel.gaffud@enron.com', 1)
+john.ambler@enron.com:
+maureen.mcvicker@enron.com: ('john.ambler@enron.com', 2)
+paul.polking@bankofamerica.com: ('corpgen@mail.abanet.org', 1)
+akell00@sears.com: ('corpgen@mail.abanet.org', 1)
+coralina.rivera@enron.com: ('mark.holsworth@enron.com', 1)
+mark.holsworth@enron.com: ('susan.bulgawicz@enron.com', 1)
+pat.radford@enron.com: ('kenneth.lay@enron.com', 3)
+lobaughl@niagaramohawk.com: ('james.derrick@enron.com', 2)
+pete.bewley@clorox.com: ('corpgen@mail.abanet.org', 1)
+l..wells@enron.com: ('raymond.bowen@enron.com', 1)
+susan.bulgawicz@enron.com:
+teresa.callahan@enron.com: ('a..aune@enron.com', 1) -> ('greek.rice@enron.com', 1)
+a..aune@enron.com:
+lauren.christie@enron.com: ('james.derrick@enron.com', 1)
+vance.meyer@enron.com: ('james.derrick@enron.com', 1)
+hhu@mail.law.utexas.edu: ('james.derrick@enron.com', 2)
+jan-g1@hotmail.com: ('james.derrick@enron.com', 2)
+douglas_nichols@pgn.com: ('james.derrick@enron.com', 2)
+cynthia.barrow@enron.com:
+jbrenner@wilmer.com: ('james.derrick@enron.com', 1)
+hardie.davis@enron.com: ('james.derrick@enron.com', 3)
+martha.braddy@enron.com:
+beth.apke@enron.com:
+jan.cooley@enron.com: ('mark.frevert@enron.com', 1)
+mark.frevert@enron.com:
+scott.flukinger@dfait-maeci.gc.ca: ('james.derrick@enron.com', 1)
+alan.aronowitz@enron.com:
+billy.dorsey@enron.com: ('jeremy.blachman@enron.com', 1)
+jeremy.blachman@enron.com:
+vicki.sharp@enron.com: ('peter.del@enron.com', 1) -> ('keffer@enron.com', 1)
+clafollette@kslaw.com: ('james.derrick@enron.com', 1)
+ed.cattigan@enron.com: ('jarek.astramowicz@enron.com', 2) -> ('adam.overfield@enron.com', 1)
+rob.bradley@enron.com: ('james.derrick@enron.com', 2)
+michelle.cash@enron.com: ('james.derrick@enron.com', 1) -> ('elizabeth.labanowski@enron.com', 1)
+rgreenberg@gpsolaw.com: ('james.derrick@enron.com', 2)
+michael.hicks@enron.com: ('kenneth.lay@enron.com', 1)
+tiusa@aol.com: ('charles.p.heeter@awo.com', 5)
+charles.p.heeter@awo.com:
+twayne@waynedirect.com: ('james.derrick@enron.com', 1)
+coggins@enron.com:
+derrick.jr.@enron.com:
+bkelly@ncsc.dni.us: ('james.derrick@enron.com', 1)
+l..bouillion@enron.com: ('james.derrick@enron.com', 2)
+joshn@induslogic.com: ('james.derrick@enron.com', 1)
+miguel.gaffud@enron.com:
+vsharp@enron.com:
+clayton.vernon@enron.com: ('james.derrick@enron.com', 1)
+fatimapr@softcom.ca: ('fatimapr@softcom.ca', 1)
+keffer@enron.com:
+jay.ferry@enron.com: ('walton.agnew@enron.com', 1)
+walton.agnew@enron.com:
+hanhsmith@aol.com: ('j.derrick@enron.com', 1)
+j.derrick@enron.com:
+asmith@velaw.com: ('james.derrick@enron.com', 1)
+richard.causey@enron.com:
+peter.keohane@enron.com: ('james.derrick@enron.com', 1)
+george.wasaff@enron.com: ('karen.denne@enron.com', 1)
+adrian.montague@socgen.co.uk: ('james.derrick@enron.com', 1)
+powerst@haynesboone.com: ('james.derrick@enron.com', 1)
+jlowe@mail.smu.edu:
+jvd024@hotmail.com: ('james.derrick@enron.com', 2)
+crogers@mail.smu.edu: ('james.derrick@enron.com', 1)
+vanessa.groscrand@enron.com: ('richard.cliff@enron.com', 1)
+richard.cliff@enron.com:
+drc@harte-hanks.com:
+richard.devlin@mail.sprint.com: ('corpgen@mail.abanet.org', 1)
+bobg1@griesenbeck.com: ('james.derrick@enron.com', 1)
+scott.dieball@enron.com: ('james.derrick@enron.com', 1)
+bobbie.power@enron.com: ('raymond.bowen@enron.com', 1)
+hartrick@alumni.rice.edu:
+friedland@enron.com:
+snewton@ev1.net: ('james.derrick@enron.com', 1)
+elizabeth.sager@enron.com:
+jan_g1@hotmail.com: ('james.derrick@enron.com', 1)
+cassandra.schultz@enron.com: ('kenneth.lay@enron.com', 1)
+e..haedicke@enron.com:
+chris.mahoney@enron.com: ('james.derrick@enron.com', 1)
+cdavidow@wilmer.com: ('james.derrick@enron.com', 2)
+nell.browning@enron.com: ('james.derrick@enron.com', 3)
+kersten.schenck@cliffordchance.com: ('jim.derrick@enron.com', 1)
+jim.derrick@enron.com:
+greek.rice@enron.com:
+travelsmith.240255380@s2u2.com: ('james.derrick@enron.com', 1)
+linda.robertson@enron.com: ('james.derrick@enron.com', 1)
+wmclucas@wilmer.com: ('james.derrick@enron.com', 2)
+brad.kirchhofer@enron.com: ('james.derrick@enron.com', 1)
+d..jones@enron.com: ('james.derrick@enron.com', 1)
+joe.gold@enron.com: ('jeffrey.mcmahon@enron.com', 1)
+jeffrey.mcmahon@enron.com:
+stuart.salt@linklaters.com: ('james.derrick@enron.com', 1)
+mark_berg@agfg.com: ('james.derrick@enron.com', 1)
+c..willard@enron.com: ('james.derrick@enron.com', 1)
+emily.ward@bellsouth.com: ('corpgen@mail.abanet.org', 1)
+mattox@spahouston.org: ('james.derrick@enron.com', 1)
+krzysztof.forycki@enron.com: ('ed.cattigan@enron.com', 1)
+e..parrish@enron.com: ('ed.cattigan@enron.com', 1)
+sophie.martin@enron.com: ('ed.cattigan@enron.com', 1)
+ppien@elawforum.com: ('james.derrick@enron.com', 2)
+exchange.administrator@enron.com: ('sbwoil@aol.com', 1)
+sbwoil@aol.com:
+sberry@susmangodfrey.com: ('james.derrick@enron.com', 1)
+billy.lemmons@enron.com: ('james.lewis@enron.com', 1)
+james.lewis@enron.com:
+scott@hbb-law.com: ('jderric@enron.com', 1)
+steven.kean@enron.com: ('james.derrick@enron.com', 1)
+rylanderj@home.com: ('james.derrick@enron.com', 1)
+iona.maclean@enron.com: ('ann.schmidt@enron.com', 1)
+ann.schmidt@enron.com:
+judytucker@kslaw.com: ('james.derrick@enron.com', 1)
+rob.cole@enron.com: ('james.derrick@enron.com', 1)
+sharon.morgan@enron.com: ('john.ale@enron.com', 1)
+mary.ogden@enron.com:
+nelly.carpenter@enron.com: ('michael.hicks@enron.com', 1)
+greg_rutchik@yahoo.com: ('james.derrick@enron.com', 1)
+leena.mathews@enron.com: ('juan.torres@enron.com', 1)
+juan.torres@enron.com:
+elaine.overturf@enron.com: ('frank.lobdell@enron.com', 1)
+frank.lobdell@enron.com:
+demetris@publicans.com: ('james.derrick@enron.com', 1)
+kevin.hannon@enron.com: ('kenneth.lay@enron.com', 1)
+hreasoner@velaw.com: ('charles.berry@enron.com', 1)
+charles.berry@enron.com:
+ghkim@sk-enron.com: ('chirstopher.b.hunt@enron.com', 1)
+chirstopher.b.hunt@enron.com:
+annette.patrick@enron.com:
+generalinfo@marketing.vignette.com: ('james.derrick@enron.com', 1)
+monique.shankle@enron.com: ('rex.rogers@enron.com', 1)
+anne.edgley@enron.com:
+michael.brown@enron.com:
+htheaker@velaw.com: ('james.derrick@enron.com', 1)
+brian.skruch@reddotsolutions.com: ('james.derrick@enron.com', 1)
+awu@quinnemanueal.com:
+suzanne.danz@enron.com:
+david.koogler@enron.com:
+awu@quinnemanuel.com:
+wdriver@kslaw.com:
+dtomlin@bcm.tmc.edu:
+james.grace@enron.com:
+elizabeth.linnell@enron.com:
+grossbem@tklaw.com:
+joel.ephross@enron.com:
+40newpower@enron.com:
+kathy.kumiega@elftech.com:
+geiland@velaw.com:
+adam.umanoff@enron.com:
+poxford@bracepatt.com:
+ann.ballard@enron.com:
+scott@nypcdsn02.eq.gs.com:
+richard.dimichele@enron.com:
+matthias.lee@enron.com:
+crissy.collett@enron.com:
+rainsworth@shb.com:
+david.jackson@blakes.com:
+michelle.blaine@enron.com:
+cbreaux@ncsc.dni.us:
+david.haug@enron.com:
+colleen.raker@enron.com:
+dwinn@swlegal.orgn:
+mld@nwnatural.com:
+m1d@nwnatural.com:
+iam@michaelberry.com:
+l..petrochko@enron.com:
+tshelton@aol.com:
+enrique.zambrano@enron.com:
+nbrazzil@mail.law.tuexas.edu:
+charles.allen-jones@linklaters.com:
+kriste.sullivan@enron.com:
+ann.linnehan@pb.com:
+tracy.foy@enron.com:
+jez.peters@enron.com:
+rawson@lucent.com:
+mike.whealy@firstdatacorp.com:
+diggs@ppg.com:
+gail.brownfeld@enron.com:
+awu@quinnemanuel.coml:
+blafuze@velaw.com:
+rene.moulinet@enron.com:
+fmackin@aol.com:
+david.nutt@enron.com:
+jnewton@ev1.net:
+kzelikovitz@mariner-energy.com:
+jeff.donahue@enron.com:
+mary.joyce@enron.com:
+bxc@bediligent.com:
+cindy.olson@enron.com:
+maria.scudder@linklaters.com:
+kristina.mordaunt@enron.com:
+elaine.esparza@enron.com:
+amy.mulligan@enron.com: ('jan.moore@enron.com', 1) -> ('lindy.donoho@enron.com', 1)
+jan.moore@enron.com: ('mansoor.abdmoulaie@enron.com', 5) -> ('kimberly.watson@enron.com', 1) -> ('lindy.donoho@enron.com', 7) -> ('tracy.geaccone@enron.com', 1) -> ('maria.pavlou@enron.com', 1) -> ('steven.harris@enron.com', 6) -> ('drew.fossum@enron.com', 3)
+angela.white@enron.com: ('dennis.lee@enron.com', 2) -> ('michael.bodnar@enron.com', 2)
+dennis.lee@enron.com: ('michael.bodnar@enron.com', 2) -> ('paul.cherry@enron.com', 2) -> ('jean.adams@enron.com', 1) -> ('linda.trevino@enron.com', 1) -> ('craig.buehler@enron.com', 3) -> ('angela.white@enron.com', 1) -> ('elizabeth.brown@enron.com', 1) -> ('lorraine.lindberg@enron.com', 1)
+michael.bodnar@enron.com: ('michael.bodnar@enron.com', 2)
+newsletter@rigzone.com: ('lindy.donoho@enron.com', 8)
+lindy.donoho@enron.com: ('audrey.robertson@enron.com', 14) -> ('lachandra.fenceroy@enron.com', 1) -> ('michael.ratner@enron.com', 15) -> ('yuan.tian@enron.com', 1) -> ('kay.miller@enron.com', 5) -> ('elizabeth.brown@enron.com', 6) -> ('tracy.geaccone@enron.com', 14) -> ('steven.harris@enron.com', 24) -> ('a..howard@enron.com', 9) -> ('jeanette.doll@enron.com', 1) -> ('alma.carrillo@enron.com', 1) -> ('hasan.kedwaii@enron.com', 4) -> ('jan.moore@enron.com', 11) -> ('gina.taylor@enron.com', 3) -> ('lorraine.lindberg@enron.com', 5) -> ('fran.fagan@enron.com', 1) -> ('james.centilli@enron.com', 3) -> ('anitha.mathis@enron.com', 1) -> ('linda.trevino@enron.com', 1) -> ('lisa.watson@gulfsouthpl.com', 2) -> ('kimberly.watson@enron.com', 9) -> ('terry.kowalke@enron.com', 2) -> ('tk.lohman@enron.com', 6) -> ('chelme@cox.net', 1) -> ('ramona.betancourt@enron.com', 3) -> ('harry@harrylenkerd.com', 1) -> ('dennis.lee@enron.com', 6) -> ('davis.thames@enron.com', 4) -> ('adonoho@houston.rr.com', 7) -> ('lillian.villarreal@enron.com', 1) -> ('r-8-724539-3371579-2-1232-us2-79556634@xmr3.com', 1) -> ('ahmedxii@yahoo.com', 1) -> ('morad@midsouth.rr.com', 4) -> ('david.a.foti@accenture.com', 1) -> ('e..brown@enron.com', 2) -> ('rich.jolly@enron.com', 2) -> ('shelley.corman@enron.com', 2) -> ('kathy.campos@enron.com', 1) -> ('maria.pavlou@enron.com', 5) -> ('perry.frazier@enron.com', 1) -> ('carolyn.graham@enron.com', 1) -> ('patricia.steele@enron.com', 2) -> ('robert.kilmer@enron.com', 1) -> ('mark.mcconnell@enron.com', 3) -> ('bill.rapp@enron.com', 2) -> ('mary.darveaux@enron.com', 1) -> ('rod.hayslett@enron.com', 1) -> ('gregory.porter@enron.com', 1) -> ('janet.butler@enron.com', 1) -> ('mark.knippa@enron.com', 1) -> ('margy2001@yahoo.com', 1) -> ('melinda.gallishaw@enron.com', 1) -> ('josie.call@enron.com', 1) -> ('kevin.hyatt@enron.com', 1) -> ('gay.mayeux@enron.com', 1) -> ('8772374503@pagenetmessage.net', 1) -> ('m.hall@enron.com', 1) -> ('danny.mccarty@enron.com', 2) -> ('lynn.blair@enron.com', 1) -> ('glen.hass@enron.com', 2) -> ('john.buchanan@enron.com', 1) -> ('timothy.jones@enron.com', 1) -> ('teb.lokey@enron.com', 2) -> ('craig.buehler@enron.com', 1) -> ('amy.mulligan@enron.com', 1) -> ('ken.powers@enron.com', 2) -> ('esc-christmanj@pearland.isd.esc4.net', 1) -> ('sslindberg@duke-energy.com', 1) -> ('drew.fossum@enron.com', 3) -> ('mary.miller@enron.com', 8) -> ('steven.january@enron.com', 3) -> ('susan.scott@enron.com', 3)
+craig.buehler@enron.com: ('lindy.donoho@enron.com', 2) -> ('rick.dietz@enron.com', 1) -> ('craig.buehler@enron.com', 1)
+jjill@clickaction.net: ('lindy.donoho@enron.com', 2)
+events@eyeforenergy.com: ('events@eyeforenergy.com', 2)
+talbots@clickaction.net: ('lindy.donoho@enron.com', 4)
+enerfaxdaily@enerfax.com: ('lindy.donoho@enron.com', 7)
+john@pgsenergy.com: ('lindy.donoho@enron.com', 3)
+kay.miller@enron.com: ('maria.pavlou@enron.com', 1) -> ('bill.rapp@enron.com', 1) -> ('kimberly.watson@enron.com', 1)
+jo.williams@enron.com: ('tim.johanson@enron.com', 1)
+tim.johanson@enron.com: ('connie.hook@enron.com', 1)
+connie.hook@enron.com: ('doug.aschwege@enron.com', 1)
+lorna.brennan@enron.com: ('courtney.barker@enron.com', 10) -> ('gabriel.chavez@enron.com', 4) -> ('ken.anderson@enron.com', 2) -> ('gina.taylor@enron.com', 1) -> ('glen.hass@enron.com', 1) -> ('julie.mccoy@enron.com', 54) -> ('margaret.carson@enron.com', 5) -> ('rockey.storie@enron.com', 6) -> ('drew.fossum@enron.com', 2) -> ('steven.harris@enron.com', 2) -> ('danny.mccarty@enron.com', 3)
+courtney.barker@enron.com:
+doug.aschwege@enron.com:
+john.sweney@brookwoods.com: ('sweney@enron.com', 1)
+sweney@enron.com:
+gabriel.chavez@enron.com:
+pilar.ramirez@enron.com: ('pilar.ramirez@enron.com', 1) -> ('craig.buehler@enron.com', 1)
+ava.garcia@enron.com: ('lindy.donoho@enron.com', 2)
+lillian.villarreal@enron.com: ('rita.bianchi@enron.com', 1) -> ('andy.brady@enron.com', 1)
+rita.bianchi@enron.com: ('elizabeth.brown@enron.com', 1)
+ken.anderson@enron.com:
+deanrodgers@kaseco.com: ('lindy.donoho@enron.com', 1)
+rosemary.gracey@enron.com: ('doug.aschwege@enron.com', 1) -> ('carol.armstrong@enron.com', 1) -> ('courtney.barker@enron.com', 1) -> ('john.dushinske@enron.com', 3) -> ('dave.neubauer@enron.com', 2) -> ('drew.fossum@enron.com', 3)
+mark.mcconnell@enron.com: ('michelle.lokay@enron.com', 1)
+michelle.lokay@enron.com: ('steven.harris@enron.com', 8) -> ('rod.hayslett@enron.com', 1)
+paul.cherry@enron.com:
+jennifersmith@kaseco.com: ('lindy.donoho@enron.com', 1)
+audrey.robertson@enron.com: ('lindy.donoho@enron.com', 3) -> ('audrey.robertson@enron.com', 1) -> ('jan.moore@enron.com', 1) -> ('james.centilli@enron.com', 1) -> ('bill.rapp@enron.com', 1) -> ('dennis.alters@enron.com', 2) -> ('kimberly.watson@enron.com', 1) -> ('kevin.hyatt@enron.com', 1) -> ('steven.harris@enron.com', 2)
+01@ftenergy.com: ('plattsnews@list1.resdata.com', 1)
+plattsnews@list1.resdata.com:
+mansoor.abdmoulaie@enron.com:
+steven.harris@enron.com: ('david.a.foti@accenture.com', 1) -> ('lindy.donoho@enron.com', 1) -> ('drew.fossum@enron.com', 12) -> ('mike.mcgowan@enron.com', 2) -> ('mary.miller@enron.com', 3)
+andy.brady@enron.com:
+morgan.gottsponer@enron.com: ('dl-ets_pfp@enron.com', 4)
+dl-ets_pfp@enron.com:
+hotline.isc@enron.com: ('list.enron@enron.com', 2)
+list.enron@enron.com:
+ramona.betancourt@enron.com: ('lindy.donoho@enron.com', 3) -> ('linda.trevino@enron.com', 1) -> ('hasan.kedwaii@enron.com', 1)
+jean.adams@enron.com:
+james.centilli@enron.com: ('lindy.donoho@enron.com', 1)
+carol.armstrong@enron.com:
+bill.rapp@enron.com: ('lindy.donoho@enron.com', 4) -> ('steven.harris@enron.com', 3) -> ('kimberly.watson@enron.com', 1)
+dennis.alters@enron.com: ('robert.hayes@enron.com', 1)
+rick.dietz@enron.com: ('lindy.donoho@enron.com', 2)
+elizabeth.brown@enron.com: ('laura.giambrone@enron.com', 1) -> ('lindy.donoho@enron.com', 2) -> ('shelley.corman@enron.com', 2) -> ('kimberly.watson@enron.com', 1)
+laura.giambrone@enron.com:
+kimberly.watson@enron.com: ('lindy.donoho@enron.com', 6) -> ('jan.moore@enron.com', 1)
+lippmanc@aol.com: ('lippmanc@aol.com', 7)
+energyreleases@excite.com: ('lindy.donoho@enron.com', 1)
+david.a.foti@accenture.com: ('lindy.donoho@enron.com', 3)
+richard.hanagriff@enron.com: ('rick.dietz@enron.com', 1)
+gina.taylor@enron.com:
+adamsholly@netscape.net: ('ldonoho@enron.com', 1) -> ('duluth1@yahoo.com', 1) -> ('lindy.donoho@enron.com', 2)
+ldonoho@enron.com:
+robert.hayes@enron.com:
+j..porter@enron.com:
+orders@nordstrom.com: ('lindy.donoho@enron.com', 1)
+shelley.corman@enron.com: ('lynn.blair@enron.com', 1) -> ('stanley.horton@enron.com', 21) -> ('tim.aron@enron.com', 4) -> ('mary.miller@enron.com', 8) -> ('tony.pryor@enron.com', 2) -> ('steven.kean@enron.com', 2) -> ('michael.moran@enron.com', 3) -> ('drew.fossum@enron.com', 3) -> ('julie.armstrong@enron.com', 3) -> ('steven.harris@enron.com', 2)
+patricia.steele@enron.com: ('lindy.donoho@enron.com', 1)
+duluth1@yahoo.com:
+ken.powers@enron.com: ('richard.hanagriff@enron.com', 1) -> ('lindy.donoho@enron.com', 1)
+janet.butler@enron.com: ('ray.alvarez@enron.com', 2) -> ('nancy.bagot@enron.com', 1) -> ('daniel.allegretti@enron.com', 30)
+ray.alvarez@enron.com:
+lisa.fawcett@enron.com: ('lindy.donoho@enron.com', 1)
+ann.foret@enron.com: ('report.dl-ets@enron.com', 1)
+report.dl-ets@enron.com:
+glen.hass@enron.com: ('lindy.donoho@enron.com', 3) -> ('steven.harris@enron.com', 2) -> ('kimberly.watson@enron.com', 2) -> ('j..porter@enron.com', 1)
+terry.kowalke@enron.com: ('lindy.donoho@enron.com', 1) -> ('bill.rapp@enron.com', 1) -> ('lynn.blair@enron.com', 1)
+fhelme@avaya.com: ('lindy.donoho@enron.com', 2)
+rod.hayslett@enron.com: ('danny.mccarty@enron.com', 1) -> ('lindy.donoho@enron.com', 1) -> ('michelle.lokay@enron.com', 1)
+danny.mccarty@enron.com:
+lynn.blair@enron.com: ('john.buchanan@enron.com', 1) -> ('lindy.donoho@enron.com', 3)
+margy2001@yahoo.com: ('kmettling@chsomaha.org', 1) -> ('lindy.donoho@enron.com', 1)
+kmettling@chsomaha.org:
+tracy.geaccone@enron.com: ('jan.moore@enron.com', 1) -> ('lindy.donoho@enron.com', 1)
+kevin.hyatt@enron.com: ('steven.harris@enron.com', 1) -> ('sscott3@enron.com', 3) -> ('sharris1@enron.com', 2) -> ('bardblack@aol.com', 3) -> ('drew.fossum@enron.com', 3)
+hasan.kedwaii@enron.com: ('lindy.donoho@enron.com', 2)
+r-8-724539-3371579-2-1232-us2-79556634@xmr3.com: ('lindy.donoho@enron.com', 1)
+lisa.sawyer@enron.com: ('lindy.donoho@enron.com', 1)
+info@pmaconference.com: ('lindy.donoho@enron.com', 3)
+lorraine.lindberg@enron.com: ('lindy.donoho@enron.com', 4) -> ('kimberly.watson@enron.com', 1)
+linda.wehring@enron.com: ('audrey.robertson@enron.com', 1)
+wendy.koh@enron.com: ('lindy.donoho@enron.com', 1) -> ('shelley.corman@enron.com', 1)
+lachandra.fenceroy@enron.com: ('lindy.donoho@enron.com', 1)
+jeff.dasovich@enron.com: ('glen.hass@enron.com', 1)
+steve.kirk@enron.com: ('kimberly.watson@enron.com', 1) -> ('dale.neuner@enron.com', 2) -> ('drew.fossum@enron.com', 3)
+r..keller@enron.com: ('dennis.alters@enron.com', 1)
+martha.benner@enron.com: ('drew.fossum@enron.com', 11) -> ('d.smith@enron.com', 3) -> ('breasoner@gibbs-bruns.com', 4) -> ('john.dushinske@enron.com', 6) -> ('maria.pavlou@enron.com', 3) -> ('britt.davis@enron.com', 1)
+l.koob@gte.net: ('lindy.donoho@enron.com', 1)
+nancy.bagot@enron.com: ('shelley.corman@enron.com', 1) -> ('janet.butler@enron.com', 3) -> ('bambi.heckerman@enron.com', 3)
+nan.whatley@enron.com: ('lindy.donoho@enron.com', 1)
+lsriehm@houston.rr.com: ('home.kohler@enron.com', 1)
+home.kohler@enron.com:
+payroll.enron@enron.com: ('lindy.donoho@enron.com', 1)
+dan.fancler@enron.com: ('tracy.geaccone@enron.com', 1) -> ('rudi.zipter@enron.com', 2) -> ('tony.pryor@enron.com', 3) -> ('dan.fancler@enron.com', 3)
+perry.frazier@enron.com: ('dennis.lee@enron.com', 1)
+michael.ratner@enron.com: ('lindy.donoho@enron.com', 1)
+john.buchanan@enron.com:
+yuan.tian@enron.com:
+a..howard@enron.com:
+jeanette.doll@enron.com: ('steven.harris@enron.com', 13)
+alma.carrillo@enron.com:
+fran.fagan@enron.com:
+anitha.mathis@enron.com:
+lisa.watson@gulfsouthpl.com:
+chelme@cox.net:
+harry@harrylenkerd.com:
+davis.thames@enron.com:
+adonoho@houston.rr.com:
+ahmedxii@yahoo.com:
+morad@midsouth.rr.com:
+rich.jolly@enron.com: ('jeffery.fawcett@enron.com', 3) -> ('julia.white@enron.com', 3)
+kathy.campos@enron.com:
+robert.kilmer@enron.com:
+mary.darveaux@enron.com: ('lindy.donoho@enron.com', 3) -> ('dari.dornan@enron.com', 3) -> ('glen.hass@enron.com', 6) -> ('mary.miller@enron.com', 3)
+gregory.porter@enron.com:
+mark.knippa@enron.com:
+melinda.gallishaw@enron.com:
+josie.call@enron.com: ('mark.adelmann@enron.com', 6)
+gay.mayeux@enron.com:
+8772374503@pagenetmessage.net:
+m.hall@enron.com:
+timothy.jones@enron.com:
+teb.lokey@enron.com:
+esc-christmanj@pearland.isd.esc4.net:
+sslindberg@duke-energy.com:
+robert.jones@enron.com:
+david.foti@enron.com:
+sscott3@enron.com:
+kathy.ringblom@enron.com: ('dari.dornan@enron.com', 3) -> ('drew.fossum@enron.com', 1) -> ('jim.talcott@enron.com', 3) -> ('susan.scott@enron.com', 3) -> ('martha.benner@enron.com', 3)
+dari.dornan@enron.com: ('dale.neuner@enron.com', 1)
+louis.soldano@enron.com: ('drew.fossum@enron.com', 6) -> ('john.shafer@enron.com', 2)
+susan.scott@enron.com: ('lillian.bailey@enron.com', 6) -> ('steven.harris@enron.com', 8) -> ('mary.miller@enron.com', 10) -> ('drew.fossum@enron.com', 21) -> ('stan.horton@enron.com', 3) -> ('maria.pavlou@enron.com', 3) -> ('lindy.donoho@enron.com', 6)
+cbi_mail@igate.cbinet.com: ('dfossum@enron.com', 15)
+dfossum@enron.com:
+julie.mccoy@enron.com:
+margaret.carson@enron.com:
+john.dushinske@enron.com: ('kevin.hyatt@enron.com', 2)
+denise.lagesse@enron.com: ('drew.fossum@enron.com', 11) -> ('emily.sellers@enron.com', 3)
+ruth.mann@enron.com: ('julie.armstrong@enron.com', 3) -> ('nancy.bagot@enron.com', 3)
+julie.armstrong@enron.com:
+lwin@gbmdc.com: ('dari.dornan@enron.com', 6)
+mark.adelmann@enron.com:
+debbie.moseley@enron.com: ('bob.chandler@enron.com', 5)
+bob.chandler@enron.com: ('drew.fossum@enron.com', 8) -> ('tony.pryor@enron.com', 2) -> ('rod.hayslett@enron.com', 2)
+mary.miller@enron.com: ('glen.hass@enron.com', 3) -> ('drew.fossum@enron.com', 14) -> ('lindy.donoho@enron.com', 3) -> ('dave.neubauer@enron.com', 2) -> ('cindy.stark@enron.com', 3) -> ('susan.scott@enron.com', 6) -> ('shelley.corman@enron.com', 3) -> ('mary.darveaux@enron.com', 3) -> ('karen.lagerstrom@enron.com', 3) -> ('mike.barry@enron.com', 3) -> ('jeffery.fawcett@enron.com', 3) -> ('steven.harris@enron.com', 3)
+sap.hotline@enron.com: ('isc.groups@enron.com', 21) -> ('enron.users@enron.com', 3)
+isc.groups@enron.com:
+daniel.allegretti@enron.com:
+expense.report@enron.com:
+lon.stanton@enron.com: ('mike.mcgowan@enron.com', 8) -> ('mark.adelmann@enron.com', 8)
+mike.mcgowan@enron.com: ('drew.fossum@enron.com', 3)
+staci.holtzman@enron.com:
+frank.oldenhuis@enron.com: ('john.dushinske@enron.com', 3)
+cindy.stark@enron.com: ('bill.cordes@enron.com', 5) -> ('michael.moran@enron.com', 2)
+bill.cordes@enron.com:
+emily.sellers@enron.com: ('stephanie.harris@enron.com', 17) -> ('peggy.phillips@enron.com', 4) -> ('laura.wilkinson@enron.com', 3) -> ('janet.cones@enron.com', 2) -> ('frazier.king@enron.com', 1)
+reyna.cabrera@enron.com: ('drew.fossum@enron.com', 3)
+dorothy.mccoppin@enron.com: ('michael.moran@enron.com', 3) -> ('drew.fossum@enron.com', 3) -> ('shelley.corman@enron.com', 3)
+michael.moran@enron.com: ('dorothy.mccoppin@enron.com', 3) -> ('stanley.horton@enron.com', 3) -> ('louis.soldano@enron.com', 2) -> ('drew.fossum@enron.com', 3) -> ('britt.davis@enron.com', 3)
+sharon.solon@enron.com: ('david.roensch@enron.com', 6) -> ('maria.pavlou@enron.com', 3) -> ('omaha.employees@enron.com', 3)
+david.roensch@enron.com: ('sharon.solon@enron.com', 3)
+donna.martens@enron.com: ('sharon.solon@enron.com', 3)
+steven.january@enron.com: ('lindy.donoho@enron.com', 3)
+michel.nelson@enron.com:
+john.enerson@enron.com: ('drew.fossum@enron.com', 6)
+all.states@enron.com:
+jdoering@rcgroup.com: ('bhopkins@rcgroup.com', 3)
+bhopkins@rcgroup.com:
+rockey.storie@enron.com:
+kent.miller@enron.com: ('drew.fossum@enron.com', 5) -> ('dan.fancler@enron.com', 2)
+ajenkins@lanlaw.com:
+stephen.thome@enron.com:
+jeffery.fawcett@enron.com: ('drew.fossum@enron.com', 9) -> ('randy.rice@enron.com', 3) -> ('rich.jolly@enron.com', 3)
+dhill@wrf.com:
+dave.neubauer@enron.com:
+lee.huber@enron.com: ('drew.fossum@enron.com', 10)
+tony.pryor@enron.com: ('dale.neuner@enron.com', 3) -> ('lisa.lees@enron.com', 3) -> ('drew.fossum@enron.com', 6)
+paulg@stpaul.lib.mn.us:
+rlfossum@mato.com:
+gbriden.snakehill@worldnet.att.net:
+breasoner@gibbs-bruns.com:
+jenerso@ei.enron.com:
+keith.petersen@enron.com: ('lee.huber@enron.com', 3) -> ('mary.miller@enron.com', 5) -> ('gary.zahn@enron.com', 3) -> ('drew.fossum@enron.com', 3)
+randy.rice@enron.com: ('jeffery.fawcett@enron.com', 3)
+sackreit@flash.net:
+dhooker@caes.net: ('drew.fossum@enron.com', 6)
+tyler.theobald@enron.com:
+jean.mcfarland@enron.com: ('drew.fossum@enron.com', 3)
+ranelle.paladino@enron.com:
+norma.hasenjager@enron.com:
+mark.schroeder@enron.com: ('drew.fossum@enron.com', 4)
+mark.whitt@enron.com:
+laura.wilkinson@enron.com:
+christine.stokes@enron.com:
+mcohn@hou-law.com:
+paul.bieniawski@enron.com:
+jan.cobden@enron.com: ('drew.fossum@enron.com', 2)
+lbickle@hvllc.com:
+mcalderone@tpc-corp.com:
+dan.bunch@enron.com:
+dloon@uschamber.com: ('dfossum@enron.com', 6)
+dhill@bspmlaw.com:
+julia.white@enron.com: ('jeffery.fawcett@enron.com', 3) -> ('rich.jolly@enron.com', 3) -> ('mary.miller@enron.com', 3) -> ('shelley.corman@enron.com', 3)
+william.brown@enron.com:
+judy.kudym@enron.com: ('bill.cordes@enron.com', 3)
+molly.sample@enron.com:
+darrell.schoolcraft@enron.com:
+magdelena.cruz@enron.com:
+tony@digitrain.com:
+fossum4@home.com:
+norm.ruiz@enron.com:
+dan.pribble@enron.com:
+steve.klimesh@enron.com: ('rick.craig@enron.com', 3)
+james.saunders@enron.com:
+dana.jones@enron.com:
+ld.stephens@enron.com:
+larry.pavlou@enron.com:
+frank.bay@enron.com:
+joe.jeffers@enron.com:
+bob.stevens@enron.com:
+barbara.gray@enron.com:
+kbaird@firstrate.com:
+ajc@infohwy.com:
+laura.kinningham@enron.com:
+eric.benson@enron.com: ('philip.crowley@enron.com', 1)
+peggy.phillips@enron.com:
+eric.gadd@enron.com:
+rhirasuna@akingump.com:
+brian.schaffer@enron.com:
+janet.cones@enron.com: ('bob.chandler@enron.com', 2) -> ('jerry.peters@enron.com', 3)
+dave.schafer@enron.com:
+ets.announcement@enron.com: ('enron.operations@enron.com', 23) -> ('the.pulse-ets@enron.com', 2) -> ('enron.employees@enron.com', 3) -> ('enron.omaha@enron.com', 2)
+enron.operations@enron.com:
+drew_fossum@enron.com:
+donna.fulton@enron.com:
+tammy.jaquet@enron.com:
+d.smith@enron.com: ('npng.operations@enron.com', 3)
+npng.operations@enron.com:
+gay.arnold@enron.com:
+sackreiter@randolph.af.mil:
+martha.janousek@enron.com:
+donald.vignaroli@enron.com: ('drew.fossum@enron.com', 3) -> ('mary.miller@enron.com', 3)
+tom.shelton@enron.com:
+weaverbh@kenyon.edu:
+jim.talcott@enron.com: ('mary.miller@enron.com', 3)
+tsiguaw@markethubs.com:
+dhooker@utilicorp.com:
+sandra.evans@enron.com:
+harry.kingerski@enron.com:
+beth.ryan@enron.com:
+ppeldner@utilicorp.com:
+bill.votaw@enron.com:
+sue.neville@enron.com: ('drew.fossum@enron.com', 2)
+annmarie.tiller@enron.com:
+egert_steve@emc.com: ('drew_fossum@enron.com', 3)
+kim.wilkie@enron.com:
+jalexander@gibbs-bruns.com:
+leslie.lawner@enron.com:
+tmonaldo@mrg-11c.com:
+jeff.fawcett@enron.com:
+mschroeder@enron.co.uk:
+bob.burleson@enron.com:
+tim.durst@bakerbotts.com:
+maria.perales@enron.com: ('danny.mccarty@enron.com', 9)
+john.goodpasture@enron.com:
+comd3@swcp.com:
+sarabeth.smith@enron.com: ('jeffery.fawcett@enron.com', 3)
+gjporter@midamerican.com:
+dschumeister@shearman.com: ('drew.fossum@enron.com', 6)
+frank.semin@enron.com:
+john.williams@enron.com:
+jeff.nielsen@enron.com:
+jwyss@wrf.com:
+patrick.brennan@enron.com:
+mschroeder@enron.com:
+steve.hotte@enron.com:
+naveed.ahmed@enron.com:
+terickson@cftc.gov:
+augie-alumnews@listserv.augie.edu: ('augie-alumnews@listserv.augie.edu', 6)
+andrew.wu@enron.com: ('yapasu@enron.com', 2) -> ('clement.abrams@enron.com', 2)
+yapasu@enron.com:
+the.pulse-ets@enron.com:
+enron.administration@enron.com: ('all.worldwide@enron.com', 2)
+front.desk@enron.com: ('alan.behrens@enron.com', 2) -> ('omaha.employees@enron.com', 5)
+alan.behrens@enron.com:
+dale.neuner@enron.com: ('martha.benner@enron.com', 2)
+enron.employees@enron.com:
+mnewsletter@mtlnh.com: ('dfossum@enron.com', 8)
+tim.aron@enron.com:
+michelle.lawless@enron.com: ('david.aamodt@enron.com', 9)
+david.aamodt@enron.com:
+debbie.nowak@enron.com: ('ted.bland@enron.com', 2) -> ('william.bradford@enron.com', 3)
+ted.bland@enron.com:
+omaha.employees@enron.com:
+vernon.mercaldo@enron.com:
+sharris1@enron.com:
+drlittle77@msn.com: ('dfossum@enron.com', 2)
+enron.omaha@enron.com:
+rick.craig@enron.com:
+hoyt.ivey@enron.com: ('bob.chandler@enron.com', 5)
+postmaster@uschamber.com: ('drew.fossum@enron.com', 6)
+frazier.king@enron.com: ('shelley.corman@enron.com', 2) -> ('nancy.bastida@enron.com', 2)
+nancy.bastida@enron.com:
+gary.zahn@enron.com:
+michele.winckowski@enron.com: ('mary.miller@enron.com', 2)
+john.shafer@enron.com:
+james.prentice@enron.com: ('dorothy.mccoppin@enron.com', 2)
+rudi.zipter@enron.com:
+skip.glatte@enron.com: ('omaha.employees@enron.com', 3)
+enron.1@enron.com:
+william.bradford@enron.com:
+ken.skilling@enron.com: ('all.employees@enron.com', 3)
+lfrederick@ingenieros.com: ('mkmiller@enron.com', 3)
+mkmiller@enron.com:
+beverley.ashcroft@enron.com: ('drew.fossum@enron.com', 3)
+diane.becker@enron.com: ('omaha.employees@enron.com', 3) -> ('bob.stevens@enron.com', 6)
+bardblack@aol.com:
+lee.ferrell@enron.com: ('drew.fossum@enron.com', 3)
+jackie.griffith@enron.com: ('omaha.employees@enron.com', 3)
+lisa.lees@enron.com:
+rnussbaum@lrsolutions.com: ('dfossum@enron.com', 3)
+jaym@igate.cbinet.com: ('dfossum@enron.com', 6)
+stan.horton@enron.com:
+tammy.anderson@enron.com: ('omaha.employees@enron.com', 6)
+jerry.moore@enron.com: ('lon.stanton@enron.com', 3)
+elizabeth.jones@enron.com: ('npng.office@enron.com', 9)
+npng.office@enron.com:
+karen.lagerstrom@enron.com:
+mike.barry@enron.com: ('drew.fossum@enron.com', 3)
+mark.courtney@enron.com:
+teluebke@leoadaly.com: ('jennifer-nyc_williams@nyc.bm.com', 3)
+jennifer-nyc_williams@nyc.bm.com:
+bambi.heckerman@enron.com:
+enron.committee@enron.com:
+scott.coburn@enron.com: ('omaha.employees@enron.com', 3)
+enron.users@enron.com:
+jerry.peters@enron.com:
+leasa.lopez@enron.com: ('general.counsels@enron.com', 3)
+general.counsels@enron.com:
+weo_mail@igate.cbinet.com: ('dfossum@enron.com', 3)
+philip.crowley@enron.com:
+barbara.bischoff@enron.com: ('rita.bianchi@enron.com', 1)
+deborah.shahmoradi@enron.com: ('michael.moran@enron.com', 1)
+hirasuna@enron.com:
+sackreiters@compuserve.com:
+loon@enron.com:
+elena.chilkina@enron.com: ('elena.chilkina@enron.com', 1) -> ('greg.couch@enron.com', 1)
+elsa.piekielniak@enron.com: ('elsa.piekielniak@enron.com', 1)
+laura.luce@enron.com: ('laura.luce@enron.com', 7)
+jacqueline.richard@enron.com: ('jacqueline.richard@enron.com', 1)
+keith.considine@enron.com: ('keith.considine@enron.com', 1)
+darron.c.giron@enron.com:
+dmoore21@charter.net: ('darron.c.giron@enron.com', 2)
+cgiron@mindspring.com: ('angela.teerwilliams@gte.net', 1)
+angela.teerwilliams@gte.net:
+reservations@goalamo.com: ('dgiron@enron.com', 1)
+dgiron@enron.com:
+hollyw@email.msn.com: ('tstreicher@servicepro.net', 1)
+tstreicher@servicepro.net:
+larry.hunter@enron.com: ('darron.giron@enron.com', 1)
+darron.giron@enron.com: ('jay_liberman@ml.com', 15) -> ('carole.frank@enron.com', 112) -> ('patrick.ryder@enron.com', 20) -> ('chris.abel@enron.com', 6) -> ('sschroed@us.ca-indosuez.com', 9) -> ('lesli.campbell@enron.com', 5) -> ('mark.c.austin@us.andersen.com', 2) -> ('kristi.giron@cfisd.net', 88) -> ('trainingorders@vertical.net', 2) -> ('jeffrey.gossett@enron.com', 23) -> ('jeremy.wong@enron.com', 12) -> ('tricia.truong@enron.com', 10) -> ('kgs@teamlead.com', 5) -> ('jennifer.velasco@enron.com', 5) -> ('burton.mcintyre@enron.com', 7) -> ('smmayers@earthlink.net', 20) -> ('anita.luong@enron.com', 3) -> ('jim.little@enron.com', 4) -> ('dawn.kenne@enron.com', 27) -> ('lisa.valderrama@enron.com', 2) -> ('bwallace@zahrsecurities.com', 17) -> ('mike.grigsby@enron.com', 2) -> ('jason.wolfe@enron.com', 60) -> ('kristen.clause@enron.com', 5) -> ('ellen.wallumrod@enron.com', 2) -> ('scott_crowell@hotmail.com', 4) -> ('darla.saucier@enron.com', 2) -> ('john.valdes@enron.com', 2) -> ('sheri.thomas@enron.com', 9) -> ('mike.fultz@halliburton.com', 9) -> ('robin.rodrigue@enron.com', 4) -> ('dgiron1@pdq.net', 104) -> ('tabitha.mohon@enron.com', 2) -> ('jana.giovannini@enron.com', 2) -> ('larry.hunter@enron.com', 2) -> ('rick.suttle@enron.com', 2) -> ('troy.klussmann@enron.com', 2) -> ('gregory.mausser@enron.com', 3) -> ('victor.lamadrid@enron.com', 2) -> ('anne.bike@enron.com', 14) -> ('greg_carrow@valic.com', 21) -> ('cgiron@mindspring.com', 10) -> ('russ.severson@enron.com', 6) -> ('genaro.mendoza@enron.com', 6) -> ('francisco.dejesus@enron.com', 4) -> ('kelly.ellis@enron.com', 2) -> ('jennifer.bagwell@enron.com', 11) -> ('luvarson@aol.com', 2) -> ('phillip.love@enron.com', 17) -> ('chris.walker@enron.com', 14) -> ('mark.austin@enron.com', 3) -> ('toni.graham@enron.com', 4) -> ('andrea.richards@enron.com', 7) -> ('kevin.radous@enron.com', 16) -> ('q-series@car-audio-discount.com', 2) -> ('richard.tomaski@enron.com', 10) -> ('james.simpson@enron.com', 6) -> ('daniel.falcone@enron.com', 10) -> ('caputo_david@jpmorgan.com', 3) -> ('kam.keiser@enron.com', 11) -> ('stacey.vallejo@enron.com', 5) -> ('luchas.johnson@enron.com', 4) -> ('george.grant@enron.com', 2) -> ('david.baumbach@enron.com', 3) -> ('ina.rangel@enron.com', 2) -> ('shelly.jones@enron.com', 2) -> ('jefferson.sorenson@enron.com', 4) -> ('dmoore21@charter.net', 2) -> ('russell.diamond@enron.com', 5) -> ('kwpope@pdq.net', 9) -> ('leslie_scharck@lyondell.com', 2) -> ('darnellmo@aol.com', 7) -> ('susan.trevino@enron.com', 8) -> ('frank.jesus@enron.com', 2) -> ('connie.sutton@enron.com', 3) -> ('william.kelly@enron.com', 7) -> ('victor.guggenheim@enron.com', 6) -> ('sharon.smith@enron.com', 4) -> ('jcmayers@earthlink.net', 7) -> ('jackson.logan@enron.com', 11) -> ('virawan.yawapongsiri@enron.com', 2) -> ('dutch.quigley@enron.com', 2) -> ('audrey.cook@enron.com', 6) -> ('beatrice.reyna@enron.com', 2) -> ('scott.dozier@enron.com', 2) -> ('chantelle.villanueva@enron.com', 2) -> ('michael.moscoso@enron.com', 3) -> ('scrowell@us.oracle.com', 2) -> ('greg.couch@enron.com', 9) -> ('kyle.lilly@enron.com', 2) -> ('steve.richman@enron.com', 3) -> ('steve.ross@enron.com', 2) -> ('gary.stadler@enron.com', 5) -> ('kevin.drachenberg@enron.com', 5) -> ('robert.fowler@cfisd.net', 2) -> ('debny.greenlee@enron.com', 3) -> ('mary.ruffer@enron.com', 7) -> ('gregg.penman@enron.com', 3) -> ('b.palmer@enron.com', 3) -> ('hollyw@email.msn.com', 9) -> ('smcadoo@ev1.net', 2) -> ('acurles@enron.com', 2) -> ('rahmaan.mwongozi@enron.com', 2) -> ('drew.hill@enron.com', 2) -> ('albernita.travis@enron.com', 3) -> ('smcadoo@mail.ev1.net', 3) -> ('imelda.frayre@enron.com', 9) -> ('jhliberman@pclient.ml.com', 2) -> ('ron.nolte@enron.com', 2) -> ('hector.mcloughlin@enron.com', 4) -> ('isabel.resendez@enron.com', 2) -> ('stephanie.miller@enron.com', 2) -> ('irena.hogan@enron.com', 6) -> ('eric.moon@enron.com', 5) -> ('theresa.staab@enron.com', 1) -> ('shona.wilson@enron.com', 1) -> ('mark.whitt@enron.com', 1) -> ('randy.g.kruger.jr@us.arthurandersen.com', 1) -> ('randy.g.kruger.jr@arthuranderson.com', 1) -> ('maria.garza@enron.com', 1) -> ('chris.austin@enron.com', 1) -> ('jennifer.nguyen@enron.com', 4) -> ('support@audio-n-more.com', 1) -> ('zhiyong.wei@enron.com', 1) -> ('kim.mayers@mail.sprint.com', 5) -> ('bryce.baxter@enron.com', 2) -> ('kenneth.thibodeaux@enron.com', 1) -> ('kevin.bosse@enron.com', 3) -> ('shawn.grady@enron.com', 1) -> ('angela.collins@enron.com', 1) -> ('dmoore@nylf.org', 1) -> ('diane.cook@enron.com', 2) -> ('jane.saladino@enron.com', 1) -> ('ernie.lachica@enron.com', 1) -> ('outlook.team@enron.com', 1) -> ('derek.bailey@enron.com', 2) -> ('scott.crowell@us.cgeyc.com', 1) -> ('john.griffith@enron.com', 1) -> ('bill.fortney@enron.com', 1) -> ('r116@car-audio-discount.com', 1) -> ('yhaynes@mindspring.com', 1) -> ('sean@audionmore.com', 2) -> ('molly.magee@enron.com', 1) -> ('mid1316@car-audio-discount.com', 1) -> ('jhsim@juno.com', 1) -> ('kathy.reeves@enron.com', 1) -> ('mark.ebert@broadwing.com', 1) -> ('dmoore2651@aol.com', 1) -> ('scott.t.crowell@us.cgeyc.com', 2) -> ('susan.wimberley@enron.com', 1) -> ('bwallace@tcast.com', 1) -> ('michael.abraham@us.arthurandersen.com', 2) -> ('michael.abraham@us.arthuranderson.com', 2) -> ('chris.schomer@enron.com', 1) -> ('doug.nelson@enron.com', 1) -> ('william.kasemervisz@enron.com', 1) -> ('carlos.giron@psiusa.com', 1) -> ('charles.jacobs@enron.com', 1) -> ('mrichter@us.ibm.com', 1) -> ('regina.perkins@enron.com', 2) -> ('mechelle.stevens@enron.com', 1) -> ('shirley.mcdowell@enron.com', 1) -> ('edie.leschber@enron.com', 1) -> ('scott.mills@enron.com', 1) -> ('mark.mixon@enron.com', 1) -> ('mail43232@pop.net', 1) -> ('elizabeth.hernandez@enron.com', 1) -> ('susan.scott@enron.com', 1) -> ('binh.pham@enron.com', 1) -> ('steve.jackson@enron.com', 2) -> ('anabel.soria@travelpark.com', 1) -> ('karie.hastings@enron.com', 1) -> ('info@bestwestern-onthebeach.com', 1) -> ('onepass@coair.com', 2) -> ('janet.dietrich@enron.com', 1) -> ('christy.lobusch@enron.com', 1) -> ('stephanie.sever@enron.com', 1) -> ('gabriel.monroy@enron.com', 1) -> ('patrick.mulvany@enron.com', 1)
+hal.mckinney@enron.com: ('jeffrey.gossett@enron.com', 1)
+john.valdes@enron.com: ('phillip.love@enron.com', 1)
+phillip.love@enron.com:
+kwpope@pdq.net: ('dan@vcrhouston.com', 1) -> ('darron.c.giron@enron.com', 1)
+dan@vcrhouston.com:
+imelda.trevino@enron.com: ('chris.abel@enron.com', 1) -> ('kam.keiser@enron.com', 1) -> ('david.baumbach@enron.com', 1)
+chris.abel@enron.com:
+arsystem@mailman.enron.com: ('darron.c.giron@enron.com', 2)
+shirley.mcdowell@enron.com: ('jeffrey.gossett@enron.com', 1) -> ('kam.keiser@enron.com', 1)
+roxanne.saldana@enron.com: ('roxanne.saldana@enron.com', 1)
+trecina.steadham@enron.com: ('phillip.love@enron.com', 1)
+hector.mcloughlin@enron.com: ('thresa.allen@enron.com', 1) -> ('akasha.bibb@enron.com', 1)
+thresa.allen@enron.com:
+plove@enron.com: ('dgiron@enron.com', 1)
+kathryn.bussell@enron.com: ('darron.giron@enron.com', 1)
+david.baumbach@enron.com: ('darron.giron@enron.com', 1)
+frank.jesus@enron.com: ('thresa.allen@enron.com', 1)
+enw-employees_houston@enron.com:
+tracey.irvin@enron.com: ('darron.giron@enron.com', 1)
+vivien.pham@enron.com: ('darron.giron@enron.com', 1)
+bwallace@zahrsecurities.com: ('brollman@protrader.com', 1)
+brollman@protrader.com:
+brad.morse@enron.com:
+darnellmo@aol.com: ('darron.c.giron@enron.com', 1)
+rachel.crowell@enron.com: ('elizabeth.shim@enron.com', 1)
+elizabeth.shim@enron.com:
+irena.hogan@enron.com: ('phillip.love@enron.com', 1)
+responses@newpower.com: ('dgiron@enron.com', 1)
+carlos.giron@psiusa.com: ('darron.c.giron@enron.com', 1)
+patrick.mulvany@enron.com: ('anne.bike@enron.com', 1)
+anne.bike@enron.com:
+akasha.bibb@enron.com:
+jay_liberman@ml.com:
+carole.frank@enron.com:
+patrick.ryder@enron.com:
+sschroed@us.ca-indosuez.com:
+mark.c.austin@us.andersen.com:
+kristi.giron@cfisd.net:
+trainingorders@vertical.net:
+jeremy.wong@enron.com:
+tricia.truong@enron.com:
+kgs@teamlead.com:
+jennifer.velasco@enron.com:
+burton.mcintyre@enron.com:
+smmayers@earthlink.net:
+anita.luong@enron.com:
+jim.little@enron.com:
+dawn.kenne@enron.com:
+lisa.valderrama@enron.com:
+jason.wolfe@enron.com:
+kristen.clause@enron.com:
+ellen.wallumrod@enron.com:
+scott_crowell@hotmail.com:
+darla.saucier@enron.com:
+sheri.thomas@enron.com:
+mike.fultz@halliburton.com:
+robin.rodrigue@enron.com:
+dgiron1@pdq.net:
+tabitha.mohon@enron.com:
+jana.giovannini@enron.com:
+rick.suttle@enron.com:
+troy.klussmann@enron.com:
+gregory.mausser@enron.com:
+greg_carrow@valic.com:
+genaro.mendoza@enron.com:
+francisco.dejesus@enron.com:
+kelly.ellis@enron.com:
+jennifer.bagwell@enron.com:
+luvarson@aol.com:
+mark.austin@enron.com:
+toni.graham@enron.com:
+andrea.richards@enron.com:
+kevin.radous@enron.com:
+q-series@car-audio-discount.com:
+daniel.falcone@enron.com:
+caputo_david@jpmorgan.com:
+stacey.vallejo@enron.com:
+george.grant@enron.com:
+shelly.jones@enron.com:
+jefferson.sorenson@enron.com:
+leslie_scharck@lyondell.com:
+susan.trevino@enron.com:
+connie.sutton@enron.com:
+william.kelly@enron.com:
+victor.guggenheim@enron.com:
+sharon.smith@enron.com:
+jcmayers@earthlink.net:
+jackson.logan@enron.com:
+virawan.yawapongsiri@enron.com:
+dutch.quigley@enron.com:
+audrey.cook@enron.com:
+beatrice.reyna@enron.com:
+chantelle.villanueva@enron.com:
+michael.moscoso@enron.com:
+scrowell@us.oracle.com:
+greg.couch@enron.com:
+kyle.lilly@enron.com:
+steve.richman@enron.com:
+steve.ross@enron.com:
+gary.stadler@enron.com:
+kevin.drachenberg@enron.com:
+robert.fowler@cfisd.net:
+debny.greenlee@enron.com:
+mary.ruffer@enron.com:
+gregg.penman@enron.com:
+b.palmer@enron.com:
+smcadoo@ev1.net:
+acurles@enron.com:
+rahmaan.mwongozi@enron.com:
+drew.hill@enron.com:
+albernita.travis@enron.com:
+smcadoo@mail.ev1.net:
+imelda.frayre@enron.com:
+jhliberman@pclient.ml.com:
+ron.nolte@enron.com:
+isabel.resendez@enron.com:
+stephanie.miller@enron.com:
+c..giron@enron.com: ('dgiron1@houston.rr.com', 67) -> ('d..hogan@enron.com', 4) -> ('bwells@pop.net', 5) -> ('ronniegiron@yahoo.com', 3) -> ('jborowic@utilicorp.com', 2) -> ('david.plaisance@us.pwcglobal.com', 10) -> ('kim.mayers@mail.sprint.com', 6) -> ('laura.luce@enron.com', 8) -> ('denver.plachy@enron.com', 1) -> ('pgutman@utilicorp.com', 1) -> ('c..gossett@enron.com', 3) -> ('s..shively@enron.com', 6) -> ('marianne.long@travelpark.com', 1) -> ('kjsnook@aol.com', 1) -> ('brentforking@hotmail.com', 1) -> ('mac@ifeminists.com', 1) -> ('crich75206@aol.com', 1) -> ('carole.frank@enron.com', 2) -> ('big12@cottonbowl.com', 1) -> ('anne.bike@enron.com', 15) -> ('kristi.giron@cfisd.net', 12) -> ('jackson.logan@enron.com', 3) -> ('m..love@enron.com', 11) -> ('sschroed@us.ca-indosuez.com', 7) -> ('diane.anderson@enron.com', 6) -> ('greg.couch@enron.com', 4) -> ('alove@houston.rr.com', 1) -> ('dgiron1@pdq.net', 4) -> ('dmoore21@charter.net', 8) -> ('souad.mahmassani@enron.com', 2) -> ('bruce.mills@enron.com', 2) -> ('hollyw@email.msn.com', 1) -> ('elena.chilkina@enron.com', 3) -> ('jbrownin@utilicorp.com', 3) -> ('greg_carrow@valic.com', 2) -> ('cyndie.balfour-flanagan@enron.com', 1) -> ('reagan.rorschach@enron.com', 1) -> ('dgiron1@houstonrr.com', 1) -> ('crharding@aep.com', 2) -> ('c..giron@enron.com', 1) -> ('brent4king@hotmail.com', 6) -> ('patrick.tucker@enron.com', 3) -> ('russ.severson@enron.com', 1) -> ('csulzer@grenergy.com', 10) -> ('c..kenne@enron.com', 2) -> ('kam.keiser@enron.com', 1) -> ('bryant.frihart@enron.com', 2) -> ('mrichter@us.ibm.com', 4) -> ('ed.mcmichael@enron.com', 4) -> ('scott.palmer@enron.com', 2) -> ('j.bagwell@enron.com', 1) -> ('smmayers@home.com', 1) -> ('birgit@hiresynergy.com', 4) -> ('stacey.richardson@enron.com', 3) -> ('astuhr@hnbank.com', 1) -> ('cecilia.cheung@enron.com', 2) -> ('shona.wilson@enron.com', 2) -> ('susan.trevino@enron.com', 1) -> ('kimberly.bates@enron.com', 1) -> ('carlos.giron@psuusa.com', 1) -> ('carlos.giron@psiusa.com', 3) -> ('roger_tisdale@oxy.com', 1) -> ('ohlinger@gte.net', 1) -> ('dkenne@houston.rr.com', 3) -> ('rl692372@earthlink.com', 3) -> ('deirdre.mccaffrey@enron.com', 3) -> ('randy.g.kruger.jr@us.andersen.com', 1) -> ('rsinbrilliance25@aol.com', 1) -> ('virawan.yawapongsiri@enron.com', 1) -> ('kevin.bosse@enron.com', 1) -> ('richard.tomaski@enron.com', 2) -> ('carole_frank@excite.com', 1) -> ('jhliberman@pclient.ml.com', 1) -> ('d..winfree@enron.com', 1) -> ('jay_liberman@ml.com', 2) -> ('gmausser@houston.rr.com', 1) -> ('mike.fultz@halliburton.com', 1) -> ('ralphmayers@hotmail.com', 2)
+dgiron1@houston.rr.com:
+bwells@pop.net:
+ronniegiron@yahoo.com:
+jborowic@utilicorp.com:
+david.plaisance@us.pwcglobal.com:
+kim.mayers@mail.sprint.com:
+pgutman@utilicorp.com:
+c..gossett@enron.com:
+marianne.long@travelpark.com:
+kjsnook@aol.com:
+brentforking@hotmail.com:
+mac@ifeminists.com:
+crich75206@aol.com:
+big12@cottonbowl.com:
+diane.anderson@enron.com:
+alove@houston.rr.com:
+jbrownin@utilicorp.com:
+cyndie.balfour-flanagan@enron.com:
+dgiron1@houstonrr.com:
+crharding@aep.com:
+brent4king@hotmail.com:
+csulzer@grenergy.com:
+c..kenne@enron.com:
+mrichter@us.ibm.com:
+ed.mcmichael@enron.com:
+scott.palmer@enron.com:
+j.bagwell@enron.com:
+smmayers@home.com:
+birgit@hiresynergy.com:
+stacey.richardson@enron.com:
+astuhr@hnbank.com:
+cecilia.cheung@enron.com:
+shona.wilson@enron.com:
+carlos.giron@psuusa.com:
+roger_tisdale@oxy.com:
+ohlinger@gte.net:
+dkenne@houston.rr.com:
+rl692372@earthlink.com:
+deirdre.mccaffrey@enron.com:
+randy.g.kruger.jr@us.andersen.com:
+rsinbrilliance25@aol.com:
+kevin.bosse@enron.com:
+carole_frank@excite.com:
+d..winfree@enron.com:
+gmausser@houston.rr.com:
+eric.moon@enron.com:
+ralphmayers@hotmail.com:
+theresa.staab@enron.com:
+randy.g.kruger.jr@us.arthurandersen.com:
+randy.g.kruger.jr@arthuranderson.com:
+maria.garza@enron.com:
+chris.austin@enron.com:
+jennifer.nguyen@enron.com:
+support@audio-n-more.com:
+zhiyong.wei@enron.com:
+bryce.baxter@enron.com:
+kenneth.thibodeaux@enron.com:
+shawn.grady@enron.com:
+angela.collins@enron.com:
+dmoore@nylf.org:
+diane.cook@enron.com:
+jane.saladino@enron.com:
+ernie.lachica@enron.com:
+derek.bailey@enron.com:
+scott.crowell@us.cgeyc.com:
+bill.fortney@enron.com:
+r116@car-audio-discount.com:
+yhaynes@mindspring.com:
+sean@audionmore.com:
+molly.magee@enron.com:
+mid1316@car-audio-discount.com:
+jhsim@juno.com:
+kathy.reeves@enron.com:
+mark.ebert@broadwing.com:
+dmoore2651@aol.com:
+scott.t.crowell@us.cgeyc.com:
+susan.wimberley@enron.com:
+bwallace@tcast.com:
+michael.abraham@us.arthurandersen.com:
+michael.abraham@us.arthuranderson.com:
+chris.schomer@enron.com:
+doug.nelson@enron.com:
+charles.jacobs@enron.com:
+regina.perkins@enron.com:
+mechelle.stevens@enron.com:
+edie.leschber@enron.com:
+mark.mixon@enron.com:
+mail43232@pop.net:
+elizabeth.hernandez@enron.com:
+binh.pham@enron.com:
+steve.jackson@enron.com:
+anabel.soria@travelpark.com:
+karie.hastings@enron.com:
+info@bestwestern-onthebeach.com:
+onepass@coair.com:
+christy.lobusch@enron.com:
+gabriel.monroy@enron.com:
