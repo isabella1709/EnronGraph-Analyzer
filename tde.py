@@ -120,27 +120,26 @@ class Graph:
 
 # PART 1
 
-path = path = r"C:\Users\phioe\Downloads\Amostra Enron - 2016"
 
-caminhos = caminhos = [d for d in os.listdir(path) if os.path.isdir(os.path.join(path, d))]
+path = "Amostra Enron - 2016/"
+caminhos = os.listdir(path)
 
 
 grafo = Graph()
 
 for caminho in caminhos:
 
-    c = c = os.path.join(path, caminho)
-
+    c = path + caminho + "/"
     caminhos2 = os.listdir(c)
 
     for caminho2 in caminhos2:
 
-        caminho3 = os.path.join(c, caminho2)
+         caminho3 = c + caminho2 + "/"
         arquivos = os.listdir(caminho3)
 
         for arquivo in arquivos:
 
-            caminho_arquivo = os.path.join(caminho3, arquivo)
+            caminho_arquivo = caminho3 + arquivo
 
             if not os.path.isfile(caminho_arquivo):
                 continue
