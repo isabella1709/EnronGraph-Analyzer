@@ -133,8 +133,8 @@ for caminho in caminhos:
     caminhos2 = os.listdir(c)
 
     for caminho2 in caminhos2:
-
-         caminho3 = c + caminho2 + "/"
+        
+        caminho3 = c + caminho2 + "/"
         arquivos = os.listdir(caminho3)
 
         for arquivo in arquivos:
@@ -241,6 +241,7 @@ for i in range(0, len(getMaximumEnterDegrees(grafo))):
     print(f"{i + 1}: Email: {getMaximumEnterDegrees(grafo)[i][0]} | Enter Degree: {getMaximumEnterDegrees(grafo)[i][1]}")
 
 
+# PART 3
 def conexo(graph):
     def dfs(v, visited, g):
         visited.add(v)
@@ -305,3 +306,134 @@ def eureliano(graph, nome_arquivo_saida):
 
 eureliano(grafo, "verificacao_eureliano.txt")
 
+def conexo(graph):
+    def dfs(v, visited, g):
+        visited.add(v)
+        for neighbor in g.graph[v]:
+            if neighbor[0] not in visited:
+                dfs(neighbor[0], visited, g)
+
+    if not graph.graph:
+        return True  # grafo vazio é considerado fortemente conexo
+
+    start_node = next(iter(graph.graph))
+    visited = set()
+    dfs(start_node, visited, graph)
+    if len(visited) != len(graph.graph):
+        return False
+
+    # cria o grafo transposto
+    transposto = Graph()
+    for u in graph.graph:
+        for v, w in graph.graph[u]:
+            transposto.add_edge(v, u, w) # aresta invertida
+
+    visited = set()
+    dfs(start_node, visited, transposto)
+    if len(visited) != len(transposto.graph):
+        return False
+
+    return True
+
+
+def eureliano(graph, nome_arquivo_saida):
+    eureliano = True
+    motivos = []
+    balanceados = []
+
+    if not conexo(graph):
+        eureliano = False
+        motivos.append("O grafo não é fortemente conexo.")
+
+    for node in graph.graph:
+        in_degree = graph.enter_degree(node)
+        out_degree = graph.out_degree(node)
+        if in_degree != out_degree:
+            eureliano = False
+            motivos.append(f"O vértice '{node}' tem grau de entrada {in_degree} e grau de saída {out_degree}.")
+        else: 
+            balanceados.append(f"O vértice '{node}' tem grau de entrada e saída iguais: {in_degree}.")
+    with open(nome_arquivo_saida, "w", encoding="utf-8") as f:
+        f.write("🔎 Verificação de Eulerianidade do grafo:\n")
+        if eureliano:
+            f.write("O grafo é Eureliiano.\n")
+        else:
+            f.write("O grafo NÃO é Eureliano. Motivos:\n")
+            for motivo in motivos:
+                f.write(f" - {motivo}\n")
+        f.write(" Vértices com grau de entrada igual ao grau de saída:\n")
+        for linha in balanceados:
+            f.write(f" - {linha}\n")
+
+    return eureliano
+
+
+eureliano(grafo, "verificacao_eureliano.txt")
+
+
+def conexo(graph):
+    def dfs(v, visited, g):
+        visited.add(v)
+        for neighbor in g.graph[v]:
+            if neighbor[0] not in visited:
+                dfs(neighbor[0], visited, g)
+
+    if not graph.graph:
+        return True  # grafo vazio é considerado fortemente conexo
+
+    start_node = next(iter(graph.graph))
+    visited = set()
+    dfs(start_node, visited, graph)
+    if len(visited) != len(graph.graph):
+        return False
+
+    # cria o grafo transposto
+    transposto = Graph()
+    for u in graph.graph:
+        for v, w in graph.graph[u]:
+            transposto.add_edge(v, u, w) # aresta invertida
+
+    visited = set()
+    dfs(start_node, visited, transposto)
+    if len(visited) != len(transposto.graph):
+        return False
+
+    return True
+
+
+def eureliano(graph, nome_arquivo_saida):
+    eureliano = True
+    motivos = []
+    balanceados = []
+
+    if not conexo(graph):
+        eureliano = False
+        motivos.append("O grafo não é fortemente conexo.")
+
+    for node in graph.graph:
+        in_degree = graph.enter_degree(node)
+        out_degree = graph.out_degree(node)
+        if in_degree != out_degree:
+            eureliano = False
+            motivos.append(f"O vértice '{node}' tem grau de entrada {in_degree} e grau de saída {out_degree}.")
+        else: 
+            balanceados.append(f"O vértice '{node}' tem grau de entrada e saída iguais: {in_degree}.")
+    with open(nome_arquivo_saida, "w", encoding="utf-8") as f:
+        f.write("🔎 Verificação de Eulerianidade do grafo:\n")
+        if eureliano:
+            f.write("O grafo é Eureliiano.\n")
+        else:
+            f.write("O grafo NÃO é Eureliano. Motivos:\n")
+            for motivo in motivos:
+                f.write(f" - {motivo}\n")
+        f.write(" Vértices com grau de entrada igual ao grau de saída:\n")
+        for linha in balanceados:
+            f.write(f" - {linha}\n")
+
+    return eureliano
+
+
+eureliano(grafo, "verificacao_eureliano.txt")
+
+resultado = eureliano(grafo, "verificacao_eureliano.txt")
+print("É eureliano?" , resultado)
