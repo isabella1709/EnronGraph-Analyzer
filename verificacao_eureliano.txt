@@ -1,0 +1,1724 @@
+🔎 Verificação de Eulerianidade do grafo:
+O grafo NÃO é Eureliano. Motivos:
+ - O grafo não é fortemente conexo.
+ - O vértice 'jons@amerexenergy.com' tem grau de entrada 2 e grau de saída 4.
+ - O vértice 'sandra.f.brawner@enron.com' tem grau de entrada 5 e grau de saída 0.
+ - O vértice 'enron.announcements@enron.com' tem grau de entrada 0 e grau de saída 12.
+ - O vértice 'all.houston@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'sandra.brawner@enron.com' tem grau de entrada 7 e grau de saída 43.
+ - O vértice 'kennethbrawner@msn.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'perfmgmt@enron.com' tem grau de entrada 0 e grau de saída 7.
+ - O vértice 'kam.keiser@enron.com' tem grau de entrada 5 e grau de saída 0.
+ - O vértice 'michael.garberding@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'cris.sherman@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ragan.bond@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ann.vaughn@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'pama9@flash.net' tem grau de entrada 2 e grau de saída 4.
+ - O vértice 's.schnitzer@worldnet.att.net' tem grau de entrada 2 e grau de saída 4.
+ - O vértice 'kennethbrawner@email.msn.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'brad.mckay@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'all.worldwide@enron.com' tem grau de entrada 5 e grau de saída 0.
+ - O vértice 'jesus.guerra@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'parking.transportation@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jons@amerexyenergy.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'airam.arteaga@enron.com' tem grau de entrada 1 e grau de saída 3.
+ - O vértice 'rrussin@natsource.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kimberly.brown@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'ina.rangel@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'phillip.allen@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'louis.dicarlo@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'john.griffith@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'russ.severson@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'scott.mills@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'david.delainey@enron.com' tem grau de entrada 4 e grau de saída 1.
+ - O vértice 'matthew.fleming@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'waltonw@epenergy.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tricia.spence@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tammi.depaolis@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'kennethbrawner@mns.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jons@amerexenergy' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jons@amerex.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'public.relations@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'sean.boyle@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'scott.neal@enron.com' tem grau de entrada 9 e grau de saída 3.
+ - O vértice 'eligible.employees@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sschnitz@jcpenney.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'prebonenergy@corporateecards.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'tom.donohoe@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'mfortuna@tfsbrokers.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'russell.diamond@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'kenny.soignet@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'enron.states@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'lesli.campbell@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'teresa.bushman@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'clement.abrams@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'kate.fraser@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'brent.spiller@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'clare.santana@gte.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mathew.gimble@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'david.fairley@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'office.chairman@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'kimat.singla@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'enron.mail@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'megan.angelos@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'all.employees@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'houston.report@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'adam.johnson@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'enron.services@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'amanda.rybarski@enron.com' tem grau de entrada 2 e grau de saída 4.
+ - O vértice '40enron@enron.com' tem grau de entrada 1 e grau de saída 4.
+ - O vértice 'all_ena_egm_eim@enron' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'eric.boyt@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'f..brawner@enron.com' tem grau de entrada 31 e grau de saída 27.
+ - O vértice 'sonya.johnson@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'caroline.abramo@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'matt.motsinger@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'k..allen@enron.com' tem grau de entrada 8 e grau de saída 0.
+ - O vértice 'veronica.espinoza@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'r..brackett@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kimberly.bates@enron.com' tem grau de entrada 1 e grau de saída 5.
+ - O vértice 'w..pereira@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'rumaldo.lopez@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'chris.germany@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'julie.clyatt@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'darren.adamik@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'enron.announcement@enron.com' tem grau de entrada 0 e grau de saída 4.
+ - O vértice 'enron.chairman@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'henry.safety@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'general.announcement@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'victor.lamadrid@enron.com' tem grau de entrada 1 e grau de saída 12.
+ - O vértice 'l..kelly@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mark.breese@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'jeff.royed@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'michael.yowman@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'esource@enron' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'announcements.enron@enron.com' tem grau de entrada 0 e grau de saída 10.
+ - O vértice 'dl-ga-all_domestic@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'daniel.diamond@enron.com' tem grau de entrada 5 e grau de saída 3.
+ - O vértice 'savita.puthigai@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'traders.eol@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'brawner@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'feedback@intcx.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'iceuserslist@list.intcx.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'robert.allwein@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'chuck.ames@enron.com' tem grau de entrada 11 e grau de saída 0.
+ - O vértice 'james.hungerford@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'dl-ga-all_domestic2@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'alejandra.chavez@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'dl-ga-all_enron_worldwide1@enron.com' tem grau de entrada 5 e grau de saída 0.
+ - O vértice 'jr..legal@enron.com' tem grau de entrada 0 e grau de saída 4.
+ - O vértice 'dl-ga-all_enron_worldwide3@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'rogers.herndon@enron.com' tem grau de entrada 3 e grau de saída 1.
+ - O vértice 'a..martin@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'jim.schwieger@enron.com' tem grau de entrada 0 e grau de saída 5.
+ - O vértice 'victoria.versen@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'melissa.videtto@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'coo.jeff@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'dl-ga-all_netco@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'j..legler@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'natalie.baker@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sbrawne@ect.enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kimberly.hillis@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'eric.bass@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'chance.rabon@enron.com' tem grau de entrada 1 e grau de saída 3.
+ - O vértice 'fred.lagrasta@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kennedy.kathleen@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'shanna.boudreaux@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'chairman.ken@enron.com' tem grau de entrada 0 e grau de saída 4.
+ - O vértice 'dl-ga-all_enron_worldwide@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'daniel.muschar@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'leonidas.savvas@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'david.oxley@enron.com' tem grau de entrada 1 e grau de saída 3.
+ - O vértice 'dl-ga-all_enron_houston@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'chairman.enron@enron.com' tem grau de entrada 0 e grau de saída 4.
+ - O vértice 'lia.halstead@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tammie.schoppe@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'd..hogan@enron.com' tem grau de entrada 2 e grau de saída 6.
+ - O vértice 's..olinger@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'herzer.amanda@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dl-ga-all_ees@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dl-ga-all_enron_north_america@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'amy.fitzpatrick@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jeff.richter@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tdepaoli@sequentenergy.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dl-ga-all_enron_worldwide4@enron.com' tem grau de entrada 4 e grau de saída 0.
+ - O vértice 'tlyons@iona.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'donna.greif@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dl-ga-all_enron_houston_employees@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'administration.enron@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'danielle.marcinkowski@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'rudy.acevedo@enron.com' tem grau de entrada 5 e grau de saída 0.
+ - O vértice 'greetings@reply.yahoo.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jonathan.mckay@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'amiser@natsource.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'robert.superty@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'edward.brady@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'alehew@sequentenergy.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'bruce.mills@enron.com' tem grau de entrada 1 e grau de saída 4.
+ - O vértice 'bthoskins@hotmail.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'janet.dietrich@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'harry.schnitzer@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'liz.taylor@enron.com' tem grau de entrada 0 e grau de saída 3.
+ - O vértice 'chris.lackey@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kelli.little@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'georgeanne.hodges@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'energy.dl-ga-all_ubsw@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'judy.townsend@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'f..smith@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kulvinder.fowler@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'dl-ga-all_enron_worldwide5@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'infrastructure.ubsw@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'david.forster@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'tom.alonso@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'traders.dl-netco@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'edith.cross@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jroyed@nisource.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'l..mims@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'neil.davies@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'lisa.shoemake@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'paul.jordan@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'stephanie.sever@enron.com' tem grau de entrada 3 e grau de saída 2.
+ - O vértice 'caldwell.sue@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bryant.frihart@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'karen.buckley@enron.com' tem grau de entrada 0 e grau de saída 3.
+ - O vértice 'greg.whalley@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'enron.payroll@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'c..bland@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bob.shults@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'r..harrington@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'dana.davis@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'a..gomez@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'canada.dl-ubsw@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jpetriello@prebon.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'dl-ga-all_ews@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'nyadmin@intcx.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'technology.enron@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'vladi.pimenov@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'robin.barbe@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'resources.human@enron.com' tem grau de entrada 0 e grau de saída 3.
+ - O vértice 'panderson@tradespark.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sammie@msn.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'boner22@msn.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'no.address@enron.com' tem grau de entrada 0 e grau de saída 8.
+ - O vértice 'na-incoming@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jose.favela@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'w2kmig@enron_development' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mike.carson@enron.com' tem grau de entrada 82 e grau de saída 89.
+ - O vértice 'carson@us.ibm.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'jacksoncw10@yahoo.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'trpape@aol.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jeff.king@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'elizabethrhood@hotmail.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tpape@satake-usa.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'heather.hill@ac.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'm_besch@yahoo.com' tem grau de entrada 3 e grau de saída 4.
+ - O vértice 'mackle@mediaone.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mjmoreland@aep.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'cjackson@txuenergy.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jeannie.beebe@ac.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sjbeebe@donohue.ca' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'clint.dean@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'paul.broderick@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rgibbs@btubrokers.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'chjohnson98@hotmail.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'susan@metronet.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rlmichaelis@hormel.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kim.melodick@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'daho@dynegy.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bobbyg@chbrokers.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'cwcarso@yahoo.com' tem grau de entrada 2 e grau de saída 6.
+ - O vértice 'anne.labbe@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tamara.black@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'dttowns@swbell.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'discostars222@yahoo.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'randoo@gateway.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'villanuevar@broncos.nfl.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rhonda.denton@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'tim.belden@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'vince_v@hotmail.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'teustace@southwind.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ksu93@aol.com' tem grau de entrada 1 e grau de saída 3.
+ - O vértice 'byronjv@aol.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mbower@bellatlantic.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'felicia.doan@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'quigleyb@sensormatic.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'george.hopley@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'kevin.presto@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'acken4@yahoo.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'slates@qni.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tara.sweitzer@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'goodmand@kochind.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kyle.schultz@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'traviswc@aol.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'meridetk@kochind.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mitch.robinson@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'james.mairet@kwikset.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'johnson@petroleumargus.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'chad.starnes@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'john.zufferli@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'casey.evans@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'powerprices@amerexenergy.com' tem grau de entrada 0 e grau de saída 19.
+ - O vértice 'heinecke.justin@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'stenberg.steve@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'garrison.matt@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'schwertner.brandon@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tingleaf.drew@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'forester.dh@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'myers.je@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tomson.l@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'b.stephanie@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mwright@prebon.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'farrar.james2@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'zrothman@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'grail.mc@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bgannaway@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kelly.dr@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'woodard.bill@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'wallat.christine@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ferrari.scott@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rika.imai@enron.com' tem grau de entrada 1 e grau de saída 3.
+ - O vértice 'zombiwoman@mail.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice '0889@netscape.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sportsline_newsletters@sportsline.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'seareel@stpaulshouston.org' tem grau de entrada 0 e grau de saída 3.
+ - O vértice 'amy.wood@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'zljp06a@prodigy.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice '2361@csi.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice '2.3990.67-w9-goqgvriak.1@cda01.cdnow.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'ecenter@williams.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'enl-members-html@estutenws11.energy.williams.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ken.merideth@entergykoch.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'noreply@ccomad3.uu.commissioner.com' tem grau de entrada 0 e grau de saída 3.
+ - O vértice 'technology_buy.com@enews.buy.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'ptclynes@aol.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'coach@coach.m0.net' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'powerindex@list.intcx.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'buy.com@enews.buy.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'damonmisti@aol.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'btusux@football.fantasy.sportsline.com' tem grau de entrada 7 e grau de saída 0.
+ - O vértice 'craige@fbg.net' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'l..denton@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'andrea.dahlke@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bill.abler@enron.com' tem grau de entrada 4 e grau de saída 0.
+ - O vértice 'bounce-otcjournal-1011326@lyris.otcjournal.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'andy.rodriquez@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jae.black@enron.com' tem grau de entrada 2 e grau de saída 8.
+ - O vértice 'cbssportsline.com_thesportingnews@mail.0mm.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'claudette.harvey@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'newsletters@fansonly.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'cbssportsline.com_planters@mail.0mm.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'mm1030603.12428893@response.musicmatch.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'thestreet32@offers2.mail-thestreet.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'exclusive_ofers@sportsline.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'jennifer.mendez@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'robert.laurel@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'support@mail.sportsbook.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'exclusive_offers@sportsline.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice '2.3841.89-uboq_x1lr0jw.1@cda01.cdnow.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice '2.4200.15-ogttoksylojb.1@cda01.cdnow.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'janc33@aol.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice '2.3888.19-pacmoeyngl7m.1@cda01.cdnow.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'maintenance.dl-exchange@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ksu93dlv@aol.com' tem grau de entrada 0 e grau de saída 3.
+ - O vértice 'john@howellthornhill.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'reports@reedwasden.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'harrietcarter@pcgms.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'rgibbs@boldwaterlp.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'bllong@alumni.utexas.net' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'brittany69@swan.ac.uk' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'mike.charchuk@telus.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'luiz.maurer@enron.com' tem grau de entrada 0 e grau de saída 3.
+ - O vértice 's..bradford@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'bodplus@maininc.org' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jacken@tampabay.rr.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'gautam.gupta@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'l..garcia@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dvogel@powellbrewer.com' tem grau de entrada 0 e grau de saída 3.
+ - O vértice 'jeffrey.jackson@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'gillp@amerexenergy.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'reagan.rorschach@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'richard.broussard@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dale.wesley@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'kmn30@hotmail.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'justin.r.anderson@mail.sprint.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'l..nicolay@enron.com' tem grau de entrada 0 e grau de saída 4.
+ - O vértice 'mpiekos@academicplanet.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'ruehl.charles@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ssanders@mtsqh.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'maria.valdes@enron.com' tem grau de entrada 3 e grau de saída 2.
+ - O vértice 'j..sturm@enron.com' tem grau de entrada 3 e grau de saída 2.
+ - O vértice 'cboyd@localok.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'coats.mike@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'seareel@neosoft.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'david.duran@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'joseph.wagner@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'contact@stockgenie.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'dand@amerexenergy.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'rosanna.migliaccio@robertwalters.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'amazingdealsclub@m-ul.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'tradingnews447577@yahoo.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'subscriber@mailboy.enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mark.confer@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'socrskibum@aol.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'mikefogo@mindspring.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'netfinacial@onebox.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'ologuru@yahoo.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'kristenm@jschmid.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'peters.zee@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bmiimarket@eudoramail.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'money.in.motion@mailman.enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'doug.sewell@enron.com' tem grau de entrada 3 e grau de saída 4.
+ - O vértice 'sunil.abraham@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'urgentalert677638@yahoo.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'trader@mailboy.enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'icmh1737@eudoramail.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice '2.4108.91-lltl_pakcfbp.1@cda01.cdnow.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'stephen.plauche@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'carl.tricoli@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'do_not_reply@internet-we.net' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jeffrey.miller@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'entertainment_buy.com@enews.buy.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'm..presto@enron.com' tem grau de entrada 3 e grau de saída 1.
+ - O vértice 'rob.milnthorp@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'heather.kroll@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'robert.stalford@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'manintan@swbell.net' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'forbes.andrea@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'porterb@klsinc.org' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rockwoodenergy@aol.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'rocksearch@aol.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'vogel.david@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'thomson.vanessa@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'carson.jan@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'coconnor@prebon.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'mrhill@midamerican.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'mcarson2@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'madhup.kumar@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'games-register@yahoo-inc.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'bergamini.chris@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'gustavo.giron@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'eric.saibi@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'service@etrade.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jason.kaniss@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jaime.gualy@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'lytle.todd@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'harry.arora@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'handley.george@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ecenter@energynewslive.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'nick.hiemstra@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'steve.pan@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'john.mee@williams.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rob@buy.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'thestreet.com46@offers2.mail-thestreet.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'erica.bess@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'matt.motley@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'lakepeople2@juno.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dsanchez@tradespark.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'sanchez@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bandrews@localok.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'hill.heather@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ramona.rodriguez@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'melissa.beckett@entergykoch.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'reginald.hart@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'hhill@houston.rr.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kenrcarson@eol.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mikef@amerex.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'david.goodman@entergykoch.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jbustos@calpine.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'exchangeinfo@nymex.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'michael.britt@constellation.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mikef@amerexenergy.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'teresa.mandola@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'devin.c.hall@uspwcglobal.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'devin.c.hal@us.pwcglobal.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ron.tapscott@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ken.merideth@axiaenergy.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'njme@dynegy.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'codydownard@hotmail.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'martin.cuilla@enron.com' tem grau de entrada 65 e grau de saída 63.
+ - O vértice 'gary.taylor@enron.com' tem grau de entrada 4 e grau de saída 2.
+ - O vértice 'tony.harris@enron.com' tem grau de entrada 0 e grau de saída 3.
+ - O vértice 'greg.martin@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'mark.friedman@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'ggt@gateway.net' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'mcuilla@hotmail.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mcuilla@enron.com' tem grau de entrada 43 e grau de saída 0.
+ - O vértice 'fermis@hotmail.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'orders@imagestation.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'rbwharton@juno.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'phil2dogs@aol.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'wayne.cuilla@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'pmadison@lexfurniture.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'rwharton@bellhelicopter.textron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'enron84@aol.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'wkaseme@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'gary.w.lamphier@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'swc88@ou.edu' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'lerenda@aol.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'agrovil@huglushotguns.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'martin_cuilla@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rosemaryf@housedressing.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'owner-newsletter@lists.houstonpress.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'newsletter@lists.houstonpress.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'intelhomecomputing.d1njhud.j@message.intel.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'lfrank@vignette.com' tem grau de entrada 0 e grau de saída 4.
+ - O vértice 'w.dangerfield@thehiringspot.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'webmaster@cera.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'info@1800contacts.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 's.nadalin@thehiringspot.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'eric.groves@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'john.massey@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'amanda.huble@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'grocerywor@processrequest.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'health.center@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'lori.parker@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'owner-issupport@imagestation.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'dorie.hitchcock@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'sylvia.pollan@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ruth.concannon@enron.com' tem grau de entrada 0 e grau de saída 3.
+ - O vértice 'bfernandez@sithe.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kevin.ruscitti@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mrosenberg@sithe.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'storesupport@zing.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'support@imagestation.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'zwharton@dawray.com' tem grau de entrada 3 e grau de saída 2.
+ - O vértice 'clickathomepilot2@enron' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'royalinteriors@twave.net' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'funserv@sunnews.infi.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'wndjmr@flash.net' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'dgreen@clausman.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'bluebelle010@hotmail.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'm..love@enron.com' tem grau de entrada 3 e grau de saída 1.
+ - O vértice 'ken.shulklapper@enron.com' tem grau de entrada 1 e grau de saída 4.
+ - O vértice 'issupport@imagestation.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'info@clubhyperia.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'ministryofsound.com@mailman.enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'newsletter@thevegasstrip.net' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'mcuilla@ect.enron.com' tem grau de entrada 21 e grau de saída 0.
+ - O vértice 'info@cera.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice '_corolla@response.etracks.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'bryant@cheatsheets.net' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'cheatsheets@yahoogroups.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'clickathome@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'undisclosed-recipients@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'listannouncefrom@dmband.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'listannounceto@dmband.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'changes1@emailfactory.net' tem grau de entrada 0 e grau de saída 1.
+ - O vértice '0_19812_e719a090-7eca-d011-9d39-0000f84121eb_us@newsletters.microsoft.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'netsaaversv@info.aa.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'nsterling@uniongas.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'clients@cera.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'thkiii3@yahoo.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'webmaster-e@transcanada.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'tcplnews@listsrv.transcanada.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice '2.3028.e0-xgb81_omkml5.1@cda01.cdnow.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'survey2@survey66.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'info@kitkat.org' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'newsletter-request@lists.houstonpress.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'chris@apbenergy.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'announce-list@clearchannel.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice '1n776p@msn.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice '8d5h1uq3@msn.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'continental_airlines_inc@coair.rsc01.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'matthew.lenhart@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'russellmurrell@hotmail.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'hopebello@truthmail.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'williamsjane@swiftdesk.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'e..webner@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'feedback@travelocity.m0.net' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'hotdeals@specials.funjet.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'denver.plachy@enron.com' tem grau de entrada 3 e grau de saída 1.
+ - O vértice 'caschwalbe@hotmail.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'carldfrank@yahoo.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'hotdeals@mail.hotelresnetwork.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'specials2@mail.hotelresnetwork.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'expediatraveldeals_029715@expedia.customer-email.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'deals@bestfares.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'especials@specials.ovm.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'robm@wt.net' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'bill@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'erik.simpson@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kevin.heal@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'eric.le@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jeffshaw00@hotmail.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'usatoday5918@mailandnews.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'undisclosed.recipients@mailman.enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'quality@corp.classmates.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'patkirk@ozbytes.net.au' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'feelrac@visto.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'newsletter@nakedwomansex.com' tem grau de entrada 0 e grau de saída 3.
+ - O vértice 'infousa6912@imailbox.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'kzy4@msn.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'd710qzk@msn.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice '2.3894.22-how7spz28_ri.1@cda01.cdnow.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'acedirect@aircanada.ca' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'websaver@guava.ease.lsoft.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'lindsay.culotta@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'w.dangerfield@deaus.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'airtran_airways_net_escapes.um.a.35.88@post.intellimedia.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'danielyergin@cera.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'notifier@microsoft.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice '2.3890.4d-n_fmsbdgjxej.1@cda01.cdnow.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'directtv@worldatamail.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'sctc@77002.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'savemoney@mail2.emediatemail.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'tlbjirmcic@mail2.emediatemail.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dontwait@mail2.emediatemail.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'kfijxttaxk@mail2.emediatemail.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'expediatraveldeals_033509@expedia.customer-email.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'never2late@ever2.beontarget.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'ztczubvbzu@ever2.beontarget.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice '2.3895.76-5vrrsiiutfrn.1@cda01.cdnow.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'cindy@n7.privatenetservers.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'rawls@ectech.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'expediatraveldeals_033195@expedia.customer-email.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'editor@hersweeps.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'northwoods@canada.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'andrejohanson@loadmail.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jimwoo@asean-mail.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'bil_ten@addlebrain.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bartholomew@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'customercare@merckmedco.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'amandawhitby@coolgoose.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'harryh@planetaccess.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 't8imky@msn.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice '6cytnfth@msn.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'marketing@welcome.ebay.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'ohwebmaster@opg.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'messenger@directtrak.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice '0_19619_e719a090-7eca-d011-9d39-0000f84121eb_us@newsletters.microsoft.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'expediatraveldeals_031033@expedia.customer-email.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'expediatraveldeals_029350@expedia.customer-email.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'airtran_airways_net_escapes.um.a.35.57@post.intellimedia.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'airtran_airways_net_escapes@post.intellimedia.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'service@playerstime.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'expediatraveldeals_031352@expedia.customer-email.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'bnrfjo@msn.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'ep8q@msn.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice '2.3477.f3-ehre1yhyqsbx.1@cda01.cdnow.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'owner-issupport@zbold.zing.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'lonniejacobs@fiberia.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'offandrunning@1internetdrive.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ministryofsound.com@mailboy.enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'tj13stmbzh@msn.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice '3sc7107zloj@msn.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'highschoolalumni@highschoolalumni.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'nmez@msn.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'tniv@msn.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice '2koha45k2@msn.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'cdkv1kwd2f@msn.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ackc@msn.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'zjaurof10s@msn.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'pinkrulesdaworld@excite.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'johnkilroy@c4.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'mike.gunn@info.aa.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'nokia@nokia.bp00.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'lindsay.renaud@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 's..shively@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'brandon.oliveira@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice '2.3374.1d-i5ncsd6_rgbu.1@cda01.cdnow.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice '2.2873.72-cxtvsrmukelc.1@cda01.cdnow.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'souad.mahmassani@enron.com' tem grau de entrada 2 e grau de saída 3.
+ - O vértice 'yahoo-delivers@yahoo-inc.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'party@kitkat.org' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'samantha@g7.freshgirlsonline.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'lockley@png.cng.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'midnitemail@lists.em5000.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'robyn.zivic@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'richard.tomaski@enron.com' tem grau de entrada 3 e grau de saída 1.
+ - O vértice 'editor@theb2bvoice.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'e.murrell@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'tori.kuykendall@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'ksumey@ftenergy.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'sumey@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice '0_19653_e719a090-7eca-d011-9d39-0000f84121eb_us@newsletters.microsoft.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'dianne.ripley@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'j_perches@yahoo.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'l..schrab@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'megan.parker@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kirti.patel@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'karima.husain@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bpotter@proliance.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'posterclub@allposters.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice '6.207.04-k9w0wmehyb97vkqo9pais5bathfr.1@mail3.travelocity.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'etcadmin@expedia.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 's..pollan@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tim_wells@transcanada.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'mline-tariff@listsrv.transcanada.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'scottradestreamer@scottrade.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'notification.isc@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'users.dl-enron@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'h..lewis@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'dl-ga-all_enron_worldwide2@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'airtran_airways_net_escapes.um.a.35.59@post.intellimedia.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'gail_jones@transcanada.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'bill_rasch@raschgraphics.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'a060279@allstate.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'webmaster@starfurniture.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mike@searchconsultants.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mdhubley@ex-sp.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ramind@flash.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rob@ramind.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'james.h.cook@us.arthurandersen.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bryan.hull@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'james.simpson@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'dax@cypressmail.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'veronica.parra@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'geoff.storey@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'chris.dorland@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'drudge@drudgereport.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'astephens@crushinteractive.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'odisea1982@hotmail.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jeanne.fore@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'melanie.harwell@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'scott.dozier@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'richard.hensch@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dplachy@hotmail.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'james.derrick@enron.com' tem grau de entrada 132 e grau de saída 166.
+ - O vértice 'darlene.forsyth@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'ben.glisan@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'rob.walls@enron.com' tem grau de entrada 8 e grau de saída 6.
+ - O vértice 'mike.moran@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'norma.tidrow@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'amanda.martin@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jdilg@velaw.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'tracy.ralston@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'globalflash.recipients@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'shirley.oliver@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'marcus.nettelton@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'linda.trevino@enron.com' tem grau de entrada 5 e grau de saída 1.
+ - O vértice 'robert.eickenroht@enron.com' tem grau de entrada 2 e grau de saída 4.
+ - O vértice 'rhutchison@velaw.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'marc.manly@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'lance.schuler-legal@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'james_derrick@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'james.bannantine@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'corpgen@mail.abanet.org' tem grau de entrada 11 e grau de saída 1.
+ - O vértice 'body.shop@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'glenn.kobes@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'john.west@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'randy.pais@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'elizabeth.labanowski@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'janette.elbertson@enron.com' tem grau de entrada 0 e grau de saída 4.
+ - O vértice 'mcominsky@aol.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'cpatman@bracepatt.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'lee.carrier@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'katherine.brown@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'subha.vuthoori@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'apalmerlee@cfr.org' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'communications@cfr.org' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'karen.denne@enron.com' tem grau de entrada 5 e grau de saída 3.
+ - O vértice 'kenneth.lay@enron.com' tem grau de entrada 8 e grau de saída 0.
+ - O vértice 'kate.cole@enron.com' tem grau de entrada 2 e grau de saída 10.
+ - O vértice 'jkubin@gibbs-bruns.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rwright@wt.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'shannonc17@hotmail.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'listserv@mail.abanet.org' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'chochais@sk-enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'danielle.dees@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'mark.evans@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'rbaird@velaw.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'james.bouillion@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'nicki.daw@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jeff.skilling@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'jw1000mac@yahoo.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'david.matthews@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'cindy.derecskey@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'dwinn@swlegal.org' tem grau de entrada 1 e grau de saída 5.
+ - O vértice 'bmnw@airmail.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jordan.mintz@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'sherri.sera@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'cliff.baxter@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ruth.brown@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'pbrandt@lrci.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'mimmergut@milbank.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'karen.randolph@tnsofres.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tom.mckeever@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kelly.johnson@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'john.belew@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dick.westfahl@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sharris2@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'travelsmith_outfitters@travelsmith.m0.net' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'ssusman@susmangodfrey.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'the.mailout@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sharon.butcher@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'bgkeithley@jonesday.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'ect.europe@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jkeffer@kslaw.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'enron_update@concureworkplace.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jderric@enron.com' tem grau de entrada 6 e grau de saída 0.
+ - O vértice 'charles.cheek@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'national@cfr.org' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'ifaskianos@cfr.org' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'tlevy@entrustcapital.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'j.harris@enron.com' tem grau de entrada 2 e grau de saída 5.
+ - O vértice 'hema@izhuta.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jim.armogida@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'john.ale@enron.com' tem grau de entrada 6 e grau de saída 0.
+ - O vértice 's.callaway@tjmhou.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'stanley.horton@enron.com' tem grau de entrada 3 e grau de saída 2.
+ - O vértice 'drew.fossum@enron.com' tem grau de entrada 42 e grau de saída 182.
+ - O vértice 'rastin@velaw.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'dilg@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'maria.pavlou@enron.com' tem grau de entrada 7 e grau de saída 8.
+ - O vértice 'ladean@uts.cc.utexas.edu' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'liberal-arts-alumni@lists.cc.utexas.edu' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'donna.lowry@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'john.allario@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'b..sanders@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'joannie.williamson@enron.com' tem grau de entrada 1 e grau de saída 3.
+ - O vértice 'elizabeth.tilney@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'andrew.edison@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'bruce.lundstrom@enron.com' tem grau de entrada 4 e grau de saída 2.
+ - O vértice 'mark.metts@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'nolda.halderman@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'joe.dilg@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'lisa.costello@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'raymond.bowen@enron.com' tem grau de entrada 6 e grau de saída 0.
+ - O vértice 'vireturn@uts.cc.utexas.edu' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'eserver@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jarek.astramowicz@enron.com' tem grau de entrada 3 e grau de saída 4.
+ - O vértice 'larry.pardue@enron.com' tem grau de entrada 0 e grau de saída 3.
+ - O vértice 'angie.ramirez@enron.com' tem grau de entrada 4 e grau de saída 0.
+ - O vértice 'lillian.bailey@enron.com' tem grau de entrada 1 e grau de saída 5.
+ - O vértice 'adam.jarek@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'adam.overfield@enron.com' tem grau de entrada 4 e grau de saída 2.
+ - O vértice 'gael.doar@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'lgalvarado@alvaradoconstruction.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'j..kean@enron.com' tem grau de entrada 3 e grau de saída 4.
+ - O vértice 'fsmith008@aol.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'peter.arbour@halliburton.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'info@aplf.org' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'karen.hedley@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'david.burns@bakerbotts.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'britt.davis@enron.com' tem grau de entrada 5 e grau de saída 4.
+ - O vértice 'peter.del@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'joseph.cialone@bakerbotts.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kay.chapman@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sara.davidson@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'suhas.tuljapurkar@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ebattioli@azurixbasa.com.ar' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jeff.messina@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'paula.rieker@enron.com' tem grau de entrada 2 e grau de saída 4.
+ - O vértice 'pincussr@nmenergy.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'sylvia.hu@enron.com' tem grau de entrada 0 e grau de saída 5.
+ - O vértice 'e..brown@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'travelsmith.193805657@s2u2.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'london.brown@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'a..hughes@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'lisa.mellencamp@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'c..forsyth@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'erica.braden@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mhoran@shb.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'doug.leach@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'yener@singnet.com.sg' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'e..lindsey@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'margarita.coale@weil.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'tetoffensive@mail2world.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'philippe.a.bibi@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'lori.pinder@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'dirk.van@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'george.lojko@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'health_africa@yahoo.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'thomas.riehle@ipsos-reid.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'whitney@thelaw.net' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'bart_schwartz@mony.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'ksterling@sterlingandassociates.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'cater.john@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'wjoor@velaw.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'charles.morgan@bellsouth.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'beisenberg@starpower.net' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'watsons@nytimes.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'sheila.walton@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'patkins@skadden.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'sandmanp@bsci.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jian.miao@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'angel.esguerra@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'john.ambler@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'maureen.mcvicker@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'paul.polking@bankofamerica.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'akell00@sears.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'coralina.rivera@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'mark.holsworth@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'pat.radford@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'pete.bewley@clorox.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'susan.bulgawicz@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'teresa.callahan@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'a..aune@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'vance.meyer@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jan-g1@hotmail.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'douglas_nichols@pgn.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'cynthia.barrow@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'jbrenner@wilmer.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'martha.braddy@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'beth.apke@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jan.cooley@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'mark.frevert@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'scott.flukinger@dfait-maeci.gc.ca' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'alan.aronowitz@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'billy.dorsey@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jeremy.blachman@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'vicki.sharp@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'ed.cattigan@enron.com' tem grau de entrada 5 e grau de saída 2.
+ - O vértice 'michelle.cash@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'tiusa@aol.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'charles.p.heeter@awo.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'twayne@waynedirect.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'coggins@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'derrick.jr.@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'joshn@induslogic.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'miguel.gaffud@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'vsharp@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'clayton.vernon@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'keffer@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jay.ferry@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'walton.agnew@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'hanhsmith@aol.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'j.derrick@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'asmith@velaw.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'richard.causey@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'george.wasaff@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'adrian.montague@socgen.co.uk' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'powerst@haynesboone.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jlowe@mail.smu.edu' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'richard.cliff@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'drc@harte-hanks.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'richard.devlin@mail.sprint.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'scott.dieball@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'bobbie.power@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'hartrick@alumni.rice.edu' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'friedland@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'snewton@ev1.net' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'elizabeth.sager@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'cassandra.schultz@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'e..haedicke@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'chris.mahoney@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'cdavidow@wilmer.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'kersten.schenck@cliffordchance.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jim.derrick@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'greek.rice@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'travelsmith.240255380@s2u2.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'linda.robertson@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'wmclucas@wilmer.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'brad.kirchhofer@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'd..jones@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'joe.gold@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jeffrey.mcmahon@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'stuart.salt@linklaters.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'mark_berg@agfg.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'c..willard@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'emily.ward@bellsouth.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'krzysztof.forycki@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'e..parrish@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'sophie.martin@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'exchange.administrator@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'sbwoil@aol.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'billy.lemmons@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'james.lewis@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'steven.kean@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'iona.maclean@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'ann.schmidt@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sharon.morgan@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'mary.ogden@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'nelly.carpenter@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'greg_rutchik@yahoo.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'leena.mathews@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'juan.torres@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'frank.lobdell@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'kevin.hannon@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'hreasoner@velaw.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'charles.berry@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'chirstopher.b.hunt@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'annette.patrick@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'generalinfo@marketing.vignette.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'monique.shankle@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'anne.edgley@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'michael.brown@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'htheaker@velaw.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'brian.skruch@reddotsolutions.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'awu@quinnemanueal.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'suzanne.danz@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'david.koogler@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'awu@quinnemanuel.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'wdriver@kslaw.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dtomlin@bcm.tmc.edu' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'james.grace@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'elizabeth.linnell@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'grossbem@tklaw.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'joel.ephross@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice '40newpower@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kathy.kumiega@elftech.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'geiland@velaw.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'adam.umanoff@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'poxford@bracepatt.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ann.ballard@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'scott@nypcdsn02.eq.gs.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'richard.dimichele@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'matthias.lee@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'crissy.collett@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rainsworth@shb.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'david.jackson@blakes.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'michelle.blaine@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'cbreaux@ncsc.dni.us' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'david.haug@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'colleen.raker@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'dwinn@swlegal.orgn' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mld@nwnatural.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'm1d@nwnatural.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'iam@michaelberry.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'l..petrochko@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tshelton@aol.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'enrique.zambrano@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'nbrazzil@mail.law.tuexas.edu' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'charles.allen-jones@linklaters.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kriste.sullivan@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ann.linnehan@pb.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tracy.foy@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jez.peters@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rawson@lucent.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mike.whealy@firstdatacorp.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'diggs@ppg.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'gail.brownfeld@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'awu@quinnemanuel.coml' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'blafuze@velaw.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rene.moulinet@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'fmackin@aol.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'david.nutt@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jnewton@ev1.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kzelikovitz@mariner-energy.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jeff.donahue@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mary.joyce@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bxc@bediligent.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'cindy.olson@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'maria.scudder@linklaters.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kristina.mordaunt@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'elaine.esparza@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'amy.mulligan@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'jan.moore@enron.com' tem grau de entrada 6 e grau de saída 7.
+ - O vértice 'angela.white@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'dennis.lee@enron.com' tem grau de entrada 3 e grau de saída 8.
+ - O vértice 'michael.bodnar@enron.com' tem grau de entrada 3 e grau de saída 1.
+ - O vértice 'newsletter@rigzone.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'lindy.donoho@enron.com' tem grau de entrada 53 e grau de saída 72.
+ - O vértice 'craig.buehler@enron.com' tem grau de entrada 5 e grau de saída 3.
+ - O vértice 'jjill@clickaction.net' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'talbots@clickaction.net' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'enerfaxdaily@enerfax.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'john@pgsenergy.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'kay.miller@enron.com' tem grau de entrada 2 e grau de saída 3.
+ - O vértice 'lorna.brennan@enron.com' tem grau de entrada 1 e grau de saída 11.
+ - O vértice 'courtney.barker@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'doug.aschwege@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'john.sweney@brookwoods.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'sweney@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'gabriel.chavez@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'pilar.ramirez@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'ava.garcia@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'rita.bianchi@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'ken.anderson@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'deanrodgers@kaseco.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'rosemary.gracey@enron.com' tem grau de entrada 0 e grau de saída 6.
+ - O vértice 'paul.cherry@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'jennifersmith@kaseco.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'audrey.robertson@enron.com' tem grau de entrada 3 e grau de saída 9.
+ - O vértice '01@ftenergy.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'plattsnews@list1.resdata.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mansoor.abdmoulaie@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'steven.harris@enron.com' tem grau de entrada 13 e grau de saída 5.
+ - O vértice 'andy.brady@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dl-ets_pfp@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'hotline.isc@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'list.enron@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ramona.betancourt@enron.com' tem grau de entrada 1 e grau de saída 3.
+ - O vértice 'jean.adams@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'james.centilli@enron.com' tem grau de entrada 3 e grau de saída 1.
+ - O vértice 'carol.armstrong@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bill.rapp@enron.com' tem grau de entrada 5 e grau de saída 3.
+ - O vértice 'dennis.alters@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'rick.dietz@enron.com' tem grau de entrada 3 e grau de saída 1.
+ - O vértice 'elizabeth.brown@enron.com' tem grau de entrada 3 e grau de saída 4.
+ - O vértice 'laura.giambrone@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kimberly.watson@enron.com' tem grau de entrada 10 e grau de saída 2.
+ - O vértice 'energyreleases@excite.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'david.a.foti@accenture.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'gina.taylor@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'adamsholly@netscape.net' tem grau de entrada 0 e grau de saída 3.
+ - O vértice 'ldonoho@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'robert.hayes@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'j..porter@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'orders@nordstrom.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'shelley.corman@enron.com' tem grau de entrada 9 e grau de saída 10.
+ - O vértice 'duluth1@yahoo.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ken.powers@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'ray.alvarez@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'lisa.fawcett@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'ann.foret@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'report.dl-ets@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'glen.hass@enron.com' tem grau de entrada 5 e grau de saída 4.
+ - O vértice 'terry.kowalke@enron.com' tem grau de entrada 1 e grau de saída 3.
+ - O vértice 'fhelme@avaya.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'rod.hayslett@enron.com' tem grau de entrada 4 e grau de saída 3.
+ - O vértice 'danny.mccarty@enron.com' tem grau de entrada 5 e grau de saída 0.
+ - O vértice 'lynn.blair@enron.com' tem grau de entrada 4 e grau de saída 2.
+ - O vértice 'margy2001@yahoo.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'kmettling@chsomaha.org' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tracy.geaccone@enron.com' tem grau de entrada 3 e grau de saída 2.
+ - O vértice 'hasan.kedwaii@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'lisa.sawyer@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'info@pmaconference.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'lorraine.lindberg@enron.com' tem grau de entrada 4 e grau de saída 2.
+ - O vértice 'linda.wehring@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'wendy.koh@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'steve.kirk@enron.com' tem grau de entrada 2 e grau de saída 3.
+ - O vértice 'r..keller@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'martha.benner@enron.com' tem grau de entrada 4 e grau de saída 6.
+ - O vértice 'l.koob@gte.net' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'nancy.bagot@enron.com' tem grau de entrada 2 e grau de saída 3.
+ - O vértice 'nan.whatley@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'lsriehm@houston.rr.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'home.kohler@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'payroll.enron@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'dan.fancler@enron.com' tem grau de entrada 3 e grau de saída 4.
+ - O vértice 'john.buchanan@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'yuan.tian@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'a..howard@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'alma.carrillo@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'fran.fagan@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'anitha.mathis@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'lisa.watson@gulfsouthpl.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'chelme@cox.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'harry@harrylenkerd.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'davis.thames@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'adonoho@houston.rr.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ahmedxii@yahoo.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'morad@midsouth.rr.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rich.jolly@enron.com' tem grau de entrada 4 e grau de saída 2.
+ - O vértice 'kathy.campos@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'robert.kilmer@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mary.darveaux@enron.com' tem grau de entrada 2 e grau de saída 4.
+ - O vértice 'gregory.porter@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mark.knippa@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'melinda.gallishaw@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'gay.mayeux@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice '8772374503@pagenetmessage.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'm.hall@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'timothy.jones@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'teb.lokey@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'esc-christmanj@pearland.isd.esc4.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sslindberg@duke-energy.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'robert.jones@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'david.foti@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sscott3@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kathy.ringblom@enron.com' tem grau de entrada 1 e grau de saída 5.
+ - O vértice 'dari.dornan@enron.com' tem grau de entrada 5 e grau de saída 1.
+ - O vértice 'susan.scott@enron.com' tem grau de entrada 5 e grau de saída 7.
+ - O vértice 'cbi_mail@igate.cbinet.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'dfossum@enron.com' tem grau de entrada 8 e grau de saída 0.
+ - O vértice 'julie.mccoy@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'margaret.carson@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'john.dushinske@enron.com' tem grau de entrada 4 e grau de saída 1.
+ - O vértice 'denise.lagesse@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'ruth.mann@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'julie.armstrong@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'lwin@gbmdc.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'mark.adelmann@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'bob.chandler@enron.com' tem grau de entrada 4 e grau de saída 3.
+ - O vértice 'mary.miller@enron.com' tem grau de entrada 11 e grau de saída 12.
+ - O vértice 'sap.hotline@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'isc.groups@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'daniel.allegretti@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'expense.report@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'lon.stanton@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'mike.mcgowan@enron.com' tem grau de entrada 3 e grau de saída 1.
+ - O vértice 'staci.holtzman@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bill.cordes@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'emily.sellers@enron.com' tem grau de entrada 2 e grau de saída 5.
+ - O vértice 'reyna.cabrera@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'michael.moran@enron.com' tem grau de entrada 7 e grau de saída 5.
+ - O vértice 'steven.january@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'michel.nelson@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'all.states@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jdoering@rcgroup.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'bhopkins@rcgroup.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rockey.storie@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kent.miller@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'ajenkins@lanlaw.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'stephen.thome@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jeffery.fawcett@enron.com' tem grau de entrada 6 e grau de saída 3.
+ - O vértice 'dhill@wrf.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dave.neubauer@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'lee.huber@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'tony.pryor@enron.com' tem grau de entrada 4 e grau de saída 3.
+ - O vértice 'paulg@stpaul.lib.mn.us' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rlfossum@mato.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'gbriden.snakehill@worldnet.att.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'breasoner@gibbs-bruns.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'jenerso@ei.enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'keith.petersen@enron.com' tem grau de entrada 1 e grau de saída 4.
+ - O vértice 'randy.rice@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'sackreit@flash.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tyler.theobald@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ranelle.paladino@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'norma.hasenjager@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mark.whitt@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'laura.wilkinson@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'christine.stokes@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mcohn@hou-law.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'paul.bieniawski@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'lbickle@hvllc.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mcalderone@tpc-corp.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dan.bunch@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dhill@bspmlaw.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'julia.white@enron.com' tem grau de entrada 2 e grau de saída 4.
+ - O vértice 'william.brown@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'molly.sample@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'darrell.schoolcraft@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'magdelena.cruz@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tony@digitrain.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'fossum4@home.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'norm.ruiz@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dan.pribble@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'james.saunders@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dana.jones@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ld.stephens@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'larry.pavlou@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'frank.bay@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'joe.jeffers@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bob.stevens@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'barbara.gray@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kbaird@firstrate.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ajc@infohwy.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'laura.kinningham@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'peggy.phillips@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'eric.gadd@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rhirasuna@akingump.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'brian.schaffer@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dave.schafer@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ets.announcement@enron.com' tem grau de entrada 0 e grau de saída 4.
+ - O vértice 'enron.operations@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'drew_fossum@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'donna.fulton@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tammy.jaquet@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'npng.operations@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'gay.arnold@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sackreiter@randolph.af.mil' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'martha.janousek@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'donald.vignaroli@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'tom.shelton@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'weaverbh@kenyon.edu' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jim.talcott@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'tsiguaw@markethubs.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dhooker@utilicorp.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sandra.evans@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'harry.kingerski@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'beth.ryan@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ppeldner@utilicorp.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bill.votaw@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'annmarie.tiller@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kim.wilkie@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jalexander@gibbs-bruns.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'leslie.lawner@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tmonaldo@mrg-11c.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jeff.fawcett@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mschroeder@enron.co.uk' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bob.burleson@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tim.durst@bakerbotts.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'john.goodpasture@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'comd3@swcp.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'gjporter@midamerican.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'frank.semin@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'john.williams@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jeff.nielsen@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jwyss@wrf.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'patrick.brennan@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mschroeder@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'steve.hotte@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'naveed.ahmed@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'terickson@cftc.gov' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'andrew.wu@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'yapasu@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'the.pulse-ets@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'enron.administration@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'front.desk@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'alan.behrens@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dale.neuner@enron.com' tem grau de entrada 4 e grau de saída 1.
+ - O vértice 'enron.employees@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mnewsletter@mtlnh.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'tim.aron@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'michelle.lawless@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'david.aamodt@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'debbie.nowak@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'ted.bland@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'omaha.employees@enron.com' tem grau de entrada 7 e grau de saída 0.
+ - O vértice 'vernon.mercaldo@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sharris1@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'drlittle77@msn.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'enron.omaha@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rick.craig@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'hoyt.ivey@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'postmaster@uschamber.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'frazier.king@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'nancy.bastida@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'gary.zahn@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'michele.winckowski@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'john.shafer@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'james.prentice@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'rudi.zipter@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'skip.glatte@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'enron.1@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'william.bradford@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ken.skilling@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'lfrederick@ingenieros.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'mkmiller@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'diane.becker@enron.com' tem grau de entrada 0 e grau de saída 2.
+ - O vértice 'bardblack@aol.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jackie.griffith@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'lisa.lees@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rnussbaum@lrsolutions.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jaym@igate.cbinet.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'stan.horton@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tammy.anderson@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jerry.moore@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'elizabeth.jones@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'npng.office@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'karen.lagerstrom@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mike.barry@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'mark.courtney@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'teluebke@leoadaly.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'jennifer-nyc_williams@nyc.bm.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bambi.heckerman@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'enron.committee@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'scott.coburn@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'enron.users@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jerry.peters@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'leasa.lopez@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'general.counsels@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'weo_mail@igate.cbinet.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'philip.crowley@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'barbara.bischoff@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'deborah.shahmoradi@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'hirasuna@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sackreiters@compuserve.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'loon@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'laura.luce@enron.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'darron.c.giron@enron.com' tem grau de entrada 6 e grau de saída 0.
+ - O vértice 'dmoore21@charter.net' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'angela.teerwilliams@gte.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'reservations@goalamo.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'dgiron@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'hollyw@email.msn.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'tstreicher@servicepro.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'darron.giron@enron.com' tem grau de entrada 5 e grau de saída 179.
+ - O vértice 'hal.mckinney@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'phillip.love@enron.com' tem grau de entrada 4 e grau de saída 0.
+ - O vértice 'kwpope@pdq.net' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'dan@vcrhouston.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'imelda.trevino@enron.com' tem grau de entrada 0 e grau de saída 3.
+ - O vértice 'chris.abel@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'arsystem@mailman.enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'shirley.mcdowell@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'trecina.steadham@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'hector.mcloughlin@enron.com' tem grau de entrada 1 e grau de saída 2.
+ - O vértice 'thresa.allen@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'plove@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'kathryn.bussell@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'david.baumbach@enron.com' tem grau de entrada 3 e grau de saída 1.
+ - O vértice 'enw-employees_houston@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tracey.irvin@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'vivien.pham@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'brollman@protrader.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'brad.morse@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rachel.crowell@enron.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'elizabeth.shim@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'responses@newpower.com' tem grau de entrada 0 e grau de saída 1.
+ - O vértice 'carlos.giron@psiusa.com' tem grau de entrada 2 e grau de saída 1.
+ - O vértice 'anne.bike@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'akasha.bibb@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jay_liberman@ml.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'carole.frank@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'patrick.ryder@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sschroed@us.ca-indosuez.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'mark.c.austin@us.andersen.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kristi.giron@cfisd.net' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'trainingorders@vertical.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jeremy.wong@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'tricia.truong@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kgs@teamlead.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jennifer.velasco@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'burton.mcintyre@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'smmayers@earthlink.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'anita.luong@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jim.little@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dawn.kenne@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'lisa.valderrama@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jason.wolfe@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kristen.clause@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ellen.wallumrod@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'scott_crowell@hotmail.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'darla.saucier@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sheri.thomas@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mike.fultz@halliburton.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'robin.rodrigue@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dgiron1@pdq.net' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'tabitha.mohon@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jana.giovannini@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rick.suttle@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'troy.klussmann@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'gregory.mausser@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'greg_carrow@valic.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'genaro.mendoza@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'francisco.dejesus@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kelly.ellis@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jennifer.bagwell@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'luvarson@aol.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mark.austin@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'toni.graham@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'andrea.richards@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kevin.radous@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'q-series@car-audio-discount.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'daniel.falcone@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'caputo_david@jpmorgan.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'stacey.vallejo@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'george.grant@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'shelly.jones@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jefferson.sorenson@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'leslie_scharck@lyondell.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'susan.trevino@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'connie.sutton@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'william.kelly@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'victor.guggenheim@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sharon.smith@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jcmayers@earthlink.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jackson.logan@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'virawan.yawapongsiri@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'dutch.quigley@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'audrey.cook@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'beatrice.reyna@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'chantelle.villanueva@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'michael.moscoso@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'scrowell@us.oracle.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'greg.couch@enron.com' tem grau de entrada 3 e grau de saída 0.
+ - O vértice 'kyle.lilly@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'steve.richman@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'steve.ross@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'gary.stadler@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kevin.drachenberg@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'robert.fowler@cfisd.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'debny.greenlee@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mary.ruffer@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'gregg.penman@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'b.palmer@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'smcadoo@ev1.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'acurles@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rahmaan.mwongozi@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'drew.hill@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'albernita.travis@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'smcadoo@mail.ev1.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'imelda.frayre@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jhliberman@pclient.ml.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'ron.nolte@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'isabel.resendez@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'stephanie.miller@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'c..giron@enron.com' tem grau de entrada 1 e grau de saída 78.
+ - O vértice 'dgiron1@houston.rr.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bwells@pop.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ronniegiron@yahoo.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jborowic@utilicorp.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'david.plaisance@us.pwcglobal.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kim.mayers@mail.sprint.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'pgutman@utilicorp.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'c..gossett@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'marianne.long@travelpark.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kjsnook@aol.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'brentforking@hotmail.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mac@ifeminists.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'crich75206@aol.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'big12@cottonbowl.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'diane.anderson@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'alove@houston.rr.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jbrownin@utilicorp.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'cyndie.balfour-flanagan@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dgiron1@houstonrr.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'crharding@aep.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'brent4king@hotmail.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'csulzer@grenergy.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'c..kenne@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mrichter@us.ibm.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'ed.mcmichael@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'scott.palmer@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'j.bagwell@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'smmayers@home.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'birgit@hiresynergy.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'stacey.richardson@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'astuhr@hnbank.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'cecilia.cheung@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'shona.wilson@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'carlos.giron@psuusa.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'roger_tisdale@oxy.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ohlinger@gte.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dkenne@houston.rr.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rl692372@earthlink.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'deirdre.mccaffrey@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'randy.g.kruger.jr@us.andersen.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'rsinbrilliance25@aol.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kevin.bosse@enron.com' tem grau de entrada 2 e grau de saída 0.
+ - O vértice 'carole_frank@excite.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'd..winfree@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'gmausser@houston.rr.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'eric.moon@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ralphmayers@hotmail.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'theresa.staab@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'randy.g.kruger.jr@us.arthurandersen.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'randy.g.kruger.jr@arthuranderson.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'maria.garza@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'chris.austin@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jennifer.nguyen@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'support@audio-n-more.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'zhiyong.wei@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bryce.baxter@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kenneth.thibodeaux@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'shawn.grady@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'angela.collins@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dmoore@nylf.org' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'diane.cook@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jane.saladino@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'ernie.lachica@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'derek.bailey@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'scott.crowell@us.cgeyc.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bill.fortney@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'r116@car-audio-discount.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'yhaynes@mindspring.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'sean@audionmore.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'molly.magee@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mid1316@car-audio-discount.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'jhsim@juno.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'kathy.reeves@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mark.ebert@broadwing.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'dmoore2651@aol.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'scott.t.crowell@us.cgeyc.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'susan.wimberley@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'bwallace@tcast.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'michael.abraham@us.arthurandersen.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'michael.abraham@us.arthuranderson.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'chris.schomer@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'doug.nelson@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'charles.jacobs@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'regina.perkins@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mechelle.stevens@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'edie.leschber@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mark.mixon@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'mail43232@pop.net' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'elizabeth.hernandez@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'binh.pham@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'steve.jackson@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'anabel.soria@travelpark.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'karie.hastings@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'info@bestwestern-onthebeach.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'onepass@coair.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'christy.lobusch@enron.com' tem grau de entrada 1 e grau de saída 0.
+ - O vértice 'gabriel.monroy@enron.com' tem grau de entrada 1 e grau de saída 0.
+ Vértices com grau de entrada igual ao grau de saída:
+ - O vértice 'jared.kaiser@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'outlook.team@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'brian.hoskins@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'jeffrey.shankman@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'colleen.sullivan@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'ksmalek@aep.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'tk.lohman@enron.com' tem grau de entrada e saída iguais: 3.
+ - O vértice 'louise.kitchen@enron.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'stouchstone@natsource.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'byoung@prebon.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'andrea.ring@enron.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'jennifer.fraser@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'lucy.marshall@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'afinch@natsource.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'melba.lozano@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'craig.taylor@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'steve.wang@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'suzanne.calcagno@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'cocob@pdq.net' tem grau de entrada e saída iguais: 1.
+ - O vértice 'luchas.johnson@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'john.arnold@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'mike.maggi@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'chris.walker@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'john.lavorato@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'jeanie.slone@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'adrianne.engler@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'bkbrawner@aol.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'john.suarez@enron.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'carolyn.graham@enron.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'f..keavey@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'kenrcars@aol.com' tem grau de entrada e saída iguais: 3.
+ - O vértice 'mcarson@gtemail.net' tem grau de entrada e saída iguais: 1.
+ - O vértice 'macharta@yahoo.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'wentapb@sprintmail.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'cdownard@vailresorts.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'devin.c.hall@us.pwcglobal.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'greg.woulfe@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'bryan.garrett@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'j.nesmith@prodigy.net' tem grau de entrada e saída iguais: 1.
+ - O vértice 'russell.ballato@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'patrick.hanse@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'cjackson1@txu.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'dgrimes@ibshouston.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'ddavenport@multifuels.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'kendm@swbell.net' tem grau de entrada e saída iguais: 1.
+ - O vértice 'bodyshop@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'members@realmoney.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'optin@sungrp.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'susan.lindberg@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'members@premierinvestornetwork.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'paul.racicot@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'ryan.lorei@disney.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'chris_jackson@txu.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'craigjefferies@ckbenergy.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'wentapb@phoenix-cement.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'michael.britt@constellaion.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'cathy.moehlman@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'evelyn.aucoin@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'chip.schneider@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'corry.bentley@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'william.kasemervisz@enron.com' tem grau de entrada e saída iguais: 3.
+ - O vértice 'gary.lamphier@enron.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'michael.morris@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'jeffrey.gossett@enron.com' tem grau de entrada e saída iguais: 3.
+ - O vértice 'mike.grigsby@enron.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'sharon.cuilla@nlrb.gov' tem grau de entrada e saída iguais: 1.
+ - O vértice 'mcuilla@houston.rr.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'mcontant@cypressasset.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'ddiamond@houston.rr.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'promo@e-virtualcities.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'stephanie.hopkins@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'alex.villarreal@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'promo@bestbonus.net' tem grau de entrada e saída iguais: 1.
+ - O vértice 'alexandra.villarreal@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'james.h.cook@us.andersen.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'brian.vassigh@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'scott.campbell@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'patrick.tucker@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'email@lisc.net' tem grau de entrada e saída iguais: 1.
+ - O vértice 'stephanie.harris@enron.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'robert.williams@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'al.alexanderson@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'jeffsok@juno.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'mark.greenberg@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'nbrazzil@mail.law.utexas.edu' tem grau de entrada e saída iguais: 1.
+ - O vértice 'rosalee.fleming@enron.com' tem grau de entrada e saída iguais: 3.
+ - O vértice 'hoytm@hughesluce.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'thenninger@mail.law.utexas.edu' tem grau de entrada e saída iguais: 1.
+ - O vértice 'rex.rogers@enron.com' tem grau de entrada e saída iguais: 5.
+ - O vértice 'mark.haedicke@enron.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'richard.sanders@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'krchoi@sk-enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'mark.koenig@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'john.novak@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'srobinson@velaw.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'kayla.heitmeyer@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'michelle.hicks@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'bruce.smith@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'michael.cilento@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'misha.siegel@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'heath.schiesser@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'styler@spahouston.org' tem grau de entrada e saída iguais: 1.
+ - O vértice 'janet.place@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'n..gray@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'cschwartz@velaw.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'jacek.glowacki@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'robert.vote@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'c..williams@enron.com' tem grau de entrada e saída iguais: 3.
+ - O vértice 'renata.maziarz@enron.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'julia.murray@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'eric.newell@enron.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'tom.bres@gs.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'david.minns@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'gschoen@frontierinvest.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'bccorplegal@email.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'lobaughl@niagaramohawk.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'l..wells@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'lauren.christie@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'hhu@mail.law.utexas.edu' tem grau de entrada e saída iguais: 1.
+ - O vértice 'hardie.davis@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'clafollette@kslaw.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'rob.bradley@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'rgreenberg@gpsolaw.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'michael.hicks@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'bkelly@ncsc.dni.us' tem grau de entrada e saída iguais: 1.
+ - O vértice 'l..bouillion@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'fatimapr@softcom.ca' tem grau de entrada e saída iguais: 1.
+ - O vértice 'peter.keohane@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'jvd024@hotmail.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'crogers@mail.smu.edu' tem grau de entrada e saída iguais: 1.
+ - O vértice 'vanessa.groscrand@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'bobg1@griesenbeck.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'jan_g1@hotmail.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'nell.browning@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'mattox@spahouston.org' tem grau de entrada e saída iguais: 1.
+ - O vértice 'ppien@elawforum.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'sberry@susmangodfrey.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'scott@hbb-law.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'rylanderj@home.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'judytucker@kslaw.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'rob.cole@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'elaine.overturf@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'demetris@publicans.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'ghkim@sk-enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'events@eyeforenergy.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'jo.williams@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'tim.johanson@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'connie.hook@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'lillian.villarreal@enron.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'mark.mcconnell@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'michelle.lokay@enron.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'morgan.gottsponer@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'lippmanc@aol.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'richard.hanagriff@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'patricia.steele@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'janet.butler@enron.com' tem grau de entrada e saída iguais: 3.
+ - O vértice 'kevin.hyatt@enron.com' tem grau de entrada e saída iguais: 5.
+ - O vértice 'r-8-724539-3371579-2-1232-us2-79556634@xmr3.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'lachandra.fenceroy@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'jeff.dasovich@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'perry.frazier@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'michael.ratner@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'jeanette.doll@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'josie.call@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'louis.soldano@enron.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'debbie.moseley@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'frank.oldenhuis@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'cindy.stark@enron.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'dorothy.mccoppin@enron.com' tem grau de entrada e saída iguais: 3.
+ - O vértice 'sharon.solon@enron.com' tem grau de entrada e saída iguais: 3.
+ - O vértice 'david.roensch@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'donna.martens@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'john.enerson@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'dhooker@caes.net' tem grau de entrada e saída iguais: 1.
+ - O vértice 'jean.mcfarland@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'mark.schroeder@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'jan.cobden@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'dloon@uschamber.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'judy.kudym@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'steve.klimesh@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'eric.benson@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'janet.cones@enron.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'd.smith@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'sue.neville@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'egert_steve@emc.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'maria.perales@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'sarabeth.smith@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'dschumeister@shearman.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'augie-alumnews@listserv.augie.edu' tem grau de entrada e saída iguais: 1.
+ - O vértice 'beverley.ashcroft@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'lee.ferrell@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'elena.chilkina@enron.com' tem grau de entrada e saída iguais: 2.
+ - O vértice 'elsa.piekielniak@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'jacqueline.richard@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'keith.considine@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'cgiron@mindspring.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'larry.hunter@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'john.valdes@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'roxanne.saldana@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'frank.jesus@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'bwallace@zahrsecurities.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'darnellmo@aol.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'irena.hogan@enron.com' tem grau de entrada e saída iguais: 1.
+ - O vértice 'patrick.mulvany@enron.com' tem grau de entrada e saída iguais: 1.
