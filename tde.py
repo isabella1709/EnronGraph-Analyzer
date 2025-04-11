@@ -207,7 +207,6 @@ for caminho in caminhos:
 
 grafo.save_adj_list("lista_de_adjacencias.txt")
 
-
 # PART 2
 
 def getOrder(graph):
@@ -223,9 +222,9 @@ print(f"Graph size: {getSize(grafo)}")
 def getIsolatedVertices(graph):
     count = 0
     for key in graph.graph:
-        if graph.graph[key] == []:
+        if (graph.degree(key) == 0):
             count +=1
-
+    
     return count
 
 print(f"Graph isolated vertices: {getIsolatedVertices(grafo)}\n")
