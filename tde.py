@@ -148,26 +148,20 @@ class Graph:
         return visited
 
 # PART 1
-
-
 path = "Amostra Enron - 2016/"
 caminhos = os.listdir(path)
-
 
 grafo = Graph()
 
 for caminho in caminhos:
-
     c = path + caminho + "/"
     caminhos2 = os.listdir(c)
 
     for caminho2 in caminhos2:
-        
         caminho3 = c + caminho2 + "/"
         arquivos = os.listdir(caminho3)
 
         for arquivo in arquivos:
-
             caminho_arquivo = caminho3 + arquivo
 
             if not os.path.isfile(caminho_arquivo):
@@ -175,44 +169,44 @@ for caminho in caminhos:
 
             with open(caminho_arquivo, "r") as a:
                 conteudo = a.read()
-
-            f = r'(?:From:)\s*([\w\.-]+@[\w\.-]+)'
-            to = r'(?:To:)\s*([\w\.-]+@[\w\.-]+)'
-
+           
+            f = r'(?:From:)\s([\w.-]+@[\w.-]+)'
             emails_from = re.findall(f, conteudo)
-            emails_to = re.findall(to, conteudo)
+            emails_to = []
+
+            to_pattern = r'To:(.*?)(?:\n\S|$)'
+            to_match = re.search(to_pattern, conteudo, re.DOTALL | re.IGNORECASE)
+
+            if to_match:
+                raw_destinatarios = to_match.group(1).replace('\n', ' ') 
+                candidatos = re.findall(r'[\w\.-]+@[\w\.-]+', raw_destinatarios)
+                emails_to = [email.lower() for email in candidatos]
 
             if emails_from and emails_to:
-                    remetente = emails_from[0].lower()
-                    # caso tenha vários emails de destinatarios separados por vírgula
-                    destinatarios = re.split(r'[,\s]+', emails_to[0])
-                    destinatarios_filtrados = []
+                remetente = emails_from[0].lower()
+                destinatarios = emails_to
 
-                    # filtrar somente emails validos
-                    for d in destinatarios:
-                        # se tiver um @ do email
-                        if "@" in d:
-                            # strip retira espaços extras
-                            d = d.strip().lower()
-                            destinatarios_filtrados.append(d)
+                destinatarios_filtrados = []
 
-                    destinatarios = destinatarios_filtrados
+                for d in destinatarios:
+                    if "@" in d:
+                        d = d.strip().lower()
+                        destinatarios_filtrados.append(d)
 
-                    # caso não tenha nenhum destinatário ignora o vértice
-                    if not destinatarios:
-                        continue
-
-                    # para cada um dos destinatários
-                    for destinatario in destinatarios:
-
-                        # Se já existir a aresta, incrementa o peso + 1
-                        if grafo.edge_exists(remetente, destinatario):
-                            peso_atual = grafo.get_weight(remetente, destinatario)
-                            grafo.add_edge(remetente, destinatario, peso_atual + 1)
-                        else:
-                            grafo.add_edge(remetente, destinatario, 1)
+                destinatarios = destinatarios_filtrados
+                
+                if not destinatarios:
+                    continue
+         
+                for destinatario in destinatarios:
+                    if grafo.edge_exists(remetente, destinatario):
+                        peso_atual = grafo.get_weight(remetente, destinatario)
+                        grafo.add_edge(remetente, destinatario, peso_atual + 1)
+                    else:
+                        grafo.add_edge(remetente, destinatario, 1)
 
 grafo.save_adj_list("lista_de_adjacencias.txt")
+
 
 # PART 2
 
@@ -469,3 +463,55 @@ print("É eureliano?" , resultado)
 
 # PART 4
 print(grafo.dijkstra_distancia('jons@amerexenergy.com', 1))
+
+# PART 5
+def dijkstra_diametro(grafo):
+    diametro = 0
+    caminho_mais_longo = []
+
+    for origem in grafo.graph:
+        visitados = [] 
+        custos = {no: [np.inf, None] for no in grafo.graph}  # innicializar como infinito e nó pai
+        custos[origem][0] = 0  #  comeca com custo 0 no nó de origem
+        fila = [(0, origem)]  # fila de prioridade (custo, nó)
+
+        while fila:
+            _, no_atual = heapq.heappop(fila)  # pega o nó com o menor custo
+            if no_atual not in visitados:
+                # pega todos os vizinhos do nó atual
+                vizinhos = [vizinho[0] for vizinho in grafo.graph[no_atual]]
+
+                for vizinho in vizinhos:
+                    if vizinho not in visitados:
+                        # calcula o custo acumulado até esse vizinho
+                        custo_acumulado = custos[no_atual][0] + grafo.get_weight(no_atual, vizinho)
+                        if custo_acumulado < custos[vizinho][0]:  # se novo custo < anterior, atualiza
+                            custos[vizinho][0] = custo_acumulado
+                            custos[vizinho][1] = no_atual
+                            heapq.heappush(fila, (custo_acumulado, vizinho))  # adiciona na fila
+
+                visitados.append(no_atual)
+
+        # pega menor caminho de todos os pontos para todos
+        # verifica qual é o maior menor caminho de todos
+        for destino in grafo.graph:
+            distancia = custos[destino][0]
+            if distancia != np.inf and distancia > diametro: 
+                diametro = distancia 
+
+                # reconstruir caminho até o destino para pegar todos os custos
+                caminho = []
+                atual = destino
+                while atual is not None:
+                    caminho.insert(0, atual)  # insere no início para formar o caminho na ordem certa
+                    atual = custos[atual][1]  # vai para o pai do atual
+                caminho_mais_longo = caminho  # atualiza o caminho mais longo encontrado
+
+    return diametro, caminho_mais_longo
+
+diametro, caminho = dijkstra_diametro(grafo)
+print(f"Diâmetro do grafo: {diametro}")
+print("Caminho mais longo (menor caminho mais longo):")
+for v in caminho:
+    print("->", v)
+
