@@ -149,7 +149,7 @@ class Graph:
 
 # PART 1
 path = "Amostra Enron - 2016/"
-caminhos = os.listdir(path)
+caminhos = os.listdir(path) 
 
 grafo = Graph()
 
@@ -164,40 +164,53 @@ for caminho in caminhos:
         for arquivo in arquivos:
             caminho_arquivo = caminho3 + arquivo
 
+            # Verifica se é realmente um arquivo (ignora diretórios)
             if not os.path.isfile(caminho_arquivo):
                 continue
 
+            # Abre e lê o conteúdo do arquivo
             with open(caminho_arquivo, "r") as a:
                 conteudo = a.read()
            
+            # Encontrar o e-mail do remetente
             f = r'(?:From:)\s([\w.-]+@[\w.-]+)'
-            emails_from = re.findall(f, conteudo)
-            emails_to = []
+            remetentes = re.findall(f, conteudo)
+            
+            # Encontrar a lista de destinatários
+            to = r'To:(.*?)(?:\n\S|$)'
+            busca_destinatarios = re.search(to, conteudo, re.DOTALL)
+                                                    # o dotall serve para não parar em quebras de linhas
 
-            to_pattern = r'To:(.*?)(?:\n\S|$)'
-            to_match = re.search(to_pattern, conteudo, re.DOTALL | re.IGNORECASE)
+            if busca_destinatarios:
+                # Substitui quebras de linha por espaço e extrai os e-mails
+                linha_to = busca_destinatarios.group(1).replace('\n', ' ') 
+                emails = re.findall(r'[\w\.-]+@[\w\.-]+', linha_to)
 
-            if to_match:
-                raw_destinatarios = to_match.group(1).replace('\n', ' ') 
-                candidatos = re.findall(r'[\w\.-]+@[\w\.-]+', raw_destinatarios)
-                emails_to = [email.lower() for email in candidatos]
+                # padronizar tudo minusculo
+                emails_to = []
+                for email in emails:
+                    emails_to.append(email.lower())
 
-            if emails_from and emails_to:
-                remetente = emails_from[0].lower()
+            # Só entra se tiver remetente e pelo menos um destinatário
+            if remetentes and emails_to:
+                remetente = remetentes[0].lower()
                 destinatarios = emails_to
 
                 destinatarios_filtrados = []
 
+                # Filtra destinatários válidos (com @ e sem espaços desnecessários)
                 for d in destinatarios:
                     if "@" in d:
-                        d = d.strip().lower()
+                        d = d.strip()
                         destinatarios_filtrados.append(d)
 
                 destinatarios = destinatarios_filtrados
                 
+                # Ignora se não sobrou nenhum destinatário válido
                 if not destinatarios:
                     continue
          
+                # Atualiza o grafo com as arestas
                 for destinatario in destinatarios:
                     if grafo.edge_exists(remetente, destinatario):
                         peso_atual = grafo.get_weight(remetente, destinatario)
