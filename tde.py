@@ -36,12 +36,12 @@ class Graph:
 
     def enter_degree(self, u):
         if self.node_exists(u):
-          count = 0
-          for v in self.graph:
-              for edge in self.graph[v]:
-                  if edge[0] == u:
-                      count += 1
-          return count
+            count = 0
+            for v in self.graph:
+                for edge in self.graph[v]:
+                    if edge[0] == u:
+                        count += 1
+            return count
         else:
             return None
 
@@ -119,33 +119,8 @@ class Graph:
             print(f"Node {v} cannot be removed")
             
     def get_adjacent(self, node):
-        return [item[0] for item in self.graph[node]]
+        return [item[0] for item in self.graph[node]] # retorna todos vértices adjacentes / vizinhos
 
-
-    def dijkstra_distancia(self, source_node, d):
-        visited = [] # lista de vértices visitados
-        costs = {node: [np.inf, None] for node in self.graph}  # custo acumulado dos vértices
-        costs[source_node][0] = 0
-        heap = [(0, source_node)]  # fila de prioridade => (distância, vértice)
-
-        # enquanto a fila não estiver vazia
-        while heap:
-            _, current_node = heapq.heappop(heap) # retorna elemento com o menor custo!
-            if current_node not in visited:
-                adjacent_nodes = self.get_adjacent(current_node)
-                # vértices adjacentes do vértice atual
-                for adj in adjacent_nodes:
-                    if adj not in visited:
-                        # custo acumulado do vértice atual até o adj
-                        accumulated_cost = costs[current_node][0] + self.get_weight(current_node, adj)
-                        # atualiza o custo e vértice de origem se o custo calculado for menor
-                        if accumulated_cost < costs[adj][0]:
-                            costs[adj][0] = accumulated_cost
-                            costs[adj][1] = current_node
-                            if costs[adj][0] <= d: # se dentro da distância D
-                                heapq.heappush(heap, (accumulated_cost, adj)) # adiciona na fila
-                visited.append(current_node) # coloca como visitado
-        return visited
 
 # PART 1
 path = "Amostra Enron - 2016/"
@@ -350,7 +325,32 @@ resultado = euleriano(grafo)
 print("É euleriano?" , resultado)
 
 # PART 4
-print(grafo.dijkstra_distancia('jons@amerexenergy.com', 1))
+def dijkstra_distancia(grafo, source_node, d):
+        visited = [] # lista de vértices visitados
+        costs = {node: [np.inf, None] for node in grafo.graph}  # custo acumulado dos vértices
+        costs[source_node][0] = 0
+        heap = [(0, source_node)]  # fila de prioridade => (distância, vértice)
+
+        # enquanto a fila não estiver vazia
+        while heap:
+            _, current_node = heapq.heappop(heap) # retorna elemento com o menor custo!
+            if current_node not in visited:
+                adjacent_nodes = grafo.get_adjacent(current_node)
+                # vértices adjacentes do vértice atual
+                for adj in adjacent_nodes:
+                    if adj not in visited:
+                        # custo acumulado do vértice atual até o adj
+                        accumulated_cost = costs[current_node][0] + grafo.get_weight(current_node, adj)
+                        # atualiza o custo e vértice de origem se o custo calculado for menor
+                        if accumulated_cost < costs[adj][0]:
+                            costs[adj][0] = accumulated_cost
+                            costs[adj][1] = current_node
+                            if costs[adj][0] <= d: # se dentro da distância D
+                                heapq.heappush(heap, (accumulated_cost, adj)) # adiciona na fila
+                visited.append(current_node) # coloca como visitado
+        return visited
+
+print(dijkstra_distancia(grafo, 'jons@amerexenergy.com', 1))
 
 # PART 5
 def dijkstra_diametro(grafo):
@@ -367,7 +367,7 @@ def dijkstra_diametro(grafo):
             _, no_atual = heapq.heappop(fila)  # pega o nó com o menor custo
             if no_atual not in visitados:
                 # pega todos os vizinhos do nó atual
-                vizinhos = [vizinho[0] for vizinho in grafo.graph[no_atual]]
+                vizinhos = grafo.get_adjacent(no_atual)
 
                 for vizinho in vizinhos:
                     if vizinho not in visitados:
